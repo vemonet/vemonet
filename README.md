@@ -1,5 +1,3 @@
-![My github stats](https://github-readme-stats.vercel.app/api?username=vemonet&show_icons=true)
-
 ### Projects I am currently working on
 
 * [**🔮🐍 Translator OpenPredict**](https://maastrichtu-ids.github.io/translator-openpredict/)    
@@ -10,6 +8,9 @@
   * setting up an OpenShift cluster to run Data Science jobs, and providing support to run any type of jobs
 * **[🐳 Data2Services](https://d2s.semanticscience.org)**
   * A Command Line Interface to orchestrate the deployment of RDF Knowledge Graphs built from heterogenous data sources
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=vemonet&show_icons=true)
+
 
 <!--
 Create table:
