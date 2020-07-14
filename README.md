@@ -1,8 +1,4 @@
-<table><tr><td valign="top">
-
 ![My github stats](https://github-readme-stats.vercel.app/api?username=vemonet&show_icons=true)
-
-</td><td valign="top">
 
 ### Projects I am currently working on
 
@@ -15,9 +11,14 @@
 * **[🐳 Data2Services](https://d2s.semanticscience.org)**
   * A Command Line Interface to orchestrate the deployment of RDF Knowledge Graphs built from heterogenous data sources
 
+<!--
+Create table:
+<table><tr><td valign="top">
+1st column
+</td><td valign="top">
+2nd column
 </td></tr></table>
 
-<!--
 **vemonet/vemonet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
