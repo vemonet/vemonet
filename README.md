@@ -9,10 +9,8 @@
 * **[🐳 Data2Services](https://d2s.semanticscience.org)**
   * A Command Line Interface to orchestrate the deployment of RDF Knowledge Graphs built from heterogenous data sources
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=vemonet&show_icons=true)
-
-
 <!--
+![My github stats](https://github-readme-stats.vercel.app/api?username=vemonet&show_icons=true)
 Create table:
 <table><tr><td valign="top">
 1st column
