@@ -166,8 +166,10 @@ if __name__ == "__main__":
     # contributions.sort(key=lambda r: r["published_at"], reverse=True)
     contributions_md = "\n".join(
         [
-            "* [{nameWithOwner}]({url}) - {description}"
-            for contributions in contributions[:10]
+            (
+                "* [{nameWithOwner}]({url}) - {description}"
+            ).format(**contribution)
+            for contribution in contributions[:10]
         ]
     )
     rewritten = replace_chunk(rewritten, "contributions", contributions_md)
