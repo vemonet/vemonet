@@ -49,6 +49,11 @@
 
 [![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=vemonet&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[**Publications on Google Scholar 🎓**](https://scholar.google.com/citations?hl=en&user=G59f3woAAAAJ&sortby=pubdate)
+
+[**Contact me on Gitter 📬**](https://gitter.im/vemonet)
+
+
 <a href="https://github.com/vemonet/vemonet/actions"><img src="https://github.com/vemonet/vemonet/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a> <a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">Based on simonw self-updating README</a>
 
 
@@ -62,10 +67,6 @@ Create table:
 </td><td valign="top">
 2nd column
 </td></tr></table>
-
-**vemonet/vemonet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
