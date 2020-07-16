@@ -41,7 +41,7 @@
 * [amalic/Jupyterlab](https://github.com/amalic/Jupyterlab) - Jupyterlab Docker image running as root user with useful extensions and dark theme
 * [dwslab/jRDF2Vec](https://github.com/dwslab/jRDF2Vec) - A high-performance Java Implementation of RDF2Vec
 * [NCATS-Tangerine/translator-testing-framework](https://github.com/NCATS-Tangerine/translator-testing-framework) - A testing framework for Translator using tests written in Behave
-* [MaastrichtU-IDS/data2services-pipeline](https://github.com/MaastrichtU-IDS/data2services-pipeline) - DEPRECATED. See http://d2s.semanticscience.org
+* [comunica/jQuery-Widget.js](https://github.com/comunica/jQuery-Widget.js) - 🖼 A jQuery widget to query heterogeneous interfaces using Comunica SPARQL
 <!-- contributions ends -->
 
 </td></tr></table>
