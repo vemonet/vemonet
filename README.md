@@ -19,7 +19,7 @@
 
 </td><td valign="top" width="50%">
 
-### Recent releases 🏷️
+### Releases 🏷️
 <!-- recent_releases starts -->
 * [objmpp-classification Version 0.0.4](https://github.com/JEmonet67/objmpp-classification/releases/tag/0.0.4) - 2020-07-10
 * [sparql-operations-action First release of](https://github.com/vemonet/sparql-operations-action/releases/tag/v1) - 2020-06-10
@@ -27,7 +27,7 @@
 * [yarrrml-parser YARRRML Parser GitHub Action for v1.1](https://github.com/vemonet/yarrrml-parser/releases/tag/v1.1) - 2020-06-01
 * [rmlmapper-java Action for rmlmapper v4.8.0](https://github.com/vemonet/rmlmapper-java/releases/tag/v4.8) - 2020-05-29
 <!-- recent_releases ends -->
-See [all releases](https://github.com/vemonet/vemonet/blob/master/releases.md)
+<!-- See [all releases](https://github.com/vemonet/vemonet/blob/master/releases.md) -->
 
 ### Contributions 🧞
 <!-- contributions starts -->
