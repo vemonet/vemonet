@@ -12,7 +12,8 @@ See [all releases](https://github.com/vemonet/vemonet/blob/main/releases.md)
   * building machine learning model to predict new Drug-Targets association using the PREDICT method for the [NCATS Translator project](https://ncats.nih.gov/translator).
 * [**🔬 📢 Nanopublications and the Knowledge Collaboratory**](http://nanopub.org/wordpress/)
   * exploring the use of Nanopublications to build a knowledge graph of scientific claims.
-* [**🚜 🌾 Eureka project**](https://h2020eureka.eu/about): EU-funded projects that aim to strengthen and improve the flow of agricultural and rural-related knowledge and innovation at European, national and regional level by deploying a digital repository for European agronomical resources.
+* [**🚜 🌾 Eureka project**](https://h2020eureka.eu/about): 
+  * EU-funded projects that aim to a digital repository for European agronomical resources.
 * **[🔭 The Data Science Research Infrastructure](https://maastrichtu-ids.github.io/dsri-documentation/)**
   * setting up an OpenShift cluster to run Data Science jobs, and providing support to run any type of jobs
 * **[🐳 Data2Services](https://d2s.semanticscience.org)**
