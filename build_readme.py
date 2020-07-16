@@ -122,7 +122,7 @@ def fetch_contributions(oauth_token):
         contributions.append(
             {
                 "nameWithOwner": repo["nameWithOwner"],
-                "repo_url": repo["url"],
+                "url": repo["url"],
                 "description": repo["description"]
             }
         )
