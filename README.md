@@ -7,15 +7,16 @@
   * based on generic SPARQL queries, supports [graphs](https://www.w3.org/TR/sparql11-query/#unnamedGraph), and [HCLS descriptive metadata](https://www.w3.org/TR/hcls-dataset/)
   * settings can easily be changed in the browser without login ⚙️
 * [**🔮🐍 Translator OpenPredict**](https://maastrichtu-ids.github.io/translator-openpredict/)    
-  * building machine learning model to predict new Drug-Targets association using the PREDICT method for the [NCATS Translator project](https://ncats.nih.gov/translator).
+  * build machine learning model to predict new Drug-Targets association using the PREDICT method for the [NCATS Translator project](https://ncats.nih.gov/translator).
 * [**🔬📢 Nanopublications and the Knowledge Collaboratory**](http://nanopub.org/wordpress/)
-  * exploring the use of Nanopublications to build a knowledge graph of scientific claims.
-* [**🚜🌾 Eureka project**](https://h2020eureka.eu/about) 
-  * EU-funded projects that aim to a digital repository for European agronomical resources.
+  * explore the use of Nanopublications to build a knowledge graph of scientific claims.
+* [**🚜🌾 Eureka project**](https://h2020eureka.eu/about)
+  * design a digital repository for European agronomical resources
+  * EU-funded projects that aim to strengthen and improve the flow of agricultural and rural-related knowledge and innovation in the EU
 * **[🐳🔭 The Data Science Research Infrastructure](https://maastrichtu-ids.github.io/dsri-documentation/)**
-  * setting up an OpenShift cluster to run Data Science jobs, and providing support to run any type of jobs
+  * set up deployments and documentation of the DSRI OpenShift cluster to run Data Science jobs, and providing support to run any type of workload or services
 * **[🕸️🐳 Data2Services](https://d2s.semanticscience.org)**
-  * A Command Line Interface to orchestrate the deployment of RDF Knowledge Graphs built from heterogenous data sources
+  * a Command Line Interface to orchestrate the deployment of RDF Knowledge Graphs built from heterogenous structured data sources
 
 </td><td valign="top" width="50%">
 
