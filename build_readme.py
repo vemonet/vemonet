@@ -119,13 +119,15 @@ def fetch_contributions(oauth_token):
         headers={"Authorization": "Bearer {}".format(oauth_token)},
     )
     for repo in data["data"]["viewer"]["repositoriesContributedTo"]["nodes"]:
-        contributions.append(
-            {
-                "nameWithOwner": repo["nameWithOwner"],
-                "url": repo["url"],
-                "description": repo["description"]
-            }
-        )
+        # Do not take MaastrichtU-IDS repos 
+        if repo['owner']['id'] != 'MDEyOk9yZ2FuaXphdGlvbjM2MjYyNTI2':
+            contributions.append(
+                {
+                    "nameWithOwner": repo["nameWithOwner"],
+                    "url": repo["url"],
+                    "description": repo["description"]
+                }
+            )
     return contributions
 
 
