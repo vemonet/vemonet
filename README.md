@@ -30,7 +30,7 @@
 <!-- recent_releases ends -->
 <!-- See [all releases](https://github.com/vemonet/vemonet/blob/master/releases.md) -->
 
-### Contributions 🧞
+### Contributions to Open Source 🧞
 <!-- contributions starts -->
 * [protegeproject/webprotege](https://github.com/protegeproject/webprotege) - The webprotege code base
 * [perma-id/w3id.org](https://github.com/perma-id/w3id.org) - Website source code for w3id.org
@@ -47,6 +47,28 @@
 
 </td></tr></table>
 
+<table><tr><td valign="top" width="50%">
+
+### Currently maintain deployment of 📢
+* [⚕️ Bio2RDF](https://bio2rdf.org/)
+* [✔️ FAIR Evaluator](https://fair-evaluator.semanticscience.org/FAIR_Evaluator/)
+* [🔬 Dumontierlab Nanopubs services](http://grlc.np.dumontierlab.com/api/local/local/)
+* [🌐 GraphDB dumontierlab.com](https://graphdb.dumontierlab.com/)
+
+
+</td><td valign="top" width="50%">
+
+### Previous projects 📜
+* [🌾 AgroPortal](http://agroportal.lirmm.fr/)
+* [📝 BioPortal Annotator+](https://bioportal.bioontology.org/annotatorplus)
+* [🎯 Yam++ Online ontology matcher](http://yamplusplus.lirmm.fr/)
+* [🐧 ADVANSE web services](http://advanse.lirmm.fr)
+* [🗜️ Talend ETL components for the Semantic Web](https://github.com/vemonet/talend4sw)
+
+</td></tr></table>
+
+
+
 [![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=vemonet&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [**Publications on Google Scholar 🎓**](https://scholar.google.com/citations?hl=en&user=G59f3woAAAAJ&sortby=pubdate)
@@ -54,7 +76,7 @@
 [**Contact me on Gitter 📬**](https://gitter.im/vemonet)
 
 
-<a href="https://github.com/vemonet/vemonet/actions"><img src="https://github.com/vemonet/vemonet/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a> <a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">Based on simonw self-updating README</a>
+<a href="https://github.com/vemonet/vemonet/actions"><img src="https://github.com/vemonet/vemonet/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a> <a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">Shamelessly built on simonw self-updating README</a>
 
 
 <!--
