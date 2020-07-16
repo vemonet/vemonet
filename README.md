@@ -32,7 +32,9 @@ See [all releases](https://github.com/vemonet/vemonet/blob/master/releases.md)
 
 
 <!--
-![My github stats](https://github-readme-stats.vercel.app/api?username=vemonet&show_icons=true)
+Personal stats API (not working):
+[![Vincent's GitHub stats](https://github-readme-stats-sage.vercel.app/api?username=vemonet&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 Create table:
 <table><tr><td valign="top">
 1st column
