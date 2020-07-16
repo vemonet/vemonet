@@ -12,7 +12,7 @@
   * explore the use of Nanopublications to build a knowledge graph of scientific claims.
 * [**🚜🌾 Eureka project**](https://h2020eureka.eu/about)
   * design a digital repository for European agronomical resources
-  * EU-funded projects that aim to strengthen and improve the flow of agricultural and rural-related knowledge and innovation in the EU
+  * EU-funded projects that aim to improve the flow of agricultural and rural knowledge
 * **[🐳🔭 The Data Science Research Infrastructure](https://maastrichtu-ids.github.io/dsri-documentation/)**
   * set up deployments and documentation of the DSRI OpenShift cluster to run Data Science jobs, and providing support to run any type of workload or services
 * **[🕸️🐳 Data2Services](https://d2s.semanticscience.org)**
