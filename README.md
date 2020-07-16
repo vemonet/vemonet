@@ -1,17 +1,20 @@
 <table><tr><td valign="top" width="50%">
 
 ### Projects I am currently working on 📂
-* [**🧭🌐 into-the-graph**](https://github.com/MaastrichtU-IDS/into-the-graph) accessible at [trek.semanticscience.org](https://trek.semanticscience.org)
-  * Visualize and browse the content of any SPARQL endpoints, based on generic SPARQL queries, supporting graphs, and HCLS descriptive metadata. Settings can easily be changed in the browser without login.
+* [**🧭🌐 into-the-graph**](https://github.com/MaastrichtU-IDS/into-the-graph)
+  * accessible at [trek.semanticscience.org](https://trek.semanticscience.org)
+  * visualize and browse the content of any SPARQL endpoints, based on generic SPARQL queries
+  * supports graphs, and HCLS descriptive metadata. 
+  * settings can easily be changed in the browser without login.
 * [**🔮🐍 Translator OpenPredict**](https://maastrichtu-ids.github.io/translator-openpredict/)    
   * building machine learning model to predict new Drug-Targets association using the PREDICT method for the [NCATS Translator project](https://ncats.nih.gov/translator).
-* [**🔬 📢 Nanopublications and the Knowledge Collaboratory**](http://nanopub.org/wordpress/)
+* [**🔬📢 Nanopublications and the Knowledge Collaboratory**](http://nanopub.org/wordpress/)
   * exploring the use of Nanopublications to build a knowledge graph of scientific claims.
-* [**🚜 🌾 Eureka project**](https://h2020eureka.eu/about) 
+* [**🚜🌾 Eureka project**](https://h2020eureka.eu/about) 
   * EU-funded projects that aim to a digital repository for European agronomical resources.
-* **[🔭 The Data Science Research Infrastructure](https://maastrichtu-ids.github.io/dsri-documentation/)**
+* **[🐳🔭 The Data Science Research Infrastructure](https://maastrichtu-ids.github.io/dsri-documentation/)**
   * setting up an OpenShift cluster to run Data Science jobs, and providing support to run any type of jobs
-* **[🐳 Data2Services](https://d2s.semanticscience.org)**
+* **[🕸️🐳 Data2Services](https://d2s.semanticscience.org)**
   * A Command Line Interface to orchestrate the deployment of RDF Knowledge Graphs built from heterogenous data sources
 
 </td><td valign="top" width="50%">
