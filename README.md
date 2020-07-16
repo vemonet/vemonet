@@ -3,9 +3,9 @@
 ### Projects I am currently working on 📂
 * [**🧭🌐 into-the-graph**](https://github.com/MaastrichtU-IDS/into-the-graph)
   * accessible at [trek.semanticscience.org](https://trek.semanticscience.org)
-  * visualize and browse the content of any SPARQL endpoints 🧞
-  * based on generic SPARQL queries, supports [graphs](https://www.w3.org/TR/sparql11-query/#unnamedGraph), and [HCLS descriptive metadata](https://www.w3.org/TR/hcls-dataset/).
-  * settings can easily be changed in the browser without login.
+  * visualize and browse the content of any SPARQL endpoints
+  * based on generic SPARQL queries, supports [graphs](https://www.w3.org/TR/sparql11-query/#unnamedGraph), and [HCLS descriptive metadata](https://www.w3.org/TR/hcls-dataset/)
+  * settings can easily be changed in the browser without login ⚙️
 * [**🔮🐍 Translator OpenPredict**](https://maastrichtu-ids.github.io/translator-openpredict/)    
   * building machine learning model to predict new Drug-Targets association using the PREDICT method for the [NCATS Translator project](https://ncats.nih.gov/translator).
 * [**🔬📢 Nanopublications and the Knowledge Collaboratory**](http://nanopub.org/wordpress/)
