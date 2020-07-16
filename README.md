@@ -31,7 +31,16 @@ See [all releases](https://github.com/vemonet/vemonet/blob/master/releases.md)
 
 ### Contributions 🧞
 <!-- contributions starts -->
-Processing...
+* [{nameWithOwner}]({url}) - {description}
+* [{nameWithOwner}]({url}) - {description}
+* [{nameWithOwner}]({url}) - {description}
+* [{nameWithOwner}]({url}) - {description}
+* [{nameWithOwner}]({url}) - {description}
+* [{nameWithOwner}]({url}) - {description}
+* [{nameWithOwner}]({url}) - {description}
+* [{nameWithOwner}]({url}) - {description}
+* [{nameWithOwner}]({url}) - {description}
+* [{nameWithOwner}]({url}) - {description}
 <!-- contributions ends -->
 
 </td></tr></table>
