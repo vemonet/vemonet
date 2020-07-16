@@ -1,6 +1,8 @@
 <table><tr><td valign="top" width="50%">
 
-### Projects I am currently working on
+### Projects I am currently working on 📂
+* [**🧭🌐 into-the-graph**](https://github.com/MaastrichtU-IDS/into-the-graph) accessible at [trek.semanticscience.org](https://trek.semanticscience.org)
+  * Visualize and browse the content of any SPARQL endpoints, based on generic SPARQL queries, supporting graphs, and HCLS descriptive metadata. Settings can easily be changed in the browser without login.
 * [**🔮🐍 Translator OpenPredict**](https://maastrichtu-ids.github.io/translator-openpredict/)    
   * building machine learning model to predict new Drug-Targets association using the PREDICT method for the [NCATS Translator project](https://ncats.nih.gov/translator).
 * [**🔬 📢 Nanopublications and the Knowledge Collaboratory**](http://nanopub.org/wordpress/)
@@ -14,7 +16,7 @@
 
 </td><td valign="top" width="50%">
 
-### Recent releases
+### Recent releases 🏷️
 <!-- recent_releases starts -->
 * [objmpp-classification Version 0.0.4](https://github.com/JEmonet67/objmpp-classification/releases/tag/0.0.4) - 2020-07-10
 * [sparql-operations-action First release of](https://github.com/vemonet/sparql-operations-action/releases/tag/v1) - 2020-06-10
