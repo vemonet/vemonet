@@ -1,16 +1,5 @@
 <table><tr><td valign="top" width="50%">
 
-### Recent releases
-<!-- recent_releases starts -->
-* [objmpp-classification Version 0.0.4](https://github.com/JEmonet67/objmpp-classification/releases/tag/0.0.4) - 2020-07-10
-* [sparql-operations-action First release of](https://github.com/vemonet/sparql-operations-action/releases/tag/v1) - 2020-06-10
-* [jena-riot-action GitHub Action for Jena riot v3.14](https://github.com/vemonet/jena-riot-action/releases/tag/v3.14) - 2020-06-03
-* [yarrrml-parser YARRRML Parser GitHub Action for v1.1](https://github.com/vemonet/yarrrml-parser/releases/tag/v1.1) - 2020-06-01
-* [rmlmapper-java Action for rmlmapper v4.8.0](https://github.com/vemonet/rmlmapper-java/releases/tag/v4.8) - 2020-05-29
-<!-- recent_releases ends -->
-See [all releases](https://github.com/vemonet/vemonet/blob/main/releases.md)
-</td><td valign="top" width="50%">
-
 ### Projects I am currently working on
 * [**🔮🐍 Translator OpenPredict**](https://maastrichtu-ids.github.io/translator-openpredict/)    
   * building machine learning model to predict new Drug-Targets association using the PREDICT method for the [NCATS Translator project](https://ncats.nih.gov/translator).
@@ -22,6 +11,14 @@ See [all releases](https://github.com/vemonet/vemonet/blob/main/releases.md)
   * setting up an OpenShift cluster to run Data Science jobs, and providing support to run any type of jobs
 * **[🐳 Data2Services](https://d2s.semanticscience.org)**
   * A Command Line Interface to orchestrate the deployment of RDF Knowledge Graphs built from heterogenous data sources
+
+</td><td valign="top" width="50%">
+
+### Recent releases
+<!-- recent_releases starts -->
+Processing...
+<!-- recent_releases ends -->
+See [all releases](https://github.com/vemonet/vemonet/blob/master/releases.md)
 
 </td></tr></table>
 
