@@ -99,16 +99,17 @@ def fetch_contributions(oauth_token):
     query { 
         viewer {
             repositoriesContributedTo(first: 100, contributionTypes: [COMMIT], orderBy:{field: STARGAZERS, direction: DESC}) {
-            totalCount
-            nodes {
-                nameWithOwner
-                url
-                description
-            }
-            pageInfo {
-                endCursor
-                hasNextPage
-            }
+                totalCount
+                nodes {
+                    nameWithOwner
+                    url
+                    description
+                    owner { id }
+                }
+                pageInfo {
+                    endCursor
+                    hasNextPage
+                }
             }
         }
     }
