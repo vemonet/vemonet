@@ -76,7 +76,7 @@
 [**Contact me on Gitter 📬**](https://gitter.im/vemonet)
 
 
-<a href="https://github.com/vemonet/vemonet/actions"><img src="https://github.com/vemonet/vemonet/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a> <a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">Shamelessly built on simonw self-updating README</a>
+<a href="https://github.com/vemonet/vemonet/actions"><img src="https://github.com/vemonet/vemonet/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a> <a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">Built on simonw self-updating README</a>
 
 
 <!--
