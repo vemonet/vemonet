@@ -29,6 +29,11 @@
 <!-- recent_releases ends -->
 See [all releases](https://github.com/vemonet/vemonet/blob/master/releases.md)
 
+### Contributions 🧞
+<!-- contributions starts -->
+Processing...
+<!-- contributions ends -->
+
 </td></tr></table>
 
 [![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=vemonet&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)

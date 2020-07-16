@@ -94,6 +94,41 @@ def fetch_releases(oauth_token):
     return releases
 
 
+def fetch_contributions(oauth_token):
+    graphql_get_contributions = """
+    query { 
+        viewer {
+            repositoriesContributedTo(first: 100, contributionTypes: [COMMIT], orderBy:{field: STARGAZERS, direction: DESC}) {
+            totalCount
+            nodes {
+                nameWithOwner
+                url
+                description
+            }
+            pageInfo {
+                endCursor
+                hasNextPage
+            }
+            }
+        }
+    }
+    """
+    contributions = []
+    data = client.execute(
+        query=graphql_get_contributions,
+        headers={"Authorization": "Bearer {}".format(oauth_token)},
+    )
+    for repo in data["data"]["viewer"]["repositoriesContributedTo"]["nodes"]:
+        contributions.append(
+            {
+                "nameWithOwner": repo["nameWithOwner"],
+                "repo_url": repo["url"],
+                "description": repo["description"]
+            }
+        )
+    return contributions
+
+
 if __name__ == "__main__":
     readme = root / "README.md"
     project_releases = root / "releases.md"
@@ -126,6 +161,16 @@ if __name__ == "__main__":
         project_releases_content, "release_count", str(len(releases)), inline=True
     )
     project_releases.open("w").write(project_releases_content)
+
+    contributions = fetch_contributions(TOKEN)
+    # contributions.sort(key=lambda r: r["published_at"], reverse=True)
+    contributions_md = "\n".join(
+        [
+            "* [{nameWithOwner}]({url}) - {description}"
+            for contributions in contributions[:10]
+        ]
+    )
+    rewritten = replace_chunk(rewritten, "contributions", contributions_md)
 
     # tils = fetch_tils()
     # tils_md = "\n".join(
