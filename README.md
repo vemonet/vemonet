@@ -26,7 +26,6 @@ See [all releases](https://github.com/vemonet/vemonet/blob/master/releases.md)
 
 </td></tr></table>
 
-https://github-readme-stats.vercel.app/api?username=vemonet&show_icons=true
 [![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=vemonet&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/vemonet/vemonet/actions"><img src="https://github.com/vemonet/vemonet/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a> <a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">Based on simonw self-updating README</a>
