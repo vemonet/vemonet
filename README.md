@@ -14,7 +14,8 @@
   * design a digital repository for European agronomical resources
   * EU-funded projects that aim to improve the flow of agricultural and rural knowledge
 * **[🐳🔭 The Data Science Research Infrastructure](https://maastrichtu-ids.github.io/dsri-documentation/)**
-  * set up deployments and documentation of the DSRI OpenShift cluster to run Data Science jobs, and providing support to run any type of workload or services
+  * set up deployments and documentation of the DSRI OpenShift cluster to run Data Science jobs
+  * provide support to Maastricht University researchers to run any type of workload or services on Kubernetes/OpenShift
 * **[🕸️🐳 Data2Services](https://d2s.semanticscience.org)**
   * a Command Line Interface to orchestrate the deployment of RDF Knowledge Graphs built from heterogenous structured data sources
 
@@ -51,6 +52,7 @@
 
 ### Currently maintain deployment of 📢
 * [⚕️ Bio2RDF](https://bio2rdf.org/)
+* [🔗 SemanticScience ontology website](https://semanticscience.org)
 * [✔️ FAIR Evaluator](https://fair-evaluator.semanticscience.org/FAIR_Evaluator/)
 * [🔬 Dumontierlab Nanopubs services](http://grlc.np.dumontierlab.com/api/local/local/)
 * [🌐 GraphDB dumontierlab.com](https://graphdb.dumontierlab.com/)
