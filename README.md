@@ -53,7 +53,7 @@
 ### Currently maintain deployment of 📢
 * [⚕️ Bio2RDF](https://bio2rdf.org/)
 * [🔗 SemanticScience ontology website](https://semanticscience.org)
-* [✔️ FAIR Evaluator](https://fair-evaluator.semanticscience.org/FAIR_Evaluator/)
+* [⚖️ FAIR Evaluator](https://fair-evaluator.semanticscience.org/FAIR_Evaluator/)
 * [🔬 Dumontierlab Nanopubs services](http://grlc.np.dumontierlab.com/api/local/local/)
 * [🌐 GraphDB dumontierlab.com](https://graphdb.dumontierlab.com/)
 
