@@ -45,9 +45,9 @@
 * [NCATSTranslator/NCATSTranslator.github.io](https://github.com/NCATSTranslator/NCATSTranslator.github.io) - None
 <!-- contributions ends -->
 
-</td></tr></table>
+</td></tr>
 
-<table><tr><td valign="top" width="50%">
+<tr><td valign="top" width="50%">
 
 ### Currently maintain deployment of 📢
 * [⚕️ Bio2RDF](https://bio2rdf.org/)
