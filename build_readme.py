@@ -1,6 +1,7 @@
 from python_graphql_client import GraphqlClient
-import feedparser
-import httpx
+import requests
+import csv
+from rdflib import Graph
 import json
 import pathlib
 import re
@@ -176,6 +177,40 @@ if __name__ == "__main__":
         ]
     )
     rewritten = replace_chunk(rewritten, "contributions", contributions_md)
+
+
+    ### Get all my nanopublications
+
+    # curl -X GET "http://grlc.nanopubs.lod.labs.vu.nl/api/local/local/find_signed_nanopubs?pubkey=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCR9fz0fKCdWOWC%2BpxhkQhEM%2FppbdIYe5TLSdj%2BlJzSlv9mYBaPgrzVezSwwbmhlHBPDZa4%2FvHycU315BdmUGq%2BpXllp9%2BrWFfrb%2BkBJwhZjpG6BeyyXBsRFz4jmQVxl%2FZYHilQTh%2FXalYzKkEAyTiEMPee4Kz61PaWOKH24CsnOQIDAQAB" -H  "accept: text/csv"
+    # nanopubs_request = requests.get('http://grlc.nanopubs.lod.labs.vu.nl/api/local/local/find_signed_nanopubs?pubkey=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCR9fz0fKCdWOWC%2BpxhkQhEM%2FppbdIYe5TLSdj%2BlJzSlv9mYBaPgrzVezSwwbmhlHBPDZa4%2FvHycU315BdmUGq%2BpXllp9%2BrWFfrb%2BkBJwhZjpG6BeyyXBsRFz4jmQVxl%2FZYHilQTh%2FXalYzKkEAyTiEMPee4Kz61PaWOKH24CsnOQIDAQAB', 
+    #         headers={"accept": "text/csv"})
+    
+    # print(nanopubs_request.content)
+    # nanopubs_csv = csv.reader(nanopubs_request, delimiter=',')
+    # graph = Graph()
+    # line_count = 0
+    # for row in nanopubs_csv:
+    #     if line_count == 0:
+    #         print(f'Column names are {", ".join(row)}')
+    #         line_count += 1
+    #     else:
+    #         print('Getting nanopub: ' + row[0])
+    #         nanopubs_request = requests.get(row[0], headers={"accept": "text/x-nquads"})
+    #         nanopubs_request.content
+    #         graph.parse(nanopubs_request.content, format="nquads")
+    #         print(len(graph))
+    #         # nanopubs_request = requests.get('http://purl.org/np/RAc99KPv1qM3J6tyIpYRY3yh1LR5u15FwByJ78-k4Ix6E', headers={"accept": "text/x-nquads"})
+    #         line_count += 1
+
+    # graph.parse('http://purl.org/np/RAc99KPv1qM3J6tyIpYRY3yh1LR5u15FwByJ78-k4Ix6E', format='text/x-nquads')
+    # graph.parse(row[0], format='text/x-nquads')
+
+    # import pprint
+    # for stmt in graph:
+    #     pprint.pprint(stmt)
+
+    ## Get a nanopub as nquads:
+    # curl -L -X GET "http://purl.org/np/RAc99KPv1qM3J6tyIpYRY3yh1LR5u15FwByJ78-k4Ix6E"  -H "accept: text/x-nquads"
 
     # tils = fetch_tils()
     # tils_md = "\n".join(
