@@ -23,6 +23,7 @@
 
 ### Releases 🏷️
 <!-- recent_releases starts -->
+* [flink-rmlstreamer RMLStreamer v1.2.3](https://github.com/vemonet/flink-rmlstreamer/releases/tag/v1.2.3) - 2020-08-24
 * [objmpp-classification Version 0.0.4](https://github.com/JEmonet67/objmpp-classification/releases/tag/0.0.4) - 2020-07-10
 * [sparql-operations-action First release of](https://github.com/vemonet/sparql-operations-action/releases/tag/v1) - 2020-06-10
 * [jena-riot-action GitHub Action for Jena riot v3.14](https://github.com/vemonet/jena-riot-action/releases/tag/v3.14) - 2020-06-03
