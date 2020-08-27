@@ -1,22 +1,22 @@
 <table><tr><td valign="top" width="50%">
 
 ### Projects I am currently working on 📂
-* [**🧭🌐 into-the-graph**](https://github.com/MaastrichtU-IDS/into-the-graph)
+* [**🧭 into-the-graph**](https://github.com/MaastrichtU-IDS/into-the-graph)
   * accessible at [trek.semanticscience.org](https://trek.semanticscience.org)
   * visualize and browse the content of any SPARQL endpoints
   * based on generic SPARQL queries, supports [graphs](https://www.w3.org/TR/sparql11-query/#unnamedGraph), and [HCLS descriptive metadata](https://www.w3.org/TR/hcls-dataset/)
   * settings can easily be changed in the browser without login ⚙️
-* [**🔮🐍 Translator OpenPredict**](https://maastrichtu-ids.github.io/translator-openpredict/)    
+* [**🔮 Translator OpenPredict**](https://maastrichtu-ids.github.io/translator-openpredict/)    
   * build machine learning model to predict new Drug-Targets association using the PREDICT method for the [NCATS Translator project](https://ncats.nih.gov/translator).
-* [**🔬📢 Nanopublications and the Knowledge Collaboratory**](http://nanopub.org/wordpress/)
+* [**🔬 Nanopublications and the Knowledge Collaboratory**](http://nanopub.org/wordpress/)
   * explore the use of Nanopublications to build a knowledge graph of scientific claims.
-* [**🚜🌾 Eureka project**](https://h2020eureka.eu/about)
+* [**🚜 Eureka project**](https://h2020eureka.eu/about)
   * design a digital repository for European agronomical resources
   * EU-funded projects that aim to improve the flow of agricultural and rural knowledge
-* **[🐳🔭 The Data Science Research Infrastructure](https://maastrichtu-ids.github.io/dsri-documentation/)**
+* **[🔭 The Data Science Research Infrastructure](https://maastrichtu-ids.github.io/dsri-documentation/)**
   * set up deployments and documentation of the DSRI OpenShift cluster to run Data Science jobs
   * provide support to Maastricht University researchers to run any type of workload or services on Kubernetes/OpenShift
-* **[🕸️🐳 Data2Services](https://d2s.semanticscience.org)**
+* **[🐳 Data2Services](https://d2s.semanticscience.org)**
   * a Command Line Interface to orchestrate the deployment of RDF Knowledge Graphs built from heterogenous structured data sources
 
 </td><td valign="top" width="50%">
