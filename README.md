@@ -51,7 +51,7 @@
 
 <tr><td valign="top" width="50%">
 
-### Currently maintain deployment of 📢
+### Currently maintain deployment of 🚀
 * [⚕️ Bio2RDF](https://bio2rdf.org/)
 * [🔗 SemanticScience ontology website](https://semanticscience.org)
 * [⚖️ FAIR Evaluator](https://fair-evaluator.semanticscience.org/FAIR_Evaluator/)
