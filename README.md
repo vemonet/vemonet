@@ -34,6 +34,7 @@
 
 ### Contributions to Open Source 🧞
 <!-- contributions starts -->
+* [solid/node-solid-server](https://github.com/solid/node-solid-server) - Solid server on top of the file-system in NodeJS
 * [protegeproject/webprotege](https://github.com/protegeproject/webprotege) - The webprotege code base
 * [perma-id/w3id.org](https://github.com/perma-id/w3id.org) - Website source code for w3id.org
 * [AKSW/RDFUnit](https://github.com/AKSW/RDFUnit) - An RDF Unit Testing Suite
@@ -44,7 +45,6 @@
 * [RMLio/yarrrml-parser](https://github.com/RMLio/yarrrml-parser) - A YARRRML parser library and CLI in Javascript
 * [peta-pico/nanobench](https://github.com/peta-pico/nanobench) - None
 * [dwslab/jRDF2Vec](https://github.com/dwslab/jRDF2Vec) - A high-performance Java Implementation of RDF2Vec
-* [comunica/jQuery-Widget.js](https://github.com/comunica/jQuery-Widget.js) - 🖼 A jQuery widget to query heterogeneous interfaces using Comunica SPARQL
 <!-- contributions ends -->
 
 </td></tr>
