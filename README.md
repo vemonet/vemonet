@@ -30,7 +30,7 @@
 * [yarrrml-parser YARRRML Parser GitHub Action for v1.1](https://github.com/vemonet/yarrrml-parser/releases/tag/v1.1) - 2020-06-01
 * [rmlmapper-java Action for rmlmapper v4.8.0](https://github.com/vemonet/rmlmapper-java/releases/tag/v4.8) - 2020-05-29
 <!-- recent_releases ends -->
-<!-- See [all releases](https://github.com/vemonet/vemonet/blob/master/releases.md) -->
+<!-- See [all releases](https://github.com/vemonet/vemonet/blob/main/releases.md) -->
 
 ### Contributions to Open Source 🧞
 <!-- contributions starts -->
