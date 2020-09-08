@@ -42,9 +42,9 @@
 * [Nanopublication/nanopub-java](https://github.com/Nanopublication/nanopub-java) - Java library for nanopublications based on RDF4J
 * [amalic/Jupyterlab](https://github.com/amalic/Jupyterlab) - Jupyterlab Docker image running as root user with useful extensions and dark theme
 * [RMLio/yarrrml-parser](https://github.com/RMLio/yarrrml-parser) - A YARRRML parser library and CLI in Javascript
+* [peta-pico/nanobench](https://github.com/peta-pico/nanobench) - None
 * [dwslab/jRDF2Vec](https://github.com/dwslab/jRDF2Vec) - A high-performance Java Implementation of RDF2Vec
 * [comunica/jQuery-Widget.js](https://github.com/comunica/jQuery-Widget.js) - 🖼 A jQuery widget to query heterogeneous interfaces using Comunica SPARQL
-* [NCATSTranslator/NCATSTranslator.github.io](https://github.com/NCATSTranslator/NCATSTranslator.github.io) - None
 <!-- contributions ends -->
 
 </td></tr>
