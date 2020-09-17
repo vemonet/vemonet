@@ -3,6 +3,8 @@
 All <!-- release_count starts -->6<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[rmlmapper-java](https://github.com/vemonet/rmlmapper-java)**: [v4.9.0 GitHub Action](https://github.com/vemonet/rmlmapper-java/releases/tag/v4.9.0) - 2020-09-16
+<br>The RMLMapper executes RML rules to generate high quality Linked Data from multiple originally (semi-)structured data sources
 * **[flink-rmlstreamer](https://github.com/vemonet/flink-rmlstreamer)**: [RMLStreamer v2.0.0](https://github.com/vemonet/flink-rmlstreamer/releases/tag/v2.0.0) - 2020-09-11
 <br>🐿️ Apache Flink with RMLStreamer jar included
 * **[objmpp-classification](https://github.com/JEmonet67/objmpp-classification)**: [Version 0.0.4](https://github.com/JEmonet67/objmpp-classification/releases/tag/0.0.4) - 2020-07-10
@@ -13,6 +15,4 @@ All <!-- release_count starts -->6<!-- release_count ends --> of my released pro
 <br>GitHub Action for Apache Jena riot tool
 * **[yarrrml-parser](https://github.com/vemonet/yarrrml-parser)**: [YARRRML Parser GitHub Action for v1.1](https://github.com/vemonet/yarrrml-parser/releases/tag/v1.1) - 2020-06-01
 <br>A YARRRML parser library and CLI in Javascript
-* **[rmlmapper-java](https://github.com/vemonet/rmlmapper-java)**: [Action for rmlmapper v4.8.0](https://github.com/vemonet/rmlmapper-java/releases/tag/v4.8) - 2020-05-29
-<br>The RMLMapper executes RML rules to generate high quality Linked Data from multiple originally (semi-)structured data sources
 <!-- recent_releases ends -->
