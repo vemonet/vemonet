@@ -23,6 +23,7 @@
 
 ### Releases 🏷️
 <!-- recent_releases starts -->
+* [nanobench -1.10.1](https://github.com/vemonet/nanobench/releases/tag/v1.10.1) - 2020-09-24
 * [rmlmapper-java v4.9.0 GitHub Action](https://github.com/vemonet/rmlmapper-java/releases/tag/v4.9.0) - 2020-09-16
 * [flink-rmlstreamer RMLStreamer v2.0.0](https://github.com/vemonet/flink-rmlstreamer/releases/tag/v2.0.0) - 2020-09-11
 * [objmpp-classification Version 0.0.4](https://github.com/JEmonet67/objmpp-classification/releases/tag/0.0.4) - 2020-07-10

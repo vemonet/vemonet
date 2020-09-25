@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->6<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->7<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[nanobench](https://github.com/vemonet/nanobench)**: [-1.10.1](https://github.com/vemonet/nanobench/releases/tag/v1.10.1) - 2020-09-24
+<br>🛋️ Java web UI to publish Nanopublications
 * **[rmlmapper-java](https://github.com/vemonet/rmlmapper-java)**: [v4.9.0 GitHub Action](https://github.com/vemonet/rmlmapper-java/releases/tag/v4.9.0) - 2020-09-16
 <br>The RMLMapper executes RML rules to generate high quality Linked Data from multiple originally (semi-)structured data sources
 * **[flink-rmlstreamer](https://github.com/vemonet/flink-rmlstreamer)**: [RMLStreamer v2.0.0](https://github.com/vemonet/flink-rmlstreamer/releases/tag/v2.0.0) - 2020-09-11
