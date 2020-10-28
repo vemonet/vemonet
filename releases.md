@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->7<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->8<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[setup-spark](https://github.com/vemonet/setup-spark)**: [Setup Spark v1](https://github.com/vemonet/setup-spark/releases/tag/v1) - 2020-10-27
+<br>✨ Setup Apache Spark in GitHub Action workflows
 * **[nanobench](https://github.com/vemonet/nanobench)**: [-1.10.1](https://github.com/vemonet/nanobench/releases/tag/v1.10.1) - 2020-09-24
 <br>🛋️ Java web UI to publish Nanopublications
 * **[rmlmapper-java](https://github.com/vemonet/rmlmapper-java)**: [v4.9.0 GitHub Action](https://github.com/vemonet/rmlmapper-java/releases/tag/v4.9.0) - 2020-09-16

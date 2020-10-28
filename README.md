@@ -23,6 +23,7 @@
 
 ### Releases 🏷️
 <!-- recent_releases starts -->
+* [setup-spark Setup Spark v1](https://github.com/vemonet/setup-spark/releases/tag/v1) - 2020-10-27
 * [nanobench -1.10.1](https://github.com/vemonet/nanobench/releases/tag/v1.10.1) - 2020-09-24
 * [rmlmapper-java v4.9.0 GitHub Action](https://github.com/vemonet/rmlmapper-java/releases/tag/v4.9.0) - 2020-09-16
 * [flink-rmlstreamer RMLStreamer v2.0.0](https://github.com/vemonet/flink-rmlstreamer/releases/tag/v2.0.0) - 2020-09-11
