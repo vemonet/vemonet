@@ -36,6 +36,7 @@
 
 ### Contributions to Open Source 🧞
 <!-- contributions starts -->
+* [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 * [solid/node-solid-server](https://github.com/solid/node-solid-server) - Solid server on top of the file-system in NodeJS
 * [protegeproject/webprotege](https://github.com/protegeproject/webprotege) - The webprotege code base
 * [perma-id/w3id.org](https://github.com/perma-id/w3id.org) - Website source code for w3id.org
@@ -46,7 +47,6 @@
 * [Nanopublication/nanopub-java](https://github.com/Nanopublication/nanopub-java) - Java library for nanopublications based on RDF4J
 * [dwslab/jRDF2Vec](https://github.com/dwslab/jRDF2Vec) - A high-performance Java Implementation of RDF2Vec
 * [amalic/Jupyterlab](https://github.com/amalic/Jupyterlab) - Jupyterlab Docker image running as root user with useful extensions and dark theme
-* [RMLio/yarrrml-parser](https://github.com/RMLio/yarrrml-parser) - A YARRRML parser library and CLI in Javascript
 <!-- contributions ends -->
 
 </td></tr>
