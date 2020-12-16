@@ -1,23 +1,27 @@
 <table><tr><td valign="top" width="50%">
 
 ### Projects I am currently working on 📂
-* [**🧭 into-the-graph**](https://github.com/MaastrichtU-IDS/into-the-graph)
-  * accessible at [trek.semanticscience.org](https://trek.semanticscience.org)
-  * visualize and browse the content of any SPARQL endpoints
-  * based on generic SPARQL queries, supports [graphs](https://www.w3.org/TR/sparql11-query/#unnamedGraph), and [HCLS descriptive metadata](https://www.w3.org/TR/hcls-dataset/)
-  * settings can easily be changed in the browser without login ⚙️
-* [**🔮 Translator OpenPredict**](https://maastrichtu-ids.github.io/translator-openpredict/)    
-  * build machine learning model to predict new Drug-Targets association using the PREDICT method for the [NCATS Translator project](https://ncats.nih.gov/translator).
-* [**🔬 Nanopublications and the Knowledge Collaboratory**](http://nanopub.org/wordpress/)
-  * explore the use of Nanopublications to build a knowledge graph of scientific claims.
-* [**🚜 Eureka project**](https://h2020eureka.eu/about)
-  * design a digital repository for European agronomical resources
-  * EU-funded projects that aim to improve the flow of agricultural and rural knowledge
-* **[🔭 The Data Science Research Infrastructure](https://maastrichtu-ids.github.io/dsri-documentation/)**
-  * set up deployments and documentation of the DSRI OpenShift cluster to run Data Science jobs
-  * provide support to Maastricht University researchers to run any type of workload or services on Kubernetes/OpenShift
-* **[🐳 Data2Services](https://d2s.semanticscience.org)**
-  * a Command Line Interface to orchestrate the deployment of RDF Knowledge Graphs built from heterogenous structured data sources
+* [**💠 shapes-of-you**](https://github.com/MaastrichtU-IDS/shapes-of-you), a registry for SHACL Shapes from GitHub repositories
+  * Available at **[maastrichtu-ids.github.io/shapes-of-you](https://maastrichtu-ids.github.io/shapes-of-you)** 
+  * Shapes retrieved and indexed from GitHub repositories with the tag `shacl-shapes` everyday
+  * More than 15 repositories and 130 shapes files indexed!
+  * Working on integration with [SOLID pods](https://solidproject.org/).
+* [**🧭 into-the-graph**](https://github.com/MaastrichtU-IDS/into-the-graph), a web browser for SPARQL endpoints
+  * Accessible at **[trek.semanticscience.org](https://trek.semanticscience.org)**
+  * Visualize and browse the content of any SPARQL endpoints based on generic SPARQL queries, supporting [graphs](https://www.w3.org/TR/sparql11-query/#unnamedGraph), and [HCLS descriptive metadata](https://www.w3.org/TR/hcls-dataset/)
+  * Settings can easily be changed in the browser without login ⚙️
+* [**🔮 Translator OpenPredict**](https://github.com/MaastrichtU-IDS/translator-openpredict), a Translator OpenAPI to compute and serve predictions of biomedical concepts associations
+  * API accessible at **[openpredict.semanticscience.org](https://openpredict.semanticscience.org/)**
+  * Build machine learning model to predict new Drug-Targets association using the PREDICT method for the [NCATS Translator project](https://ncats.nih.gov/translator).
+* [**🔬 Nanopublications and the Knowledge Collaboratory**](http://nanopub.org/wordpress/), an ecosystem to publish scientific claims and retrieve them using [Translator standard](https://github.com/NCATSTranslator/ReasonerAPI).
+  * API accessible at **[api.collaboratory.semanticscience.org](https://api.collaboratory.semanticscience.org/)**
+  * Explore the use of Nanopublications to build a knowledge graph of scientific claims.
+* **[🔭 The Data Science Research Infrastructure](https://maastrichtu-ids.github.io/dsri-documentation/)**, a distributed and scalable [OKD Kubernetes](https://www.okd.io/) cluster (aka. OpenShift) to run Data Science experiments at Maastricht University 
+  * Documentation accessible at **[maastrichtu-ids.github.io/dsri-documentation](https://maastrichtu-ids.github.io/dsri-documentation)**
+  * Set up deployments and documentation for data science on the OKD Kubernetes cluster
+  * Provide support to Maastricht University researchers to run any type of workload or services on Kubernetes/OpenShift
+* **[🐳 Data2Services](https://d2s.semanticscience.org)**, a Command Line Interface to orchestrate the deployment of RDF Knowledge Graphs built from heterogenous structured data sources
+  * Using Python, Java, the RDF Mapping Language, Docker and the Common Workflow Language.
 
 </td><td valign="top" width="50%">
 
@@ -59,11 +63,12 @@
 * [⚖️ FAIR Evaluator](https://fair-evaluator.semanticscience.org/FAIR_Evaluator/)
 * [🔬 Dumontierlab Nanopubs services](http://grlc.np.dumontierlab.com/api/local/local/)
 * [🌐 GraphDB dumontierlab.com](https://graphdb.dumontierlab.com/)
-
+* 📋 [fairdatapoint.semanticscience.org](https://fairdatapoint.semanticscience.org/) and [fdp.semanticscience.org](https://fdp.semanticscience.org/)
 
 </td><td valign="top" width="50%">
 
 ### Previous projects 📜
+* [🚜 Eureka project](https://h2020eureka.eu/about)
 * [🌾 AgroPortal](http://agroportal.lirmm.fr/)
 * [📝 BioPortal Annotator+](https://bioportal.bioontology.org/annotatorplus)
 * [🎯 Yam++ Online ontology matcher](http://yamplusplus.lirmm.fr/)
@@ -73,20 +78,16 @@
 </td></tr></table>
 
 
-
-[![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=vemonet&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 [**Publications on Google Scholar 🎓**](https://scholar.google.com/citations?hl=en&user=G59f3woAAAAJ&sortby=pubdate)
 
 [**Contact me on Gitter 📬**](https://gitter.im/vemonet)
 
-
-<a href="https://github.com/vemonet/vemonet/actions"><img src="https://github.com/vemonet/vemonet/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a> <a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">Built on simonw self-updating README</a>
-
+<a href="https://github.com/vemonet/vemonet/actions"><img src="https://github.com/vemonet/vemonet/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a> <a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">Built using simonw self-updating README</a>
 
 <!--
-Personal stats API (not working):
-[![Vincent's GitHub stats](https://github-readme-stats-sage.vercel.app/api?username=vemonet&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+Personal stats API:
+
+[![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=vemonet&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 Create table:
 <table><tr><td valign="top">
