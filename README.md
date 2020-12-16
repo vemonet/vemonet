@@ -1,26 +1,25 @@
 <table><tr><td valign="top" width="50%">
 
 ### Projects I am currently working on 📂
-* [**💠 shapes-of-you**](https://github.com/MaastrichtU-IDS/shapes-of-you), a registry for SHACL Shapes from GitHub repositories
+* [**💠 shapes-of-you**](https://github.com/MaastrichtU-IDS/shapes-of-you) 
+  * A registry for SHACL Shapes from GitHub repositories
   * Available at **[maastrichtu-ids.github.io/shapes-of-you](https://maastrichtu-ids.github.io/shapes-of-you)** 
-  * Shapes retrieved and indexed from GitHub repositories with the tag `shacl-shapes` everyday
   * More than 15 repositories and 130 shapes files indexed!
-  * Working on integration with [SOLID pods](https://solidproject.org/).
-* [**🧭 into-the-graph**](https://github.com/MaastrichtU-IDS/into-the-graph), a web browser for SPARQL endpoints
+* [**🧭 into-the-graph**](https://github.com/MaastrichtU-IDS/into-the-graph) 
+  * A lightweight web browser for SPARQL endpoints
   * Accessible at **[trek.semanticscience.org](https://trek.semanticscience.org)**
-  * Visualize and browse the content of any SPARQL endpoints based on generic SPARQL queries, supporting [graphs](https://www.w3.org/TR/sparql11-query/#unnamedGraph), and [HCLS descriptive metadata](https://www.w3.org/TR/hcls-dataset/)
-  * Settings can easily be changed in the browser without login ⚙️
-* [**🔮 Translator OpenPredict**](https://github.com/MaastrichtU-IDS/translator-openpredict), a Translator OpenAPI to compute and serve predictions of biomedical concepts associations
+* [**🔮 Translator OpenPredict**](https://github.com/MaastrichtU-IDS/translator-openpredict) 
+  * A [Translator](https://ncats.nih.gov/translator) OpenAPI to compute and serve predictions of biomedical concepts associations
   * API accessible at **[openpredict.semanticscience.org](https://openpredict.semanticscience.org/)**
-  * Build machine learning model to predict new Drug-Targets association using the PREDICT method for the [NCATS Translator project](https://ncats.nih.gov/translator).
-* [**🔬 Nanopublications and the Knowledge Collaboratory**](http://nanopub.org/wordpress/), an ecosystem to publish scientific claims and retrieve them using [Translator standard](https://github.com/NCATSTranslator/ReasonerAPI).
+* [**🔬 Nanopublications and the Knowledge Collaboratory**](http://nanopub.org/wordpress/)
+  * An ecosystem to publish scientific claims and retrieve them using [Translator standards](https://github.com/NCATSTranslator/ReasonerAPI).
   * API accessible at **[api.collaboratory.semanticscience.org](https://api.collaboratory.semanticscience.org/)**
-  * Explore the use of Nanopublications to build a knowledge graph of scientific claims.
-* **[🔭 The Data Science Research Infrastructure](https://maastrichtu-ids.github.io/dsri-documentation/)**, a distributed and scalable [OKD Kubernetes](https://www.okd.io/) cluster (aka. OpenShift) to run Data Science experiments at Maastricht University 
-  * Documentation accessible at **[maastrichtu-ids.github.io/dsri-documentation](https://maastrichtu-ids.github.io/dsri-documentation)**
-  * Set up deployments and documentation for data science on the OKD Kubernetes cluster
-  * Provide support to Maastricht University researchers to run any type of workload or services on Kubernetes/OpenShift
-* **[🐳 Data2Services](https://d2s.semanticscience.org)**, a Command Line Interface to orchestrate the deployment of RDF Knowledge Graphs built from heterogenous structured data sources
+* **[🔭 The Data Science Research Infrastructure](https://maastrichtu-ids.github.io/dsri-documentation/)**
+  * An [OKD Kubernetes](https://www.okd.io/) cluster to run Data Science experiments at Maastricht University 
+  * Set up deployments and documentation for data science services
+  * Provide support to Maastricht University researchers
+* **[🐳 Data2Services](https://d2s.semanticscience.org)**
+  * A CLI to orchestrate the deployment of RDF KG built from heterogenous data sources
   * Using Python, Java, the RDF Mapping Language, Docker and the Common Workflow Language.
 
 </td><td valign="top" width="50%">
