@@ -1,10 +1,13 @@
 <table><tr><td valign="top" width="50%">
 
 ### Projects I am currently working on 📂
-* [**💠 shapes-of-you**](https://github.com/MaastrichtU-IDS/shapes-of-you) 
+* [**💠 Shapes of you**](https://github.com/MaastrichtU-IDS/shapes-of-you) 
   * A registry for SHACL Shapes from GitHub repositories
   * Visit **[maastrichtu-ids.github.io/shapes-of-you](https://maastrichtu-ids.github.io/shapes-of-you)** 
   * More than 15 repositories and 130 shapes files indexed!
+* [**🗂️ IDS Projects**](https://github.com/MaastrichtU-IDS/projects) 
+  * A registry and dashboard for IDS projects using GitHub and DOAP
+  * Visit **[maastrichtu-ids.github.io/projects](https://maastrichtu-ids.github.io/projects)** 
 * [**🧭 into-the-graph**](https://github.com/MaastrichtU-IDS/into-the-graph) 
   * A lightweight web browser for SPARQL endpoints
   * Visit **[trek.semanticscience.org](https://trek.semanticscience.org)**
@@ -12,15 +15,14 @@
   * A [Translator](https://ncats.nih.gov/translator) OpenAPI to compute and serve predictions of biomedical concepts associations
   * Visit **[openpredict.semanticscience.org](https://openpredict.semanticscience.org/)**
 * [**🔬 Nanopublications and the Knowledge Collaboratory**](http://nanopub.org/wordpress/)
-  * An ecosystem to publish scientific claims and retrieve them using [Translator standards](https://github.com/NCATSTranslator/ReasonerAPI).
+  * An ecosystem to publish  and retrieve scientific claims using [Translator standards](https://github.com/NCATSTranslator/ReasonerAPI)
   * Visit **[api.collaboratory.semanticscience.org](https://api.collaboratory.semanticscience.org/)**
 * **[🔭 The Data Science Research Infrastructure](https://maastrichtu-ids.github.io/dsri-documentation/)**
   * An [OKD Kubernetes](https://www.okd.io/) cluster to run Data Science experiments at Maastricht University 
-  * Set up deployments and documentation for data science services
-  * Provide support to Maastricht University researchers
+  * Visit [**maastrichtu-ids.github.io/dsri-documentation**](https://maastrichtu-ids.github.io/dsri-documentation/)
 * **[🐳 Data2Services](https://d2s.semanticscience.org)**
   * A CLI to orchestrate the deployment of RDF KG built from heterogenous data sources
-  * Using Python, Java, the RDF Mapping Language, Docker and the Common Workflow Language.
+  * Visit **[d2s.semanticscience.org](https://d2s.semanticscience.org)**
 
 </td><td valign="top" width="50%">
 
