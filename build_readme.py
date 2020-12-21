@@ -146,7 +146,7 @@ if __name__ == "__main__":
             (
                 "* [{nameWithOwner}]({url}) - {description}"
             ).format(**contribution)
-            for contribution in contributions[:11]
+            for contribution in contributions[:13]
         ]
     )
     rewritten = replace_chunk(readme_contents, "contributions", contributions_md)
