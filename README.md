@@ -1,6 +1,6 @@
 <table><tr><td valign="top" width="50%">
 
-### 📂 Projects I am currently working on
+### 👨‍💻 Projects I am currently working on
 * [**💠 Shapes of you**](https://github.com/MaastrichtU-IDS/shapes-of-you) 
   * A registry for SHACL Shapes from GitHub repositories
   * Visit **[maastrichtu-ids.github.io/shapes-of-you](https://maastrichtu-ids.github.io/shapes-of-you)** 
