@@ -39,6 +39,8 @@
 * [uav4geo/LibreTranslate](https://github.com/uav4geo/LibreTranslate) - Free and Open Source Machine Translation API. 100% self-hosted, no limits, no ties to proprietary services. Built on top of Argos Translate.
 * [RMLio/RMLStreamer](https://github.com/RMLio/RMLStreamer) - The RMLStreamer executes RML rules to generate high quality Linked Data from multiple originally (semi-)structured data sources in a streaming way.
 * [Nanopublication/nanopub-java](https://github.com/Nanopublication/nanopub-java) - Java library for nanopublications based on RDF4J
+* [dwslab/jRDF2Vec](https://github.com/dwslab/jRDF2Vec) - A high-performance Java Implementation of RDF2Vec
+* [RMLio/yarrrml-parser](https://github.com/RMLio/yarrrml-parser) - A YARRRML parser library and CLI in Javascript
 <!-- contributions ends -->
 
 </td></tr>
