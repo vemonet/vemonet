@@ -135,19 +135,31 @@ def fetch_contributions(oauth_token):
 
 if __name__ == "__main__":
     readme = root / "README.md"
+    
+    readme_contents = readme.open().read()
+
+    ## Get Contributions to other repositories
+    contributions = fetch_contributions(TOKEN)
+    # contributions.sort(key=lambda r: r["published_at"], reverse=True)
+    contributions_md = "\n".join(
+        [
+            (
+                "* [{nameWithOwner}]({url}) - {description}"
+            ).format(**contribution)
+            for contribution in contributions[:11]
+        ]
+    )
+    rewritten = replace_chunk(readme_contents, "contributions", contributions_md)
+    
+    ## Save updated readme
+    readme.open("w").write(rewritten)
+
+
+    ## Get releases to put in releases.md
     project_releases = root / "releases.md"
     releases = fetch_releases(TOKEN)
     releases.sort(key=lambda r: r["published_at"], reverse=True)
-    md = "\n".join(
-        [
-            "* [{repo} {release}]({url}) - {published_at}".format(**release)
-            for release in releases[:8]
-        ]
-    )
-    readme_contents = readme.open().read()
-    rewritten = replace_chunk(readme_contents, "recent_releases", md)
-
-    # Write out full project-releases.md file
+    
     project_releases_md = "\n".join(
         [
             (
@@ -166,20 +178,17 @@ if __name__ == "__main__":
     )
     project_releases.open("w").write(project_releases_content)
 
-    contributions = fetch_contributions(TOKEN)
-    # contributions.sort(key=lambda r: r["published_at"], reverse=True)
-    contributions_md = "\n".join(
-        [
-            (
-                "* [{nameWithOwner}]({url}) - {description}"
-            ).format(**contribution)
-            for contribution in contributions[:11]
-        ]
-    )
-    rewritten = replace_chunk(rewritten, "contributions", contributions_md)
+    ## Currently not putting releases in the main README anymore
+    # readme_releases_md = "\n".join(
+    #     [
+    #         "* [{repo} {release}]({url}) - {published_at}".format(**release)
+    #         for release in releases[:8]
+    #     ]
+    # )
+    # rewritten = replace_chunk(readme_contents, "recent_releases", readme_releases_md)
 
 
-    ### Get all my nanopublications
+    ### Get all my nanopublications (test)
 
     # curl -X GET "http://grlc.nanopubs.lod.labs.vu.nl/api/local/local/find_signed_nanopubs?pubkey=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCR9fz0fKCdWOWC%2BpxhkQhEM%2FppbdIYe5TLSdj%2BlJzSlv9mYBaPgrzVezSwwbmhlHBPDZa4%2FvHycU315BdmUGq%2BpXllp9%2BrWFfrb%2BkBJwhZjpG6BeyyXBsRFz4jmQVxl%2FZYHilQTh%2FXalYzKkEAyTiEMPee4Kz61PaWOKH24CsnOQIDAQAB" -H  "accept: text/csv"
     # nanopubs_request = requests.get('http://grlc.nanopubs.lod.labs.vu.nl/api/local/local/find_signed_nanopubs?pubkey=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCR9fz0fKCdWOWC%2BpxhkQhEM%2FppbdIYe5TLSdj%2BlJzSlv9mYBaPgrzVezSwwbmhlHBPDZa4%2FvHycU315BdmUGq%2BpXllp9%2BrWFfrb%2BkBJwhZjpG6BeyyXBsRFz4jmQVxl%2FZYHilQTh%2FXalYzKkEAyTiEMPee4Kz61PaWOKH24CsnOQIDAQAB', 
@@ -225,4 +234,3 @@ if __name__ == "__main__":
     # )
     # rewritten = replace_chunk(rewritten, "tils", tils_md)
 
-    readme.open("w").write(rewritten)

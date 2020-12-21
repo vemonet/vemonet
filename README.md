@@ -1,6 +1,6 @@
 <table><tr><td valign="top" width="50%">
 
-### Projects I am currently working on 📂
+### 📂 Projects I am currently working on
 * [**💠 Shapes of you**](https://github.com/MaastrichtU-IDS/shapes-of-you) 
   * A registry for SHACL Shapes from GitHub repositories
   * Visit **[maastrichtu-ids.github.io/shapes-of-you](https://maastrichtu-ids.github.io/shapes-of-you)** 
@@ -26,20 +26,7 @@
 
 </td><td valign="top" width="50%">
 
-### Releases 🏷️
-<!-- recent_releases starts -->
-* [objmpp-classification Version 0.1.1](https://github.com/JEmonet67/objmpp-classification/releases/tag/0.1.1) - 2020-11-15
-* [setup-spark Setup Spark v1](https://github.com/vemonet/setup-spark/releases/tag/v1) - 2020-10-27
-* [nanobench -1.10.1](https://github.com/vemonet/nanobench/releases/tag/v1.10.1) - 2020-09-24
-* [rmlmapper-java v4.9.0 GitHub Action](https://github.com/vemonet/rmlmapper-java/releases/tag/v4.9.0) - 2020-09-16
-* [flink-rmlstreamer RMLStreamer v2.0.0](https://github.com/vemonet/flink-rmlstreamer/releases/tag/v2.0.0) - 2020-09-11
-* [sparql-operations-action First release of](https://github.com/vemonet/sparql-operations-action/releases/tag/v1) - 2020-06-10
-* [jena-riot-action GitHub Action for Jena riot v3.14](https://github.com/vemonet/jena-riot-action/releases/tag/v3.14) - 2020-06-03
-* [yarrrml-parser YARRRML Parser GitHub Action for v1.1](https://github.com/vemonet/yarrrml-parser/releases/tag/v1.1) - 2020-06-01
-<!-- recent_releases ends -->
-<!-- See [all releases](https://github.com/vemonet/vemonet/blob/main/releases.md) -->
-
-### Contributions to Open Source 🧞
+### 🧞 Contributions to Open Source
 <!-- contributions starts -->
 * [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 * [solid/node-solid-server](https://github.com/solid/node-solid-server) - Solid server on top of the file-system in NodeJS
@@ -58,7 +45,7 @@
 
 <tr><td valign="top" width="50%">
 
-### Currently maintain deployment of 🚀
+### 🛩️ Currently maintaining deployment of
 * [⚕️ Bio2RDF](https://bio2rdf.org/)
 * [🔗 SemanticScience ontology website](https://semanticscience.org)
 * [⚖️ FAIR Evaluator](https://fair-evaluator.semanticscience.org/FAIR_Evaluator/)
@@ -68,8 +55,7 @@
 
 </td><td valign="top" width="50%">
 
-### Previous projects 📜
-* [🚜 Eureka project](https://h2020eureka.eu/about)
+### 🏺 Previous projects
 * [🌾 AgroPortal](http://agroportal.lirmm.fr/)
 * [📝 BioPortal Annotator+](https://bioportal.bioontology.org/annotatorplus)
 * [🎯 Yam++ Online ontology matcher](http://yamplusplus.lirmm.fr/)
@@ -78,10 +64,9 @@
 
 </td></tr></table>
 
+[**📜 Publications on Google Scholar**](https://scholar.google.com/citations?hl=en&user=G59f3woAAAAJ&sortby=pubdate)
 
-[**Publications on Google Scholar 🎓**](https://scholar.google.com/citations?hl=en&user=G59f3woAAAAJ&sortby=pubdate)
-
-[**Contact me on Gitter 📬**](https://gitter.im/vemonet)
+[**📬 Contact me on Gitter**](https://gitter.im/vemonet)
 
 <a href="https://github.com/vemonet/vemonet/actions"><img src="https://github.com/vemonet/vemonet/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a> <a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">Built using simonw self-updating README</a>
 
@@ -105,4 +90,12 @@ Create table:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### Releases 🏷️
+<!-- recent_releases starts --
+
+<!-- recent_releases ends --
+
+<!-- See [all releases](https://github.com/vemonet/vemonet/blob/main/releases.md) --
+
 -->
