@@ -39,8 +39,8 @@
 * [Ontotext-AD/graphdb-docker](https://github.com/Ontotext-AD/graphdb-docker) - Docker images for GraphDB 8
 * [RMLio/RMLStreamer](https://github.com/RMLio/RMLStreamer) - The RMLStreamer executes RML rules to generate high quality Linked Data from multiple originally (semi-)structured data sources in a streaming way.
 * [Nanopublication/nanopub-java](https://github.com/Nanopublication/nanopub-java) - Java library for nanopublications based on RDF4J
-* [dwslab/jRDF2Vec](https://github.com/dwslab/jRDF2Vec) - A high-performance Java Implementation of RDF2Vec
 * [amalic/Jupyterlab](https://github.com/amalic/Jupyterlab) - Jupyterlab Docker image running as root user with useful extensions and dark theme
+* [dwslab/jRDF2Vec](https://github.com/dwslab/jRDF2Vec) - A high-performance Java Implementation of RDF2Vec
 <!-- contributions ends -->
 
 </td></tr>
