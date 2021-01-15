@@ -32,7 +32,6 @@
 * [solid/node-solid-server](https://github.com/solid/node-solid-server) - Solid server on top of the file-system in NodeJS
 * [protegeproject/webprotege](https://github.com/protegeproject/webprotege) - The webprotege code base
 * [perma-id/w3id.org](https://github.com/perma-id/w3id.org) - Website source code for w3id.org
-* [AKSW/RDFUnit](https://github.com/AKSW/RDFUnit) - An RDF Unit Testing Suite
 * [dice-group/LIMES](https://github.com/dice-group/LIMES) - Link Discovery Framework for Metric Spaces.
 * [uav4geo/LibreTranslate](https://github.com/uav4geo/LibreTranslate) - Free and Open Source Machine Translation API. 100% self-hosted, no limits, no ties to proprietary services. Built on top of Argos Translate.
 * [biolink/biolink-model](https://github.com/biolink/biolink-model) - Schema and generated objects for biolink data model and upper ontology
@@ -41,6 +40,7 @@
 * [Nanopublication/nanopub-java](https://github.com/Nanopublication/nanopub-java) - Java library for nanopublications based on RDF4J
 * [amalic/Jupyterlab](https://github.com/amalic/Jupyterlab) - Jupyterlab Docker image running as root user with useful extensions and dark theme
 * [dwslab/jRDF2Vec](https://github.com/dwslab/jRDF2Vec) - A high-performance Java Implementation of RDF2Vec
+* [RMLio/yarrrml-parser](https://github.com/RMLio/yarrrml-parser) - A YARRRML parser library and CLI in Javascript
 <!-- contributions ends -->
 
 </td></tr>
