@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->9<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->10<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[Jupyterlab](https://github.com/vemonet/Jupyterlab)**: [JupyterLab 2.0](https://github.com/vemonet/Jupyterlab/releases/tag/v2.0) - 2021-01-27
+<br>🪐 Hassle-free JupyterLab Docker container with root user
 * **[translator-openpredict](https://github.com/MaastrichtU-IDS/translator-openpredict)**: [OpenPredict 0.0.6](https://github.com/MaastrichtU-IDS/translator-openpredict/releases/tag/v0.0.6) - 2020-12-15
 <br>🔮🐍 Translator API to compute and serve predictions of biomedical concepts associations
 * **[objmpp-classification](https://github.com/JEmonet67/objmpp-classification)**: [Version 0.1.1](https://github.com/JEmonet67/objmpp-classification/releases/tag/0.1.1) - 2020-11-15
