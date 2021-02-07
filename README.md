@@ -1,10 +1,11 @@
+Supporting open and documented knowledge for a more qualitative, and sustainable practice of science 🧪
+
 <table><tr><td valign="top" width="50%">
 
 ### 👨‍💻 Projects I am currently working on
 * [**💠 Shapes of you**](https://github.com/vemonet/shapes-of-you) 
-  * A registry for semantic resources (SHACL & ShEx Shapes, OWL & OBO ontologies, SKOS vocabularies, SPARQL queries) stored in Git repositories (GitHub, GitLab, Gitee)
+  * A registry for semantic resources (shapes, ontologies, vocabularies, queries) stored in Git repositories (GitHub, GitLab, Gitee)
   * Visit **[vemonet.github.io/shapes-of-you](https://vemonet.github.io/shapes-of-you)** 
-  * More than 30k files in 400+ repositories indexed!
 * [**🧭 into-the-graph**](https://github.com/MaastrichtU-IDS/into-the-graph) 
   * A lightweight web browser for SPARQL endpoints
   * Visit **[trek.semanticscience.org](https://trek.semanticscience.org)**
@@ -53,7 +54,7 @@
 * [⚖️ FAIR Evaluator](https://fair-evaluator.semanticscience.org/FAIR_Evaluator/)
 * [🔬 Dumontierlab Nanopubs services](http://grlc.np.dumontierlab.com/api/local/local/)
 * [🌐 GraphDB dumontierlab.com](https://graphdb.dumontierlab.com/)
-* 📋 [fairdatapoint.semanticscience.org](https://fairdatapoint.semanticscience.org/) and [fdp.semanticscience.org](https://fdp.semanticscience.org/)
+* 📋 [fairdatapoint.semanticscience.org](https://fairdatapoint.semanticscience.org/)
 
 </td><td valign="top" width="50%">
 
