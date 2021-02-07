@@ -1,10 +1,10 @@
 <table><tr><td valign="top" width="50%">
 
 ### 👨‍💻 Projects I am currently working on
-* [**💠 Shapes of you**](https://github.com/MaastrichtU-IDS/shapes-of-you) 
-  * A registry for SHACL & ShEx Shapes stored in GitHub repositories
-  * Visit **[maastrichtu-ids.github.io/shapes-of-you](https://maastrichtu-ids.github.io/shapes-of-you)** 
-  * More than 3500 shapes files in 50+ repositories indexed!
+* [**💠 Shapes of you**](https://github.com/vemonet/shapes-of-you) 
+  * A registry for semantic resources (SHACL & ShEx Shapes, OWL & OBO ontologies, SKOS vocabularies, SPARQL queries) stored in Git repositories (GitHub, GitLab, Gitee)
+  * Visit **[vemonet.github.io/shapes-of-you](https://vemonet.github.io/shapes-of-you)** 
+  * More than 30k files in 400+ repositories indexed!
 * [**🧭 into-the-graph**](https://github.com/MaastrichtU-IDS/into-the-graph) 
   * A lightweight web browser for SPARQL endpoints
   * Visit **[trek.semanticscience.org](https://trek.semanticscience.org)**
