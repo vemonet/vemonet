@@ -1,11 +1,11 @@
-Supporting open and documented knowledge for a more qualitative, and sustainable practice of science 🧪
+Playing mainly with [w3c](https://www.w3.org/) standard knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](https://www.w3.org/TR/sparql11-query/), [ontologies](https://www.w3.org/OWL)), life sciences knowledge sources, and web technologies.
 
 <table><tr><td valign="top" width="50%">
 
 ### 👨‍💻 Projects I am currently working on
 * [**💠 Shapes of you**](https://github.com/vemonet/shapes-of-you) 
-  * A registry for semantic resources (shapes, ontologies, vocabularies, queries) stored in Git repositories (GitHub, GitLab, Gitee)
-  * Visit **[vemonet.github.io/shapes-of-you](https://vemonet.github.io/shapes-of-you)** 
+  * An index for publicly available semantic resources (ontologies,  vocabularies, shapes, queries, mappings) stored in Git repositories  (GitHub, GitLab, Gitee)
+  * Visit **[index.semanticscience.org](https://index.semanticscience.org)** 
 * [**🧭 into-the-graph**](https://github.com/MaastrichtU-IDS/into-the-graph) 
   * A lightweight web browser for SPARQL endpoints
   * Visit **[trek.semanticscience.org](https://trek.semanticscience.org)**
@@ -22,7 +22,7 @@ Supporting open and documented knowledge for a more qualitative, and sustainable
   * A CLI to orchestrate the deployment of RDF KG built from heterogenous data sources
   * Visit **[d2s.semanticscience.org](https://d2s.semanticscience.org)**
 * [**🗂️ IDS Projects**](https://github.com/MaastrichtU-IDS/projects) 
-  * A registry and dashboard for IDS projects using GitHub and [DOAP descriptions](https://github.com/ewilderj/doap)
+  * An index and dashboard for IDS projects using GitHub and [DOAP descriptions](https://github.com/ewilderj/doap)
   * Visit **[maastrichtu-ids.github.io/projects](https://maastrichtu-ids.github.io/projects)** 
 
 </td><td valign="top" width="50%">
