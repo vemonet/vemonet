@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->10<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->11<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[d2s-sparql-operations](https://github.com/MaastrichtU-IDS/d2s-sparql-operations)**: [Release Maven package](https://github.com/MaastrichtU-IDS/d2s-sparql-operations/releases/tag/v0.0.3) - 2021-02-23
+<br>📬 Execute SPARQL queries from string, URL or multiple files using the RDF4J framework.
 * **[Jupyterlab](https://github.com/vemonet/Jupyterlab)**: [JupyterLab 2.0](https://github.com/vemonet/Jupyterlab/releases/tag/v2.0) - 2021-01-27
 <br>🪐 Hassle-free JupyterLab Docker container with root user
 * **[translator-openpredict](https://github.com/MaastrichtU-IDS/translator-openpredict)**: [OpenPredict 0.0.6](https://github.com/MaastrichtU-IDS/translator-openpredict/releases/tag/v0.0.6) - 2020-12-15
