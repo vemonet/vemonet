@@ -36,8 +36,8 @@ Playing mainly with [w3c](https://www.w3.org/) standard knowledge graphs ([RDF](
 * [perma-id/w3id.org](https://github.com/perma-id/w3id.org) - Website source code for w3id.org
 * [bio2rdf/bio2rdf-scripts](https://github.com/bio2rdf/bio2rdf-scripts) - Scripts that Bio2RDF users have created to generate RDF versions of scientific datasets
 * [dice-group/LIMES](https://github.com/dice-group/LIMES) - Link Discovery Framework for Metric Spaces.
-* [Knowledge-Graph-Hub/kg-covid-19](https://github.com/Knowledge-Graph-Hub/kg-covid-19) - An instance of KG Hub to produce a knowledge graph for COVID-19 response.
 * [biolink/biolink-model](https://github.com/biolink/biolink-model) - Schema and generated objects for biolink data model and upper ontology
+* [Knowledge-Graph-Hub/kg-covid-19](https://github.com/Knowledge-Graph-Hub/kg-covid-19) - An instance of KG Hub to produce a knowledge graph for COVID-19 response.
 * [Ontotext-AD/graphdb-docker](https://github.com/Ontotext-AD/graphdb-docker) - Docker images for GraphDB 8
 * [RMLio/RMLStreamer](https://github.com/RMLio/RMLStreamer) - The RMLStreamer executes RML rules to generate high quality Linked Data from multiple originally (semi-)structured data sources in a streaming way.
 * [amalic/Jupyterlab](https://github.com/amalic/Jupyterlab) - Jupyterlab Docker image running as root user with useful extensions and dark theme
