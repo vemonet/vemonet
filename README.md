@@ -3,6 +3,9 @@ Playing mainly with [w3c](https://www.w3.org/) standard knowledge graphs ([RDF](
 <table><tr><td valign="top" width="50%">
 
 ### 👨‍💻 Projects I am currently working on
+* [**🧙‍♂️ JSON-LD Editor**](https://github.com/vemonet/jsonld-editor) 
+  * A JSON-LD web editor, with autocomplete based on concepts and properties from loaded ontologies
+  * Visit **[vemonet.github.io/jsonld-editor](https://vemonet.github.io/jsonld-editor)** 
 * [**💠 Shapes of you**](https://github.com/vemonet/shapes-of-you) 
   * An index for publicly available semantic resources (ontologies,  vocabularies, shapes, queries, mappings) stored in Git repositories  (GitHub, GitLab, Gitee)
   * Visit **[index.semanticscience.org](https://index.semanticscience.org)** 
