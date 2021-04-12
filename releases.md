@@ -3,6 +3,8 @@
 All <!-- release_count starts -->11<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sparql-operations-action](https://github.com/vemonet/sparql-operations-action)**: [SPARQL Operations](https://github.com/vemonet/sparql-operations-action/releases/tag/v1) - 2021-04-12
+<br>Action to execute SPARQL operations using RDF4J
 * **[d2s-sparql-operations](https://github.com/MaastrichtU-IDS/d2s-sparql-operations)**: [Release Maven package](https://github.com/MaastrichtU-IDS/d2s-sparql-operations/releases/tag/v0.0.3) - 2021-02-23
 <br>📬 Execute SPARQL queries from string, URL or multiple files using the RDF4J framework.
 * **[Jupyterlab](https://github.com/vemonet/Jupyterlab)**: [JupyterLab 2.0](https://github.com/vemonet/Jupyterlab/releases/tag/v2.0) - 2021-01-27
@@ -19,8 +21,6 @@ All <!-- release_count starts -->11<!-- release_count ends --> of my released pr
 <br>The RMLMapper executes RML rules to generate high quality Linked Data from multiple originally (semi-)structured data sources
 * **[flink-rmlstreamer](https://github.com/vemonet/flink-rmlstreamer)**: [RMLStreamer v2.0.0](https://github.com/vemonet/flink-rmlstreamer/releases/tag/v2.0.0) - 2020-09-11
 <br>🐿️ Apache Flink with RMLStreamer jar included
-* **[sparql-operations-action](https://github.com/vemonet/sparql-operations-action)**: [First release of](https://github.com/vemonet/sparql-operations-action/releases/tag/v1) - 2020-06-10
-<br>Action to execute SPARQL operations using RDF4J
 * **[jena-riot-action](https://github.com/vemonet/jena-riot-action)**: [GitHub Action for Jena riot v3.14](https://github.com/vemonet/jena-riot-action/releases/tag/v3.14) - 2020-06-03
 <br>GitHub Action for Apache Jena riot tool
 * **[yarrrml-parser](https://github.com/vemonet/yarrrml-parser)**: [YARRRML Parser GitHub Action for v1.1](https://github.com/vemonet/yarrrml-parser/releases/tag/v1.1) - 2020-06-01
