@@ -43,8 +43,8 @@ Playing mainly with [w3c](https://www.w3.org/) standard knowledge graphs ([RDF](
 * [biolink/biolink-model](https://github.com/biolink/biolink-model) - Schema and generated objects for biolink data model and upper ontology
 * [Ontotext-AD/graphdb-docker](https://github.com/Ontotext-AD/graphdb-docker) - Docker images for GraphDB 8
 * [amalic/Jupyterlab](https://github.com/amalic/Jupyterlab) - Jupyterlab Docker image running as root user with useful extensions and dark theme
-* [Nanopublication/nanopub-java](https://github.com/Nanopublication/nanopub-java) - Java library for nanopublications based on RDF4J
 * [dwslab/jRDF2Vec](https://github.com/dwslab/jRDF2Vec) - A high-performance Java Implementation of RDF2Vec
+* [RMLio/yarrrml-parser](https://github.com/RMLio/yarrrml-parser) - A YARRRML parser library and CLI in Javascript
 <!-- contributions ends -->
 
 </td></tr>
