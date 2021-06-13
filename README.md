@@ -34,7 +34,7 @@ Playing mainly with [w3c](https://www.w3.org/) standard knowledge graphs ([RDF](
 <!-- contributions starts -->
 * [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 * [solid/node-solid-server](https://github.com/solid/node-solid-server) - Solid server on top of the file-system in NodeJS
-* [uav4geo/LibreTranslate](https://github.com/uav4geo/LibreTranslate) - Free and Open Source Machine Translation API. 100% self-hosted, no limits, no ties to proprietary services. Built on top of Argos Translate.
+* [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. 100% self-hosted, no limits, no ties to proprietary services. Built on top of Argos Translate.
 * [protegeproject/webprotege](https://github.com/protegeproject/webprotege) - The webprotege code base
 * [perma-id/w3id.org](https://github.com/perma-id/w3id.org) - Website source code for w3id.org.
 * [bio2rdf/bio2rdf-scripts](https://github.com/bio2rdf/bio2rdf-scripts) - Scripts that Bio2RDF users have created to generate RDF versions of scientific datasets
