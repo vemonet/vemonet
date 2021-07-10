@@ -35,7 +35,6 @@ Playing mainly with [w3c](https://www.w3.org/) standard knowledge graphs ([RDF](
 * [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 * [solid/node-solid-server](https://github.com/solid/node-solid-server) - Solid server on top of the file-system in NodeJS
 * [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. 100% self-hosted, no limits, no ties to proprietary services. Built on top of Argos Translate.
-* [protegeproject/webprotege](https://github.com/protegeproject/webprotege) - The webprotege code base
 * [perma-id/w3id.org](https://github.com/perma-id/w3id.org) - Website source code for w3id.org.
 * [bio2rdf/bio2rdf-scripts](https://github.com/bio2rdf/bio2rdf-scripts) - Scripts that Bio2RDF users have created to generate RDF versions of scientific datasets
 * [biolink/biolink-model](https://github.com/biolink/biolink-model) - Schema and generated objects for biolink data model and upper ontology
@@ -45,6 +44,7 @@ Playing mainly with [w3c](https://www.w3.org/) standard knowledge graphs ([RDF](
 * [RMLio/yarrrml-parser](https://github.com/RMLio/yarrrml-parser) - A YARRRML parser library and CLI in Javascript
 * [fair-data/fairdatapoint](https://github.com/fair-data/fairdatapoint) - Provide machine-readable descriptions of your data assets. Demo server http://fdp.fairdatapoint.nl.
 * [fair-workflows/nanopub](https://github.com/fair-workflows/nanopub) - Python client for searching, publishing and modifying nanopublications.
+* [micheldumontier/torres-api-platform](https://github.com/micheldumontier/torres-api-platform) - The TORRES application using API platform
 <!-- contributions ends -->
 
 </td></tr>
