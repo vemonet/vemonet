@@ -44,7 +44,7 @@ Playing mainly with [w3c](https://www.w3.org/) standard knowledge graphs ([RDF](
 * [fair-data/fairdatapoint](https://github.com/fair-data/fairdatapoint) - Provide machine-readable descriptions of your data assets. Demo server http://fdp.fairdatapoint.nl.
 * [peta-pico/nanobench](https://github.com/peta-pico/nanobench) - None
 * [fair-workflows/nanopub](https://github.com/fair-workflows/nanopub) - Python client for searching, publishing and modifying nanopublications.
-* [micheldumontier/torres-api-platform](https://github.com/micheldumontier/torres-api-platform) - The TORRES application using API platform
+* [semantifyit/RocketRML](https://github.com/semantifyit/RocketRML) - None
 <!-- contributions ends -->
 
 </td></tr>
