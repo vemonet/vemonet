@@ -3,10 +3,10 @@
 All <!-- release_count starts -->12<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[setup-spark](https://github.com/vemonet/setup-spark)**: [Setup Spark v1](https://github.com/vemonet/setup-spark/releases/tag/v1) - 2021-11-06
+<br>✨ Setup Apache Spark in GitHub Action workflows
 * **[shacl-convert](https://github.com/vemonet/shacl-convert)**: [Initial release](https://github.com/vemonet/shacl-convert/releases/tag/0.0.1) - 2021-11-02
 <br>Convert SHACL Compact to SHACL RDF.
-* **[setup-spark](https://github.com/vemonet/setup-spark)**: [Setup Spark v1](https://github.com/vemonet/setup-spark/releases/tag/v1) - 2021-06-29
-<br>✨ Setup Apache Spark in GitHub Action workflows
 * **[sparql-operations-action](https://github.com/vemonet/sparql-operations-action)**: [SPARQL Operations](https://github.com/vemonet/sparql-operations-action/releases/tag/v1) - 2021-04-12
 <br>Action to execute SPARQL operations using RDF4J
 * **[d2s-sparql-operations](https://github.com/MaastrichtU-IDS/d2s-sparql-operations)**: [Release Maven package](https://github.com/MaastrichtU-IDS/d2s-sparql-operations/releases/tag/v0.0.3) - 2021-02-23
