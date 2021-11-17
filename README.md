@@ -38,13 +38,13 @@ Playing mainly with [w3c](https://www.w3.org/) standard knowledge graphs ([RDF](
 * [bio2rdf/bio2rdf-scripts](https://github.com/bio2rdf/bio2rdf-scripts) - Scripts that Bio2RDF users have created to generate RDF versions of scientific datasets
 * [biolink/biolink-model](https://github.com/biolink/biolink-model) - Schema and generated objects for biolink data model and upper ontology
 * [Knowledge-Graph-Hub/kg-covid-19](https://github.com/Knowledge-Graph-Hub/kg-covid-19) - An instance of KG Hub to produce a knowledge graph for COVID-19 response.
+* [elixir-europe/biohackathon-projects-2021](https://github.com/elixir-europe/biohackathon-projects-2021) - For BioHackathon Europe 2021.
 * [pangaea-data-publisher/fuji](https://github.com/pangaea-data-publisher/fuji) - FAIRsFAIR Research Data Object Assessment Service
 * [peta-pico/nanobench](https://github.com/peta-pico/nanobench) - None
 * [fair-data/fairdatapoint](https://github.com/fair-data/fairdatapoint) - Provide machine-readable descriptions of your data assets. Demo server http://fdp.fairdatapoint.nl.
 * [semantifyit/RocketRML](https://github.com/semantifyit/RocketRML) - None
 * [fair-workflows/nanopub](https://github.com/fair-workflows/nanopub) - Python client for searching, publishing and modifying nanopublications.
 * [NCATSTranslator/Relay](https://github.com/NCATSTranslator/Relay) - Autonomous relay system for NCATS Biomedical Data Translator
-* [bio2kg/bio2kg-etl](https://github.com/bio2kg/bio2kg-etl) - ETL workflows for the Bio2KG project
 <!-- contributions ends -->
 
 </td></tr>
