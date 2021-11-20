@@ -3,6 +3,8 @@
 All <!-- release_count starts -->12<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[translator-openpredict](https://github.com/MaastrichtU-IDS/translator-openpredict)**: [Dec2021Demo](https://github.com/MaastrichtU-IDS/translator-openpredict/releases/tag/Dec2021Demo) - 2021-11-19
+<br>🔮🐍 Translator API to compute and serve predictions of biomedical concepts associations
 * **[setup-spark](https://github.com/vemonet/setup-spark)**: [Setup Spark v1](https://github.com/vemonet/setup-spark/releases/tag/v1) - 2021-11-06
 <br>✨ Setup Apache Spark in GitHub Action workflows
 * **[shacl-convert](https://github.com/vemonet/shacl-convert)**: [Initial release](https://github.com/vemonet/shacl-convert/releases/tag/0.0.1) - 2021-11-02
@@ -13,8 +15,6 @@ All <!-- release_count starts -->12<!-- release_count ends --> of my released pr
 <br>✨️ Execute SPARQL queries from string, URL or multiple files using the RDF4J framework.
 * **[Jupyterlab](https://github.com/vemonet/Jupyterlab)**: [JupyterLab 2.0](https://github.com/vemonet/Jupyterlab/releases/tag/v2.0) - 2021-01-27
 <br>🪐 Hassle-free JupyterLab Docker container with root user
-* **[translator-openpredict](https://github.com/MaastrichtU-IDS/translator-openpredict)**: [OpenPredict 0.0.6](https://github.com/MaastrichtU-IDS/translator-openpredict/releases/tag/v0.0.6) - 2020-12-15
-<br>🔮🐍 Translator API to compute and serve predictions of biomedical concepts associations
 * **[objmpp-classification](https://github.com/JEmonet67/objmpp-classification)**: [Version 0.1.1](https://github.com/JEmonet67/objmpp-classification/releases/tag/0.1.1) - 2020-11-15
 <br>None
 * **[nanobench](https://github.com/vemonet/nanobench)**: [-1.10.1](https://github.com/vemonet/nanobench/releases/tag/v1.10.1) - 2020-09-24
