@@ -32,7 +32,6 @@ Playing mainly with [w3c](https://www.w3.org/) standard knowledge graphs ([RDF](
 
 ### 🧞 Contributions to Open Source
 <!-- contributions starts -->
-* [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 * [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. 100% self-hosted, offline capable and easy to setup.
 * [perma-id/w3id.org](https://github.com/perma-id/w3id.org) - Website source code for w3id.org.
 * [bio2rdf/bio2rdf-scripts](https://github.com/bio2rdf/bio2rdf-scripts) - Scripts that Bio2RDF users have created to generate RDF versions of scientific datasets
@@ -40,6 +39,7 @@ Playing mainly with [w3c](https://www.w3.org/) standard knowledge graphs ([RDF](
 * [Knowledge-Graph-Hub/kg-covid-19](https://github.com/Knowledge-Graph-Hub/kg-covid-19) - An instance of KG Hub to produce a knowledge graph for COVID-19 response.
 * [elixir-europe/biohackathon-projects-2021](https://github.com/elixir-europe/biohackathon-projects-2021) - For BioHackathon Europe 2021.
 * [pangaea-data-publisher/fuji](https://github.com/pangaea-data-publisher/fuji) - FAIRsFAIR Research Data Object Assessment Service
+* [dwslab/jRDF2Vec](https://github.com/dwslab/jRDF2Vec) - A high-performance Java Implementation of RDF2Vec
 * [peta-pico/nanobench](https://github.com/peta-pico/nanobench) - None
 * [fair-data/fairdatapoint](https://github.com/fair-data/fairdatapoint) - Provide machine-readable descriptions of your data assets. Demo server http://fdp.fairdatapoint.nl.
 * [semantifyit/RocketRML](https://github.com/semantifyit/RocketRML) - None
