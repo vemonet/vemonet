@@ -39,6 +39,7 @@ Playing mainly with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 * [dwslab/jRDF2Vec](https://github.com/dwslab/jRDF2Vec) - A high-performance Java Implementation of RDF2Vec
 * [peta-pico/nanobench](https://github.com/peta-pico/nanobench) - None
 * [fair-data/fairdatapoint](https://github.com/fair-data/fairdatapoint) - Provide machine-readable descriptions of your data assets. Demo server http://fdp.fairdatapoint.nl.
+* [semantifyit/RocketRML](https://github.com/semantifyit/RocketRML) - None
 <!-- contributions ends -->
 
 </td></tr>
