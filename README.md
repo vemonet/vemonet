@@ -37,7 +37,6 @@ Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 * [semantifyit/RocketRML](https://github.com/semantifyit/RocketRML) - None
 * [fair-workflows/nanopub](https://github.com/fair-workflows/nanopub) - Python client for searching, publishing and modifying nanopublications.
 * [NCATSTranslator/Relay](https://github.com/NCATSTranslator/Relay) - Autonomous relay system for NCATS Biomedical Data Translator
-* [bio2kg/bio2kg-etl](https://github.com/bio2kg/bio2kg-etl) - ETL workflows for the Bio2KG project
 <!-- contributions ends -->
 
 </td></tr>
