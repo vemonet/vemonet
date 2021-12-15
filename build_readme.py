@@ -7,11 +7,13 @@ import pathlib
 import re
 import os
 
-root = pathlib.Path(__file__).parent.resolve()
-client = GraphqlClient(endpoint="https://api.github.com/graphql")
 
+CONTRIBUTIONS_COUNT=14
 
 TOKEN = os.environ.get("GITHUB_TOKEN", "")
+
+root = pathlib.Path(__file__).parent.resolve()
+client = GraphqlClient(endpoint="https://api.github.com/graphql")
 
 
 def replace_chunk(content, marker, chunk, inline=False):
@@ -146,7 +148,7 @@ if __name__ == "__main__":
             (
                 "* [{nameWithOwner}]({url}) - {description}"
             ).format(**contribution)
-            for contribution in contributions[:13]
+            for contribution in contributions[:CONTRIBUTIONS_COUNT]
         ]
     )
     rewritten = replace_chunk(readme_contents, "contributions", contributions_md)
