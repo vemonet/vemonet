@@ -6,6 +6,9 @@ Playing mainly with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 * [**💠 Shapes of you**](https://github.com/vemonet/shapes-of-you) 
   * An index for publicly available semantic resources (ontologies,  vocabularies, shapes, queries, mappings) stored in Git repositories  (GitHub, GitLab, Gitee)
   * Visit **[index.semanticscience.org](https://index.semanticscience.org)** 
+* [**♻️ FAIR Enough**](https://github.com/vemonet/shapes-of-you) 
+  * Service to define and run evaluations of the FAIR principles (Findable, Accessible, Interoperable, Reusable) on resources online.
+  * Visit **[fair-enough.semanticscience.org](https://fair-enough.semanticscience.org)** 
 * [**🧙‍♂️ JSON-LD Editor**](https://github.com/vemonet/json-ld-editor-react) 
   * A JSON-LD web editor, with autocomplete based on concepts and properties from loaded ontologies
   * Visit **[vemonet.github.io/json-ld-editor-react](https://vemonet.github.io/json-ld-editor-react)** 
@@ -46,13 +49,12 @@ Playing mainly with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 
 <tr><td valign="top" width="50%">
 
-### 🛩️ Currently maintaining deployment of
+### 🛩️ Also maintaining the deployment of
 * [⚕️ Bio2RDF](https://bio2rdf.org/)
-* [🔗 SemanticScience ontology website](https://semanticscience.org)
+* [🔗 SemanticScience ontology website](https://semanticscience.org/resource/SIO_000000)
 * [⚖️ FAIR Evaluator](https://fair-evaluator.semanticscience.org/FAIR_Evaluator/)
 * [🔬 Dumontierlab Nanopubs services](http://grlc.np.dumontierlab.com/api/local/local/)
 * [🌐 GraphDB dumontierlab.com](https://graphdb.dumontierlab.com/)
-* 📋 [fairdatapoint.semanticscience.org](https://fairdatapoint.semanticscience.org/)
 
 </td><td valign="top" width="50%">
 
@@ -75,22 +77,6 @@ Playing mainly with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 Personal stats API:
 
 [![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=vemonet&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-Create table:
-<table><tr><td valign="top">
-1st column
-</td><td valign="top">
-2nd column
-</td></tr></table>
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 ### Releases 🏷️
 <!-- recent_releases starts --
