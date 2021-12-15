@@ -33,6 +33,7 @@ Playing mainly with [w3c](https://www.w3.org/) standard knowledge graphs ([RDF](
 ### 🧞 Contributions to Open Source
 <!-- contributions starts -->
 * [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. 100% self-hosted, offline capable and easy to setup.
+* [oxigraph/oxigraph](https://github.com/oxigraph/oxigraph) - SPARQL graph database
 * [perma-id/w3id.org](https://github.com/perma-id/w3id.org) - Website source code for w3id.org.
 * [bio2rdf/bio2rdf-scripts](https://github.com/bio2rdf/bio2rdf-scripts) - Scripts that Bio2RDF users have created to generate RDF versions of scientific datasets
 * [biolink/biolink-model](https://github.com/biolink/biolink-model) - Schema and generated objects for biolink data model and upper ontology
@@ -44,7 +45,6 @@ Playing mainly with [w3c](https://www.w3.org/) standard knowledge graphs ([RDF](
 * [dwslab/jRDF2Vec](https://github.com/dwslab/jRDF2Vec) - A high-performance Java Implementation of RDF2Vec
 * [peta-pico/nanobench](https://github.com/peta-pico/nanobench) - None
 * [fair-data/fairdatapoint](https://github.com/fair-data/fairdatapoint) - Provide machine-readable descriptions of your data assets. Demo server http://fdp.fairdatapoint.nl.
-* [semantifyit/RocketRML](https://github.com/semantifyit/RocketRML) - None
 <!-- contributions ends -->
 
 </td></tr>

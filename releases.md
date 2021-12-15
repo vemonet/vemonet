@@ -3,7 +3,7 @@
 All <!-- release_count starts -->14<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[rdflib-endpoint](https://github.com/vemonet/rdflib-endpoint)**: [RDFLib Endpoint 0.1.1](https://github.com/vemonet/rdflib-endpoint/releases/tag/0.1.1) - 2021-12-08
+* **[rdflib-endpoint](https://github.com/vemonet/rdflib-endpoint)**: [RDFLib Endpoint 0.1.3](https://github.com/vemonet/rdflib-endpoint/releases/tag/0.1.3) - 2021-12-14
 <br>✨️🐍 SPARQL endpoint built with RDFLib to serve machine learning models, or any other logic implemented in Python
 * **[oxigraph](https://github.com/vemonet/oxigraph)**: [v0.2.5](https://github.com/vemonet/oxigraph/releases/tag/v0.2.5) - 2021-12-07
 <br>🦀 SPARQL graph database
