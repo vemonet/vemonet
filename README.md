@@ -43,6 +43,7 @@ Playing mainly with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 * [peta-pico/nanobench](https://github.com/peta-pico/nanobench) - None
 * [fair-data/fairdatapoint](https://github.com/fair-data/fairdatapoint) - Provide machine-readable descriptions of your data assets. Demo server http://fdp.fairdatapoint.nl.
 * [semantifyit/RocketRML](https://github.com/semantifyit/RocketRML) - None
+* [fair-workflows/nanopub](https://github.com/fair-workflows/nanopub) - Python client for searching, publishing and modifying nanopublications.
 <!-- contributions ends -->
 
 </td></tr>
