@@ -25,7 +25,6 @@ Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 * [oxigraph/oxigraph](https://github.com/oxigraph/oxigraph) - SPARQL graph database
 * [perma-id/w3id.org](https://github.com/perma-id/w3id.org) - Website source code for w3id.org.
 * [bio2rdf/bio2rdf-scripts](https://github.com/bio2rdf/bio2rdf-scripts) - Scripts that Bio2RDF users have created to generate RDF versions of scientific datasets
-* [biolink/biolink-model](https://github.com/biolink/biolink-model) - Schema and generated objects for biolink data model and upper ontology
 * [linkml/linkml](https://github.com/linkml/linkml) - Linked Open Data Modeling Language
 * [Knowledge-Graph-Hub/kg-covid-19](https://github.com/Knowledge-Graph-Hub/kg-covid-19) - An instance of KG Hub to produce a knowledge graph for COVID-19 response.
 * [SDM-TIB/SDM-RDFizer](https://github.com/SDM-TIB/SDM-RDFizer) - An Efficient RML-Compliant Engine for Knowledge Graph Construction
@@ -33,9 +32,10 @@ Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 * [pangaea-data-publisher/fuji](https://github.com/pangaea-data-publisher/fuji) - FAIRsFAIR Research Data Object Assessment Service
 * [dwslab/jRDF2Vec](https://github.com/dwslab/jRDF2Vec) - A high-performance Java Implementation of RDF2Vec
 * [peta-pico/nanobench](https://github.com/peta-pico/nanobench) - None
-* [fair-data/fairdatapoint](https://github.com/fair-data/fairdatapoint) - Provide machine-readable descriptions of your data assets. Demo server http://fdp.fairdatapoint.nl.
 * [semantifyit/RocketRML](https://github.com/semantifyit/RocketRML) - None
 * [NCATSTranslator/Relay](https://github.com/NCATSTranslator/Relay) - Autonomous relay system for NCATS Biomedical Data Translator
+* [bio2kg/bio2kg-etl](https://github.com/bio2kg/bio2kg-etl) - ETL workflows for the Bio2KG project
+* [bio2kg/bio2kg-registry](https://github.com/bio2kg/bio2kg-registry) - A registry of datasets of relevance to the life sciences. The registry contains dataset metadata, and assigns namespaces, identifier patterns, and URL templates for link outs. The web application provides GraphQL, REST API, and Elasticsearch DSL API.
 <!-- contributions ends -->
 
 </td></tr>
