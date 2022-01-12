@@ -29,13 +29,13 @@ Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 * [Knowledge-Graph-Hub/kg-covid-19](https://github.com/Knowledge-Graph-Hub/kg-covid-19) - An instance of KG Hub to produce a knowledge graph for COVID-19 response.
 * [SDM-TIB/SDM-RDFizer](https://github.com/SDM-TIB/SDM-RDFizer) - An Efficient RML-Compliant Engine for Knowledge Graph Construction
 * [elixir-europe/biohackathon-projects-2021](https://github.com/elixir-europe/biohackathon-projects-2021) - For BioHackathon Europe 2021.
+* [AKSW/LSQ](https://github.com/AKSW/LSQ) - Linked SPARQL Queries (LSQ): Framework for RDFizing triple store (web) logs and performing SPARQL query extraction, analysis and benchmarking in order to produce datasets of Linked SPARQL Queries
 * [pangaea-data-publisher/fuji](https://github.com/pangaea-data-publisher/fuji) - FAIRsFAIR Research Data Object Assessment Service
 * [dwslab/jRDF2Vec](https://github.com/dwslab/jRDF2Vec) - A high-performance Java Implementation of RDF2Vec
 * [peta-pico/nanobench](https://github.com/peta-pico/nanobench) - None
 * [semantifyit/RocketRML](https://github.com/semantifyit/RocketRML) - None
 * [NCATSTranslator/Relay](https://github.com/NCATSTranslator/Relay) - Autonomous relay system for NCATS Biomedical Data Translator
 * [bio2kg/bio2kg-etl](https://github.com/bio2kg/bio2kg-etl) - ETL workflows for the Bio2KG project
-* [bio2kg/bio2kg-registry](https://github.com/bio2kg/bio2kg-registry) - A registry of datasets of relevance to the life sciences. The registry contains dataset metadata, and assigns namespaces, identifier patterns, and URL templates for link outs. The web application provides GraphQL, REST API, and Elasticsearch DSL API.
 <!-- contributions ends -->
 
 </td></tr>
