@@ -34,8 +34,8 @@ Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 * [innovationOUtside/nb_serverproxy_openrefine](https://github.com/innovationOUtside/nb_serverproxy_openrefine) - Jupyter server proxy for OpenRefine
 * [bio2kg/bio2kg-etl](https://github.com/bio2kg/bio2kg-etl) - ETL workflows for the Bio2KG project
 * [bio2kg/bio2kg-registry](https://github.com/bio2kg/bio2kg-registry) - A registry of datasets of relevance to the life sciences. The registry contains dataset metadata, and assigns namespaces, identifier patterns, and URL templates for link outs. The web application provides GraphQL, REST API, and Elasticsearch DSL API.
-* [NCATSTranslator/Relay](https://github.com/NCATSTranslator/Relay) - Autonomous relay system for NCATS Biomedical Data Translator
 * [LUMC-BioSemantics/RD-FAIRmetric-F4](https://github.com/LUMC-BioSemantics/RD-FAIRmetric-F4) - RD-FAIRmetric-F4
+* [osmanGuler19/Survey](https://github.com/osmanGuler19/Survey) - None
 <!-- contributions ends -->
 
 </td></tr>
