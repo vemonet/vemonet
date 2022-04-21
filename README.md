@@ -1,5 +1,20 @@
 Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](https://www.w3.org/TR/sparql11-query/), [ontologies](https://www.w3.org/OWL), [SHACL](https://www.w3.org/TR/shacl/), [RML](https://rml.io)), life sciences data, and web technologies.
 
+<div align="center">
+	<a href="https://orcid.org/0000-0002-1501-1082" target="_blank">
+		<img src="https://img.shields.io/badge/ORCID-0000--0002--1501--1082-a6ce39?logo=orcid" />
+	</a>
+	<a href="https://scholar.google.fr/citations?user=G59f3woAAAAJ" target="_blank">
+		<img src="https://img.shields.io/badge/Google%20Scholar-Vincent%20Emonet-4d90fe?logo=google-scholar" />
+	</a>
+	<a href="https://dblp.uni-trier.de/pid/152/9320" target="_blank">
+		<img src="https://img.shields.io/badge/DBLP-Vincent%20Emonet-f8c91f?logo=dblp" />
+	</a>
+	<a href="https://www.semanticscholar.org/author/Vincent-Emonet/2467370" target="_blank">
+		<img src="https://img.shields.io/badge/Semantic%20Scholar-Vincent%20Emonet-237aaa" />
+	</a>
+</div>
+
 <table><tr><td valign="top" width="50%">
 
 ### 👨‍💻 Projects I am currently working on
@@ -58,29 +73,16 @@ Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 </td></tr></table>
 
 <div align="center">
-	<a href="https://orcid.org/0000-0002-1501-1082" target="_blank">
-		<img src="https://img.shields.io/badge/ORCID-0000--0002--1501--1082-a6ce39?logo=orcid" />
-	</a>
-	<a href="https://scholar.google.fr/citations?user=G59f3woAAAAJ" target="_blank">
-		<img src="https://img.shields.io/badge/Google%20Scholar-Vincent%20Emonet-4d90fe?logo=google-scholar" />
-	</a>
-	<a href="https://dblp.uni-trier.de/pid/152/9320" target="_blank">
-		<img src="https://img.shields.io/badge/DBLP-Vincent%20Emonet-f8c91f?logo=dblp" />
-	</a>
-	<a href="https://www.semanticscholar.org/author/Vincent-Emonet/2467370" target="_blank">
-		<img src="https://img.shields.io/badge/Semantic%20Scholar-Vincent%20Emonet-237aaa" />
-	</a>
-</div>
-
-<div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api?username=vemonet&show_icons=true" />
     </a>
 </div>
 
-<a href="https://github.com/vemonet/vemonet/actions"><img src="https://github.com/vemonet/vemonet/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a> <a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">Built using simonw self-updating README</a>
+<a href="https://github.com/vemonet/vemonet/actions"><img src="https://github.com/vemonet/vemonet/workflows/Build%20README/badge.svg" alt="Build README"></a>
 
 <!-- 
+<a href="https://github.com/vemonet/vemonet/actions"><img src="https://github.com/vemonet/vemonet/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a> <a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">Built using simonw self-updating README</a>
+
 <a href="https://github.com/vemonet/rdflib-endpoint" target="_blank">
 	<img src="https://img.shields.io/badge/GitHub-vemonet/rdflib--endpoint-24292e?logo=github" />
 </a>
