@@ -20,17 +20,17 @@ Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 ### 👨‍💻 Projects I am currently working on
 [**💠 Shapes of you**](https://github.com/vemonet/shapes-of-you): an index for publicly available semantic resources (ontologies,  vocabularies, shapes, queries, mappings) stored in Git repositories  (GitHub, GitLab, Gitee). Visit **[index.semanticscience.org](https://index.semanticscience.org)** 
 
-[**♻️ FAIR Enough**](https://github.com/vemonet/shapes-of-you): a service to define and run evaluations of the FAIR principles (Findable, Accessible, Interoperable, Reusable) on online resources. Visit **[fair-enough.semanticscience.org](https://fair-enough.semanticscience.org)** 
+[**♻️ FAIR Enough**](https://github.com/MaastrichtU-IDS/fair-enough): a service to define and run evaluations of the FAIR principles (Findable, Accessible, Interoperable, Reusable) on online resources. Visit **[fair-enough.semanticscience.org](https://fair-enough.semanticscience.org)** 
+
+[**🔬 Nanopublications and the Knowledge Collaboratory**](http://nanopub.org/wordpress/): An ecosystem to publish and retrieve scientific claims using [Translator standards](https://github.com/NCATSTranslator/ReasonerAPI). Visit **[api.collaboratory.semanticscience.org](https://api.collaboratory.semanticscience.org/)**
+
+[**🔭 The Data Science Research Infrastructure**](https://dsri.maastrichtuniversity.nl): An [OKD Kubernetes](https://www.okd.io/) cluster to run Data Science experiments at [Maastricht University](https://maastrichtuniversity.nl). Visit [**dsri.maastrichtuniversity.nl**](https://dsri.maastrichtuniversity.nl)
 
 [**🧙‍♂️ JSON-LD Editor**](https://github.com/vemonet/json-ld-editor-react): a JSON-LD web editor, with autocomplete based on concepts and properties from loaded ontologies. Visit **[vemonet.github.io/json-ld-editor-react](https://vemonet.github.io/json-ld-editor-react)** 
 
 [**🧭 into-the-graph**](https://github.com/MaastrichtU-IDS/into-the-graph): A lightweight web browser for SPARQL endpoints. Visit **[trek.semanticscience.org](https://trek.semanticscience.org)**
 
 [**🔮 Translator OpenPredict**](https://github.com/MaastrichtU-IDS/translator-openpredict): a [Translator](https://ncats.nih.gov/translator) OpenAPI to compute and serve predictions of biomedical concepts associations. Visit **[openpredict.semanticscience.org](https://openpredict.semanticscience.org/)**
-
-[**🔬 Nanopublications and the Knowledge Collaboratory**](http://nanopub.org/wordpress/): An ecosystem to publish and retrieve scientific claims using [Translator standards](https://github.com/NCATSTranslator/ReasonerAPI). Visit **[api.collaboratory.semanticscience.org](https://api.collaboratory.semanticscience.org/)**
-
-**[🔭 The Data Science Research Infrastructure](https://maastrichtu-ids.github.io/dsri-documentation/)**: An [OKD Kubernetes](https://www.okd.io/) cluster to run Data Science experiments at [Maastricht University](https://maastrichtuniversity.nl). Visit [**maastrichtu-ids.github.io/dsri-documentation**](https://maastrichtu-ids.github.io/dsri-documentation/)
 
 </td><td valign="top" width="50%">
 
