@@ -8,7 +8,7 @@ import re
 import os
 
 
-CONTRIBUTIONS_COUNT=15
+CONTRIBUTIONS_COUNT=12
 
 TOKEN = os.environ.get("GITHUB_TOKEN", "")
 

@@ -54,19 +54,44 @@ Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 ### 🏺 Previous projects
 * [🌾 AgroPortal](http://agroportal.lirmm.fr/)
 * [📝 BioPortal Annotator+](https://bioportal.bioontology.org/annotatorplus)
-* [🎯 Yam++ Online ontology matcher](http://yamplusplus.lirmm.fr/)
+* [🎯 Yam++ Online ontology matcher](https://yamplusplus.lirmm.fr/)
 * [🐧 ADVANSE web services](http://advanse.lirmm.fr)
 * [🗜️ Talend ETL components for the Semantic Web](https://github.com/vemonet/talend4sw)
 
 </td></tr></table>
 
+<div align="center">
+	<a href="https://orcid.org/0000-0002-1501-1082" target="_blank">
+		<img src="https://img.shields.io/badge/ORCID-0000--0002--1501--1082-a6ce39?logo=orcid" />
+	</a>
+	<a href="https://scholar.google.fr/citations?user=G59f3woAAAAJ" target="_blank">
+		<img src="https://img.shields.io/badge/Google%20Scholar-Vincent%20Emonet-4d90fe?logo=google-scholar" />
+	</a>
+	<a href="https://dblp.uni-trier.de/pid/152/9320" target="_blank">
+		<img src="https://img.shields.io/badge/DBLP-Vincent%20Emonet-f8c91f?logo=dblp" />
+	</a>
+	<a href="https://www.semanticscholar.org/author/Vincent-Emonet/2467370" target="_blank">
+		<img src="https://img.shields.io/badge/Semantic%20Scholar-Vincent%20Emonet-237aaa" />
+	</a>
+</div>
+
+<div align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api?username=vemonet&show_icons=true" />
+    </a>
+</div>
+
+<a href="https://github.com/vemonet/vemonet/actions"><img src="https://github.com/vemonet/vemonet/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a> <a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">Built using simonw self-updating README</a>
+
+<!-- 
+<a href="https://github.com/vemonet/rdflib-endpoint" target="_blank">
+	<img src="https://img.shields.io/badge/GitHub-vemonet/rdflib--endpoint-24292e?logo=github" />
+</a>
+
 [**📜 Publications on Google Scholar**](https://scholar.google.com/citations?hl=en&user=G59f3woAAAAJ&sortby=pubdate)
 
 [**📬 Contact me on Gitter**](https://gitter.im/vemonet)
 
-<a href="https://github.com/vemonet/vemonet/actions"><img src="https://github.com/vemonet/vemonet/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a> <a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">Built using simonw self-updating README</a>
-
-<!--
 Personal stats API:
 
 [![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=vemonet&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
