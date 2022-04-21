@@ -28,7 +28,7 @@ Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 
 [**🧙‍♂️ JSON-LD Editor**](https://github.com/vemonet/json-ld-editor-react): a JSON-LD web editor, with autocomplete based on concepts and properties from loaded ontologies. Visit **[vemonet.github.io/json-ld-editor-react](https://vemonet.github.io/json-ld-editor-react)** 
 
-[**🧭 into-the-graph**](https://github.com/MaastrichtU-IDS/into-the-graph): A lightweight web browser for SPARQL endpoints. Visit **[trek.semanticscience.org](https://trek.semanticscience.org)**
+[**🧭 into-the-graph**](https://github.com/MaastrichtU-IDS/into-the-graph): A lightweight web browser for SPARQL endpoints. Visit **[maastrichtu-ids.github.io/into-the-graph](https://maastrichtu-ids.github.io/into-the-graph)**
 
 [**🔮 Translator OpenPredict**](https://github.com/MaastrichtU-IDS/translator-openpredict): a [Translator](https://ncats.nih.gov/translator) OpenAPI to compute and serve predictions of biomedical concepts associations. Visit **[openpredict.semanticscience.org](https://openpredict.semanticscience.org/)**
 
