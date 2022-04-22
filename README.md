@@ -36,6 +36,7 @@ Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 
 ### 🧞 Contributions to Open Source
 <!-- contributions starts -->
+* [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. 100% self-hosted, offline capable and easy to setup.
 * [oxigraph/oxigraph](https://github.com/oxigraph/oxigraph) - SPARQL graph database
 * [perma-id/w3id.org](https://github.com/perma-id/w3id.org) - Website source code for w3id.org.
 * [linkml/linkml](https://github.com/linkml/linkml) - Linked Open Data Modeling Language
@@ -47,7 +48,6 @@ Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 * [peta-pico/nanobench](https://github.com/peta-pico/nanobench) - A local client to browse and publish nanopublications.
 * [semantifyit/RocketRML](https://github.com/semantifyit/RocketRML) - None
 * [innovationOUtside/nb_serverproxy_openrefine](https://github.com/innovationOUtside/nb_serverproxy_openrefine) - Jupyter server proxy for OpenRefine
-* [bio2kg/bio2kg-registry](https://github.com/bio2kg/bio2kg-registry) - A registry of datasets of relevance to the life sciences. The registry contains dataset metadata, and assigns namespaces, identifier patterns, and URL templates for link outs. The web application provides GraphQL, REST API, and Elasticsearch DSL API.
 <!-- contributions ends -->
 
 </td></tr>
