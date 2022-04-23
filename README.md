@@ -39,6 +39,7 @@ Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 * [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. 100% self-hosted, offline capable and easy to setup.
 * [oxigraph/oxigraph](https://github.com/oxigraph/oxigraph) - SPARQL graph database
 * [perma-id/w3id.org](https://github.com/perma-id/w3id.org) - Website source code for w3id.org.
+* [rocker-org/rocker-versioned2](https://github.com/rocker-org/rocker-versioned2) - Run current & prior versions of R using docker. rocker/r-ver, rocker/rstudio, rocker/shiny, rocker/tidyverse, and so on.
 * [linkml/linkml](https://github.com/linkml/linkml) - Linked Open Data Modeling Language
 * [SDM-TIB/SDM-RDFizer](https://github.com/SDM-TIB/SDM-RDFizer) - An Efficient RML-Compliant Engine for Knowledge Graph Construction
 * [elixir-europe/biohackathon-projects-2021](https://github.com/elixir-europe/biohackathon-projects-2021) - For BioHackathon Europe 2021.
@@ -47,7 +48,6 @@ Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 * [dwslab/jRDF2Vec](https://github.com/dwslab/jRDF2Vec) - A high-performance Java Implementation of RDF2Vec
 * [peta-pico/nanobench](https://github.com/peta-pico/nanobench) - A local client to browse and publish nanopublications.
 * [semantifyit/RocketRML](https://github.com/semantifyit/RocketRML) - None
-* [innovationOUtside/nb_serverproxy_openrefine](https://github.com/innovationOUtside/nb_serverproxy_openrefine) - Jupyter server proxy for OpenRefine
 <!-- contributions ends -->
 
 </td></tr>
