@@ -43,8 +43,8 @@ Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 * [linkml/linkml](https://github.com/linkml/linkml) - Linked Open Data Modeling Language
 * [SDM-TIB/SDM-RDFizer](https://github.com/SDM-TIB/SDM-RDFizer) - An Efficient RML-Compliant Engine for Knowledge Graph Construction
 * [elixir-europe/biohackathon-projects-2021](https://github.com/elixir-europe/biohackathon-projects-2021) - For BioHackathon Europe 2021.
-* [AKSW/LSQ](https://github.com/AKSW/LSQ) - Linked SPARQL Queries (LSQ): Framework for RDFizing triple store (web) logs and performing SPARQL query extraction, analysis and benchmarking in order to produce datasets of Linked SPARQL Queries
 * [dwslab/jRDF2Vec](https://github.com/dwslab/jRDF2Vec) - A high-performance Java Implementation of RDF2Vec
+* [AKSW/LSQ](https://github.com/AKSW/LSQ) - Linked SPARQL Queries (LSQ): Framework for RDFizing triple store (web) logs and performing SPARQL query extraction, analysis and benchmarking in order to produce datasets of Linked SPARQL Queries
 * [pangaea-data-publisher/fuji](https://github.com/pangaea-data-publisher/fuji) - FAIRsFAIR Research Data Object Assessment Service
 * [peta-pico/nanobench](https://github.com/peta-pico/nanobench) - A local client to browse and publish nanopublications.
 * [semantifyit/RocketRML](https://github.com/semantifyit/RocketRML) - None
