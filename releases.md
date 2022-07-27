@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->14<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->15<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[dp_cgans](https://github.com/sunchang0124/dp_cgans)**: [DP-CGANS 0.0.3](https://github.com/sunchang0124/dp_cgans/releases/tag/0.0.3) - 2022-07-26
+<br>None
 * **[rdflib-endpoint](https://github.com/vemonet/rdflib-endpoint)**: [RDFLib Endpoint 0.1.6](https://github.com/vemonet/rdflib-endpoint/releases/tag/0.1.6) - 2022-02-14
 <br>✨️ Deploy SPARQL endpoints from RDFLib Graphs to serve RDF files, machine learning models, or any other logic implemented in Python
 * **[translator-openpredict](https://github.com/MaastrichtU-IDS/translator-openpredict)**: [OpenPredict 0.0.7 using GraphDB backend](https://github.com/MaastrichtU-IDS/translator-openpredict/releases/tag/v0.0.7) - 2022-02-09
