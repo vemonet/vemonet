@@ -47,7 +47,7 @@ Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 * [dwslab/jRDF2Vec](https://github.com/dwslab/jRDF2Vec) - A high-performance Java Implementation of RDF2Vec
 * [pangaea-data-publisher/fuji](https://github.com/pangaea-data-publisher/fuji) - FAIRsFAIR Research Data Object Assessment Service
 * [AKSW/LSQ](https://github.com/AKSW/LSQ) - Linked SPARQL Queries (LSQ): Framework for RDFizing triple store (web) logs and performing SPARQL query extraction, analysis and benchmarking in order to produce datasets of Linked SPARQL Queries
-* [peta-pico/nanobench](https://github.com/peta-pico/nanobench) - A local client to browse and publish nanopublications.
+* [semantifyit/RocketRML](https://github.com/semantifyit/RocketRML) - None
 <!-- contributions ends -->
 
 </td></tr>
