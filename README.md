@@ -47,7 +47,7 @@ Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 * [dwslab/jRDF2Vec](https://github.com/dwslab/jRDF2Vec) - A high-performance Java Implementation of RDF2Vec
 * [pangaea-data-publisher/fuji](https://github.com/pangaea-data-publisher/fuji) - FAIRsFAIR Research Data Object Assessment Service
 * [AKSW/LSQ](https://github.com/AKSW/LSQ) - Linked SPARQL Queries (LSQ): Framework for RDFizing triple store (web) logs and performing SPARQL query extraction, analysis and benchmarking in order to produce datasets of Linked SPARQL Queries
-* [semantifyit/RocketRML](https://github.com/semantifyit/RocketRML) - None
+* [innovationOUtside/nb_serverproxy_openrefine](https://github.com/innovationOUtside/nb_serverproxy_openrefine) - Jupyter server proxy for OpenRefine
 <!-- contributions ends -->
 
 </td></tr>
