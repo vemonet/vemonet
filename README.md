@@ -45,8 +45,8 @@ Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 * [SDM-TIB/SDM-RDFizer](https://github.com/SDM-TIB/SDM-RDFizer) - An Efficient RML-Compliant Engine for Knowledge Graph Construction
 * [elixir-europe/biohackathon-projects-2021](https://github.com/elixir-europe/biohackathon-projects-2021) - For BioHackathon Europe 2021.
 * [dwslab/jRDF2Vec](https://github.com/dwslab/jRDF2Vec) - A high-performance Java Implementation of RDF2Vec
-* [pangaea-data-publisher/fuji](https://github.com/pangaea-data-publisher/fuji) - FAIRsFAIR Research Data Object Assessment Service
 * [AKSW/LSQ](https://github.com/AKSW/LSQ) - Linked SPARQL Queries (LSQ): Framework for RDFizing triple store (web) logs and performing SPARQL query extraction, analysis and benchmarking in order to produce datasets of Linked SPARQL Queries
+* [sunchang0124/dp_cgans](https://github.com/sunchang0124/dp_cgans) - A library to generate synthetic tabular or RDF data using Conditional Generative Adversary Networks (GANs) combined with Differential Privacy techniques.
 * [innovationOUtside/nb_serverproxy_openrefine](https://github.com/innovationOUtside/nb_serverproxy_openrefine) - Jupyter server proxy for OpenRefine
 <!-- contributions ends -->
 
