@@ -3,7 +3,7 @@
 All <!-- release_count starts -->16<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[nanopub](https://github.com/fair-workflows/nanopub)**: [[1.2.11] - 2022-09-27](https://github.com/fair-workflows/nanopub/releases/tag/v1.2.11) - 2022-09-27
+* **[nanopub](https://github.com/fair-workflows/nanopub)**: [v1.2.11](https://github.com/fair-workflows/nanopub/releases/tag/v1.2.11) - 2022-09-27
 <br>Python client for searching, publishing and modifying nanopublications.
 * **[dp_cgans](https://github.com/sunchang0124/dp_cgans)**: [DP-CGANS 0.0.3](https://github.com/sunchang0124/dp_cgans/releases/tag/0.0.3) - 2022-07-26
 <br>A library to generate synthetic tabular or RDF data using Conditional Generative Adversary Networks (GANs) combined with Differential Privacy techniques.
