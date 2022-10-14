@@ -3,15 +3,11 @@
 All <!-- release_count starts -->16<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[nanopub](https://github.com/fair-workflows/nanopub)**: [v1.2.11](https://github.com/fair-workflows/nanopub/releases/tag/v1.2.11) - 2022-09-27
-<br>Python client for searching, publishing and modifying nanopublications.
 * **[dp_cgans](https://github.com/sunchang0124/dp_cgans)**: [DP-CGANS 0.0.3](https://github.com/sunchang0124/dp_cgans/releases/tag/0.0.3) - 2022-07-26
 <br>A library to generate synthetic tabular or RDF data using Conditional Generative Adversary Networks (GANs) combined with Differential Privacy techniques.
-* **[rdflib-endpoint](https://github.com/vemonet/rdflib-endpoint)**: [RDFLib Endpoint 0.1.6](https://github.com/vemonet/rdflib-endpoint/releases/tag/0.1.6) - 2022-02-14
+* **[rdflib-endpoint](https://github.com/vemonet/rdflib-endpoint)**: [RDFlib endpoint 0.1.0](https://github.com/vemonet/rdflib-endpoint/releases/tag/0.1.0) - 2021-12-07
 <br>✨️ Deploy SPARQL endpoints from RDFLib Graphs to serve RDF files, machine learning models, or any other logic implemented in Python
-* **[translator-openpredict](https://github.com/MaastrichtU-IDS/translator-openpredict)**: [OpenPredict 0.0.7 using GraphDB backend](https://github.com/MaastrichtU-IDS/translator-openpredict/releases/tag/v0.0.7) - 2022-02-09
-<br>🔮🐍 Translator API to compute and serve predictions of biomedical concepts associations
-* **[oxigraph](https://github.com/vemonet/oxigraph)**: [Beta Release 0.3.0](https://github.com/vemonet/oxigraph/releases/tag/v0.3.0-beta) - 2021-12-15
+* **[oxigraph](https://github.com/vemonet/oxigraph)**: [v0.2.5](https://github.com/vemonet/oxigraph/releases/tag/v0.2.5) - 2021-12-07
 <br>🦀 SPARQL graph database
 * **[setup-spark](https://github.com/vemonet/setup-spark)**: [Setup Spark v1](https://github.com/vemonet/setup-spark/releases/tag/v1) - 2021-11-06
 <br>✨ Setup Apache Spark in GitHub Action workflows
@@ -19,20 +15,24 @@ All <!-- release_count starts -->16<!-- release_count ends --> of my released pr
 <br>Convert SHACL Compact to SHACL RDF.
 * **[sparql-operations-action](https://github.com/vemonet/sparql-operations-action)**: [SPARQL Operations](https://github.com/vemonet/sparql-operations-action/releases/tag/v1) - 2021-04-12
 <br>Action to execute SPARQL operations using RDF4J
-* **[d2s-sparql-operations](https://github.com/MaastrichtU-IDS/d2s-sparql-operations)**: [Release Maven package](https://github.com/MaastrichtU-IDS/d2s-sparql-operations/releases/tag/v0.0.3) - 2021-02-23
+* **[d2s-sparql-operations](https://github.com/MaastrichtU-IDS/d2s-sparql-operations)**: [Add operation to upload RDF files](https://github.com/MaastrichtU-IDS/d2s-sparql-operations/releases/tag/v0.0.2) - 2021-02-23
 <br>✨️ Execute SPARQL queries from string, URL or multiple files using the RDF4J framework.
+* **[nanopub](https://github.com/fair-workflows/nanopub)**: [v1.2.2](https://github.com/fair-workflows/nanopub/releases/tag/v1.2.2) - 2021-01-29
+<br>Python client for searching, publishing and modifying nanopublications.
 * **[Jupyterlab](https://github.com/vemonet/Jupyterlab)**: [JupyterLab 2.0](https://github.com/vemonet/Jupyterlab/releases/tag/v2.0) - 2021-01-27
 <br>🪐 Hassle-free JupyterLab Docker container with root user
-* **[objmpp-classification](https://github.com/JEmonet67/objmpp-classification)**: [Version 0.1.1](https://github.com/JEmonet67/objmpp-classification/releases/tag/0.1.1) - 2020-11-15
-<br>None
 * **[nanobench](https://github.com/vemonet/nanobench)**: [-1.10.1](https://github.com/vemonet/nanobench/releases/tag/v1.10.1) - 2020-09-24
 <br>🛋️ Java web UI to publish Nanopublications
-* **[rmlmapper-java](https://github.com/vemonet/rmlmapper-java)**: [v4.9.0 GitHub Action](https://github.com/vemonet/rmlmapper-java/releases/tag/v4.9.0) - 2020-09-16
-<br>The RMLMapper executes RML rules to generate high quality Linked Data from multiple originally (semi-)structured data sources
-* **[flink-rmlstreamer](https://github.com/vemonet/flink-rmlstreamer)**: [RMLStreamer v2.0.0](https://github.com/vemonet/flink-rmlstreamer/releases/tag/v2.0.0) - 2020-09-11
+* **[translator-openpredict](https://github.com/MaastrichtU-IDS/translator-openpredict)**: [Release 0.0.1](https://github.com/MaastrichtU-IDS/translator-openpredict/releases/tag/0.0.1) - 2020-08-26
+<br>🔮🐍 Translator API to compute and serve predictions of biomedical concepts associations
+* **[flink-rmlstreamer](https://github.com/vemonet/flink-rmlstreamer)**: [RMLStreamer v1.2.3](https://github.com/vemonet/flink-rmlstreamer/releases/tag/v1.2.3) - 2020-08-24
 <br>🐿️ Apache Flink with RMLStreamer jar included
+* **[objmpp-classification](https://github.com/JEmonet67/objmpp-classification)**: [Release 0.0.1](https://github.com/JEmonet67/objmpp-classification/releases/tag/0.0.1) - 2020-06-30
+<br>None
 * **[jena-riot-action](https://github.com/vemonet/jena-riot-action)**: [GitHub Action for Jena riot v3.14](https://github.com/vemonet/jena-riot-action/releases/tag/v3.14) - 2020-06-03
 <br>GitHub Action for Apache Jena riot tool
 * **[yarrrml-parser](https://github.com/vemonet/yarrrml-parser)**: [YARRRML Parser GitHub Action for v1.1](https://github.com/vemonet/yarrrml-parser/releases/tag/v1.1) - 2020-06-01
 <br>A YARRRML parser library and CLI in Javascript
+* **[rmlmapper-java](https://github.com/vemonet/rmlmapper-java)**: [Action for rmlmapper v4.8.0](https://github.com/vemonet/rmlmapper-java/releases/tag/v4.8) - 2020-05-29
+<br>The RMLMapper executes RML rules to generate high quality Linked Data from multiple originally (semi-)structured data sources
 <!-- recent_releases ends -->
