@@ -17,10 +17,10 @@ All <!-- release_count starts -->16<!-- release_count ends --> of my released pr
 <br>Action to execute SPARQL operations using RDF4J
 * **[d2s-sparql-operations](https://github.com/MaastrichtU-IDS/d2s-sparql-operations)**: [Add operation to upload RDF files](https://github.com/MaastrichtU-IDS/d2s-sparql-operations/releases/tag/v0.0.2) - 2021-02-23
 <br>✨️ Execute SPARQL queries from string, URL or multiple files using the RDF4J framework.
-* **[nanopub](https://github.com/fair-workflows/nanopub)**: [v1.2.2](https://github.com/fair-workflows/nanopub/releases/tag/v1.2.2) - 2021-01-29
-<br>Python client for searching, publishing and modifying nanopublications.
 * **[Jupyterlab](https://github.com/vemonet/Jupyterlab)**: [JupyterLab 2.0](https://github.com/vemonet/Jupyterlab/releases/tag/v2.0) - 2021-01-27
 <br>🪐 Hassle-free JupyterLab Docker container with root user
+* **[nanopub](https://github.com/fair-workflows/nanopub)**: [v0.1.1](https://github.com/fair-workflows/nanopub/releases/tag/v0.1.1) - 2020-10-08
+<br>Python client for searching, publishing and modifying nanopublications.
 * **[nanobench](https://github.com/vemonet/nanobench)**: [-1.10.1](https://github.com/vemonet/nanobench/releases/tag/v1.10.1) - 2020-09-24
 <br>🛋️ Java web UI to publish Nanopublications
 * **[translator-openpredict](https://github.com/MaastrichtU-IDS/translator-openpredict)**: [Release 0.0.1](https://github.com/MaastrichtU-IDS/translator-openpredict/releases/tag/0.0.1) - 2020-08-26
