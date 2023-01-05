@@ -24,7 +24,7 @@ All <!-- release_count starts -->16<!-- release_count ends --> of my released pr
 * **[nanobench](https://github.com/vemonet/nanobench)**: [-1.10.1](https://github.com/vemonet/nanobench/releases/tag/v1.10.1) - 2020-09-24
 <br>🛋️ Java web UI to publish Nanopublications
 * **[translator-openpredict](https://github.com/MaastrichtU-IDS/translator-openpredict)**: [Release 0.0.1](https://github.com/MaastrichtU-IDS/translator-openpredict/releases/tag/0.0.1) - 2020-08-26
-<br>🔮🐍 Translator API to compute and serve predictions of biomedical concepts associations
+<br>🔮🐍 A package to help serve predictions of biomedical concepts associations as Translator Reasoner API
 * **[flink-rmlstreamer](https://github.com/vemonet/flink-rmlstreamer)**: [RMLStreamer v1.2.3](https://github.com/vemonet/flink-rmlstreamer/releases/tag/v1.2.3) - 2020-08-24
 <br>🐿️ Apache Flink with RMLStreamer jar included
 * **[objmpp-classification](https://github.com/JEmonet67/objmpp-classification)**: [Release 0.0.1](https://github.com/JEmonet67/objmpp-classification/releases/tag/0.0.1) - 2020-06-30

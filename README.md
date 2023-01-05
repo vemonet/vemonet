@@ -36,7 +36,7 @@ Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 
 ### 🧞 Contributions to Open Source
 <!-- contributions starts -->
-* [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. 100% self-hosted, offline capable and easy to setup.
+* [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
 * [pysemtec/semantic-python-overview](https://github.com/pysemtec/semantic-python-overview) - (subjective) overview of projects which are related both to python and semantic technologies (RDF, OWL, Reasoning, ...)
 * [rocker-org/rocker-versioned2](https://github.com/rocker-org/rocker-versioned2) - Run current & prior versions of R using docker. rocker/r-ver, rocker/rstudio, rocker/shiny, rocker/tidyverse, and so on.
 * [perma-id/w3id.org](https://github.com/perma-id/w3id.org) - Website source code for w3id.org.
