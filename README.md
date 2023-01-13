@@ -40,6 +40,7 @@ Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 * [pysemtec/semantic-python-overview](https://github.com/pysemtec/semantic-python-overview) - (subjective) overview of projects which are related both to python and semantic technologies (RDF, OWL, Reasoning, ...)
 * [rocker-org/rocker-versioned2](https://github.com/rocker-org/rocker-versioned2) - Run current & prior versions of R using docker. rocker/r-ver, rocker/rstudio, rocker/shiny, rocker/tidyverse, and so on.
 * [perma-id/w3id.org](https://github.com/perma-id/w3id.org) - Website source code for w3id.org.
+* [semantifyit/RocketRML](https://github.com/semantifyit/RocketRML) - None
 * [fair-workflows/nanopub](https://github.com/fair-workflows/nanopub) - Python client for searching, publishing and modifying nanopublications.
 * [pldn/LDWizard](https://github.com/pldn/LDWizard) - 🧙 LDWizard
 * [sunchang0124/dp_cgans](https://github.com/sunchang0124/dp_cgans) - A library to generate synthetic tabular or RDF data using Conditional Generative Adversary Networks (GANs) combined with Differential Privacy techniques.
@@ -47,7 +48,6 @@ Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 * [Nanopublication/nanopub-testsuite](https://github.com/Nanopublication/nanopub-testsuite) - Testsuite for nanopublications
 * [bio2kg/bio2kg-etl](https://github.com/bio2kg/bio2kg-etl) - ETL workflows for the Bio2KG project
 * [micheldumontier/hcls-shex](https://github.com/micheldumontier/hcls-shex) - ShEX and SHACL for validation of HCLS Dataset Descriptions
-* [LUMC-BioSemantics/RD-FAIRmetric-F4](https://github.com/LUMC-BioSemantics/RD-FAIRmetric-F4) - RD-FAIRmetric-F4
 <!-- contributions ends -->
 
 </td></tr>
