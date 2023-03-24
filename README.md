@@ -45,9 +45,9 @@ Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 * [fair-workflows/nanopub](https://github.com/fair-workflows/nanopub) - Python client for searching, publishing and modifying nanopublications.
 * [pldn/LDWizard](https://github.com/pldn/LDWizard) - 🧙 LDWizard
 * [sunchang0124/dp_cgans](https://github.com/sunchang0124/dp_cgans) - A library to generate synthetic tabular or RDF data using Conditional Generative Adversary Networks (GANs) combined with Differential Privacy techniques.
+* [cthoyt/curies](https://github.com/cthoyt/curies) - 🐸 Idiomatic conversion between URIs and compact URIs (CURIEs)
 * [Nanopublication/nanopub-testsuite](https://github.com/Nanopublication/nanopub-testsuite) - Testsuite for nanopublications
 * [bio2kg/bio2kg-etl](https://github.com/bio2kg/bio2kg-etl) - ETL workflows for the Bio2KG project
-* [micheldumontier/hcls-shex](https://github.com/micheldumontier/hcls-shex) - ShEX and SHACL for validation of HCLS Dataset Descriptions
 <!-- contributions ends -->
 
 </td></tr>
