@@ -41,13 +41,13 @@ Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 * [rocker-org/rocker-versioned2](https://github.com/rocker-org/rocker-versioned2) - Run current & prior versions of R using docker. rocker/r-ver, rocker/rstudio, rocker/shiny, rocker/tidyverse, and so on.
 * [linkml/linkml](https://github.com/linkml/linkml) - Linked Open Data Modeling Language
 * [biolink/biolink-model](https://github.com/biolink/biolink-model) - Schema and generated objects for biolink data model and upper ontology
+* [biopragmatics/bioregistry](https://github.com/biopragmatics/bioregistry) - 📮 An integrative registry of biological databases, ontologies, and nomenclatures.
 * [semantifyit/RocketRML](https://github.com/semantifyit/RocketRML) - None
 * [fair-workflows/nanopub](https://github.com/fair-workflows/nanopub) - Python client for searching, publishing and modifying nanopublications.
 * [pldn/LDWizard](https://github.com/pldn/LDWizard) - 🧙 LDWizard
 * [sunchang0124/dp_cgans](https://github.com/sunchang0124/dp_cgans) - A library to generate synthetic tabular or RDF data using Conditional Generative Adversary Networks (GANs) combined with Differential Privacy techniques.
 * [cthoyt/curies](https://github.com/cthoyt/curies) - 🐸 Idiomatic conversion between URIs and compact URIs (CURIEs)
 * [Nanopublication/nanopub-testsuite](https://github.com/Nanopublication/nanopub-testsuite) - Testsuite for nanopublications
-* [bio2kg/bio2kg-etl](https://github.com/bio2kg/bio2kg-etl) - ETL workflows for the Bio2KG project
 <!-- contributions ends -->
 
 </td></tr>
