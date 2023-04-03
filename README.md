@@ -37,6 +37,7 @@ Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 ### 🧞 Contributions to Open Source
 <!-- contributions starts -->
 * [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
+* [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
 * [pysemtec/semantic-python-overview](https://github.com/pysemtec/semantic-python-overview) - (subjective) overview of projects which are related both to python and semantic technologies (RDF, OWL, Reasoning, ...)
 * [rocker-org/rocker-versioned2](https://github.com/rocker-org/rocker-versioned2) - Run current & prior versions of R using docker. rocker/r-ver, rocker/rstudio, rocker/shiny, rocker/tidyverse, and so on.
 * [linkml/linkml](https://github.com/linkml/linkml) - Linked Open Data Modeling Language
@@ -47,7 +48,6 @@ Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 * [fair-workflows/nanopub](https://github.com/fair-workflows/nanopub) - Python client for searching, publishing and modifying nanopublications.
 * [pldn/LDWizard](https://github.com/pldn/LDWizard) - 🧙 LDWizard
 * [sunchang0124/dp_cgans](https://github.com/sunchang0124/dp_cgans) - A library to generate synthetic tabular or RDF data using Conditional Generative Adversary Networks (GANs) combined with Differential Privacy techniques.
-* [cthoyt/curies](https://github.com/cthoyt/curies) - 🐸 Idiomatic conversion between URIs and compact URIs (CURIEs)
 <!-- contributions ends -->
 
 </td></tr>
