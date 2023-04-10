@@ -42,8 +42,8 @@ Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 * [rocker-org/rocker-versioned2](https://github.com/rocker-org/rocker-versioned2) - Run current & prior versions of R using docker. rocker/r-ver, rocker/rstudio, rocker/shiny, rocker/tidyverse, and so on.
 * [linkml/linkml](https://github.com/linkml/linkml) - Linked Open Data Modeling Language
 * [biolink/biolink-model](https://github.com/biolink/biolink-model) - Schema and generated objects for biolink data model and upper ontology
-* [biopragmatics/bioregistry](https://github.com/biopragmatics/bioregistry) - 📮 An integrative registry of biological databases, ontologies, and nomenclatures.
 * [monarch-initiative/ontogpt](https://github.com/monarch-initiative/ontogpt) - GPT-based ontological extraction tools, including SPIRES
+* [biopragmatics/bioregistry](https://github.com/biopragmatics/bioregistry) - 📮 An integrative registry of biological databases, ontologies, and nomenclatures.
 * [semantifyit/RocketRML](https://github.com/semantifyit/RocketRML) - None
 * [fair-workflows/nanopub](https://github.com/fair-workflows/nanopub) - Python client for searching, publishing and modifying nanopublications.
 * [pldn/LDWizard](https://github.com/pldn/LDWizard) - 🧙 LDWizard
