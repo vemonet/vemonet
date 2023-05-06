@@ -38,8 +38,8 @@ Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 <!-- contributions starts -->
 * [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
 * [pysemtec/semantic-python-overview](https://github.com/pysemtec/semantic-python-overview) - (subjective) overview of projects which are related both to python and semantic technologies (RDF, OWL, Reasoning, ...)
-* [linkml/linkml](https://github.com/linkml/linkml) - Linked Open Data Modeling Language
 * [monarch-initiative/ontogpt](https://github.com/monarch-initiative/ontogpt) - GPT-based ontological extraction tools, including SPIRES
+* [linkml/linkml](https://github.com/linkml/linkml) - Linked Open Data Modeling Language
 * [biolink/biolink-model](https://github.com/biolink/biolink-model) - Schema and generated objects for biolink data model and upper ontology
 * [biopragmatics/bioregistry](https://github.com/biopragmatics/bioregistry) - 📮 An integrative registry of biological databases, ontologies, and nomenclatures.
 * [semantifyit/RocketRML](https://github.com/semantifyit/RocketRML) - None
