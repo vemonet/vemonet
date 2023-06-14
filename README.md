@@ -37,7 +37,6 @@ Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 ### 🧞 Contributions to Open Source
 <!-- contributions starts -->
 * [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
-* [pysemtec/semantic-python-overview](https://github.com/pysemtec/semantic-python-overview) - (subjective) overview of projects which are related both to python and semantic technologies (RDF, OWL, Reasoning, ...)
 * [monarch-initiative/ontogpt](https://github.com/monarch-initiative/ontogpt) - GPT-based ontological extraction tools, including SPIRES
 * [linkml/linkml](https://github.com/linkml/linkml) - Linked Open Data Modeling Language
 * [biolink/biolink-model](https://github.com/biolink/biolink-model) - Schema and generated objects for biolink data model and upper ontology
@@ -48,6 +47,7 @@ Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 * [cthoyt/curies](https://github.com/cthoyt/curies) - 🐸 Idiomatic conversion between URIs and compact URIs (CURIEs)
 * [pldn/LDWizard](https://github.com/pldn/LDWizard) - 🧙 LDWizard
 * [weiweivv2222/tracking-information-process-ontology](https://github.com/weiweivv2222/tracking-information-process-ontology) - The ontology to track the information of process
+* [Nanopublication/nanopub-testsuite](https://github.com/Nanopublication/nanopub-testsuite) - Testsuite for nanopublications
 <!-- contributions ends -->
 
 </td></tr>
