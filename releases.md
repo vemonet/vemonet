@@ -1,6 +1,6 @@
 # Released projects
 
-All <!-- release_count starts -->16<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->17<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[dp_cgans](https://github.com/sunchang0124/dp_cgans)**: [DP-CGANS 0.0.4](https://github.com/sunchang0124/dp_cgans/releases/tag/0.0.4) - 2022-07-26
@@ -13,6 +13,8 @@ All <!-- release_count starts -->16<!-- release_count ends --> of my released pr
 <br>✨ Setup Apache Spark in GitHub Action workflows
 * **[shacl-convert](https://github.com/vemonet/shacl-convert)**: [Initial release](https://github.com/vemonet/shacl-convert/releases/tag/0.0.1) - 2021-11-02
 <br>Convert SHACL Compact to SHACL RDF.
+* **[Emote](https://github.com/tom-james-watson/Emote)**: [v3.0.3](https://github.com/tom-james-watson/Emote/releases/tag/v3.0.3) - 2021-09-23
+<br>Emoji Picker for Linux written in GTK3
 * **[sparql-operations-action](https://github.com/vemonet/sparql-operations-action)**: [SPARQL Operations](https://github.com/vemonet/sparql-operations-action/releases/tag/v1) - 2021-04-12
 <br>Action to execute SPARQL operations using RDF4J
 * **[d2s-sparql-operations](https://github.com/MaastrichtU-IDS/d2s-sparql-operations)**: [Add operation to upload RDF files](https://github.com/MaastrichtU-IDS/d2s-sparql-operations/releases/tag/v0.0.2) - 2021-02-23
