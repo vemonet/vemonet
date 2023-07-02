@@ -17,7 +17,7 @@ Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 
 <table><tr><td valign="top" width="50%">
 
-### 👨‍💻 Projects I am currently working on
+### 👨‍💻 Recent projects
 [**💠 Shapes of you**](https://github.com/vemonet/shapes-of-you): an index for publicly available semantic resources (ontologies,  vocabularies, shapes, queries, mappings) stored in Git repositories  (GitHub, GitLab, Gitee). Visit **[index.semanticscience.org](https://index.semanticscience.org)** 
 
 [**♻️ FAIR Enough**](https://github.com/MaastrichtU-IDS/fair-enough): a service to define and run evaluations of the FAIR principles (Findable, Accessible, Interoperable, Reusable) on online resources. Visit **[fair-enough.semanticscience.org](https://fair-enough.semanticscience.org)** 
@@ -25,8 +25,6 @@ Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 [**🔬 Nanopublications and the Knowledge Collaboratory**](http://nanopub.org/wordpress/): An ecosystem to publish and retrieve scientific claims using [Translator standards](https://github.com/NCATSTranslator/ReasonerAPI). Visit **[api.collaboratory.semanticscience.org](https://api.collaboratory.semanticscience.org/)**
 
 [**🔭 The Data Science Research Infrastructure**](https://dsri.maastrichtuniversity.nl): An [OKD Kubernetes](https://www.okd.io/) cluster to run Data Science experiments at [Maastricht University](https://maastrichtuniversity.nl). Visit [**dsri.maastrichtuniversity.nl**](https://dsri.maastrichtuniversity.nl)
-
-[**🧙‍♂️ JSON-LD Editor**](https://github.com/vemonet/json-ld-editor-react): a JSON-LD web editor, with autocomplete based on concepts and properties from loaded ontologies. Visit **[vemonet.github.io/json-ld-editor-react](https://vemonet.github.io/json-ld-editor-react)** 
 
 [**🧭 into-the-graph**](https://github.com/MaastrichtU-IDS/into-the-graph): A lightweight web browser for SPARQL endpoints. Visit **[maastrichtu-ids.github.io/into-the-graph](https://maastrichtu-ids.github.io/into-the-graph)**
 
@@ -52,25 +50,7 @@ Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 
 </td></tr>
 
-<tr><td valign="top" width="50%">
-
-### 🛩️ Also maintaining the deployment of
-* [⚕️ Bio2RDF](https://bio2rdf.org/)
-* [🔗 SemanticScience ontology website](https://semanticscience.org/resource/SIO_000000)
-* [⚖️ FAIR Evaluator](https://fair-evaluator.semanticscience.org/FAIR_Evaluator/)
-* [🔬 Dumontierlab Nanopubs services](http://grlc.np.dumontierlab.com/api/local/local/)
-* [🌐 GraphDB dumontierlab.com](https://graphdb.dumontierlab.com/)
-
-</td><td valign="top" width="50%">
-
-### 🏺 Previous projects
-* [🌾 AgroPortal](http://agroportal.lirmm.fr/)
-* [📝 BioPortal Annotator+](https://bioportal.bioontology.org/annotatorplus)
-* [🎯 Yam++ Online ontology matcher](https://yamplusplus.lirmm.fr/)
-* [🐧 ADVANSE web services](http://advanse.lirmm.fr)
-* [🗜️ Talend ETL components for the Semantic Web](https://github.com/vemonet/talend4sw)
-
-</td></tr></table>
+</table>
 
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">

@@ -99,7 +99,7 @@ def fetch_releases(oauth_token):
 
 def fetch_contributions(oauth_token):
     graphql_get_contributions = """
-    query { 
+    query {
         viewer {
             repositoriesContributedTo(first: 100, contributionTypes: [COMMIT], orderBy:{field: STARGAZERS, direction: DESC}) {
                 totalCount
@@ -123,7 +123,7 @@ def fetch_contributions(oauth_token):
         headers={"Authorization": "Bearer {}".format(oauth_token)},
     )
     for repo in data["data"]["viewer"]["repositoriesContributedTo"]["nodes"]:
-        # Do not take MaastrichtU-IDS repos 
+        # Do not take MaastrichtU-IDS repos
         if repo['owner']['id'] != 'MDEyOk9yZ2FuaXphdGlvbjM2MjYyNTI2':
             contributions.append(
                 {
@@ -137,7 +137,7 @@ def fetch_contributions(oauth_token):
 
 if __name__ == "__main__":
     readme = root / "README.md"
-    
+
     readme_contents = readme.open().read()
 
     ## Get Contributions to other repositories
@@ -152,7 +152,7 @@ if __name__ == "__main__":
         ]
     )
     rewritten = replace_chunk(readme_contents, "contributions", contributions_md)
-    
+
     ## Save updated readme
     readme.open("w").write(rewritten)
 
@@ -161,7 +161,7 @@ if __name__ == "__main__":
     project_releases = root / "releases.md"
     releases = fetch_releases(TOKEN)
     releases.sort(key=lambda r: r["published_at"], reverse=True)
-    
+
     project_releases_md = "\n".join(
         [
             (
@@ -193,9 +193,9 @@ if __name__ == "__main__":
     ### Get all my nanopublications (test)
 
     # curl -X GET "http://grlc.nanopubs.lod.labs.vu.nl/api/local/local/find_signed_nanopubs?pubkey=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCR9fz0fKCdWOWC%2BpxhkQhEM%2FppbdIYe5TLSdj%2BlJzSlv9mYBaPgrzVezSwwbmhlHBPDZa4%2FvHycU315BdmUGq%2BpXllp9%2BrWFfrb%2BkBJwhZjpG6BeyyXBsRFz4jmQVxl%2FZYHilQTh%2FXalYzKkEAyTiEMPee4Kz61PaWOKH24CsnOQIDAQAB" -H  "accept: text/csv"
-    # nanopubs_request = requests.get('http://grlc.nanopubs.lod.labs.vu.nl/api/local/local/find_signed_nanopubs?pubkey=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCR9fz0fKCdWOWC%2BpxhkQhEM%2FppbdIYe5TLSdj%2BlJzSlv9mYBaPgrzVezSwwbmhlHBPDZa4%2FvHycU315BdmUGq%2BpXllp9%2BrWFfrb%2BkBJwhZjpG6BeyyXBsRFz4jmQVxl%2FZYHilQTh%2FXalYzKkEAyTiEMPee4Kz61PaWOKH24CsnOQIDAQAB', 
+    # nanopubs_request = requests.get('http://grlc.nanopubs.lod.labs.vu.nl/api/local/local/find_signed_nanopubs?pubkey=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCR9fz0fKCdWOWC%2BpxhkQhEM%2FppbdIYe5TLSdj%2BlJzSlv9mYBaPgrzVezSwwbmhlHBPDZa4%2FvHycU315BdmUGq%2BpXllp9%2BrWFfrb%2BkBJwhZjpG6BeyyXBsRFz4jmQVxl%2FZYHilQTh%2FXalYzKkEAyTiEMPee4Kz61PaWOKH24CsnOQIDAQAB',
     #         headers={"accept": "text/csv"})
-    
+
     # print(nanopubs_request.content)
     # nanopubs_csv = csv.reader(nanopubs_request, delimiter=',')
     # graph = Graph()
