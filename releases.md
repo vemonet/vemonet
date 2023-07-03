@@ -4,7 +4,7 @@ All <!-- release_count starts -->18<!-- release_count ends --> of my released pr
 
 <!-- recent_releases starts -->
 * **[EmojiMart](https://github.com/vemonet/EmojiMart)**: [Emoji Mart v0.1.0](https://github.com/vemonet/EmojiMart/releases/tag/v0.1.0) - 2023-06-26
-<br>🏪 Modern emoji picker popup for desktop, based on Emoji Mart, built with Tauri and Solid JS
+<br>🏪 Modern emoji picker popup for desktop, based on Emoji Mart, built with Tauri and Svelte
 * **[dp_cgans](https://github.com/sunchang0124/dp_cgans)**: [DP-CGANS 0.0.4](https://github.com/sunchang0124/dp_cgans/releases/tag/0.0.4) - 2022-07-26
 <br>A library to generate synthetic tabular or RDF data using Conditional Generative Adversary Networks (GANs) combined with Differential Privacy techniques.
 * **[rdflib-endpoint](https://github.com/vemonet/rdflib-endpoint)**: [RDFlib endpoint 0.1.0](https://github.com/vemonet/rdflib-endpoint/releases/tag/0.1.0) - 2021-12-07
