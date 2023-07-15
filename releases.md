@@ -3,6 +3,8 @@
 All <!-- release_count starts -->18<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[setup-spark](https://github.com/vemonet/setup-spark)**: [v1.1.0](https://github.com/vemonet/setup-spark/releases/tag/v1.1.0) - 2023-07-13
+<br>✨ Setup Apache Spark in GitHub Action workflows
 * **[EmojiMart](https://github.com/vemonet/EmojiMart)**: [Emoji Mart v0.1.0](https://github.com/vemonet/EmojiMart/releases/tag/v0.1.0) - 2023-06-26
 <br>🏪 Modern emoji picker popup for desktop, based on Emoji Mart, built with Tauri and Svelte
 * **[dp_cgans](https://github.com/sunchang0124/dp_cgans)**: [DP-CGANS 0.0.4](https://github.com/sunchang0124/dp_cgans/releases/tag/0.0.4) - 2022-07-26
@@ -11,8 +13,6 @@ All <!-- release_count starts -->18<!-- release_count ends --> of my released pr
 <br>💫 Deploy SPARQL endpoints from RDFLib Graphs to serve RDF files, machine learning models, or any other logic implemented in Python
 * **[oxigraph](https://github.com/vemonet/oxigraph)**: [v0.2.5](https://github.com/vemonet/oxigraph/releases/tag/v0.2.5) - 2021-12-07
 <br>🦀 SPARQL graph database
-* **[setup-spark](https://github.com/vemonet/setup-spark)**: [Setup Spark v1](https://github.com/vemonet/setup-spark/releases/tag/v1) - 2021-11-06
-<br>✨ Setup Apache Spark in GitHub Action workflows
 * **[shacl-convert](https://github.com/vemonet/shacl-convert)**: [Initial release](https://github.com/vemonet/shacl-convert/releases/tag/0.0.1) - 2021-11-02
 <br>Convert SHACL Compact to SHACL RDF.
 * **[Emote](https://github.com/tom-james-watson/Emote)**: [v3.0.3](https://github.com/tom-james-watson/Emote/releases/tag/v3.0.3) - 2021-09-23
