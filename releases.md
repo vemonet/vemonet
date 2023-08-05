@@ -4,7 +4,7 @@ All <!-- release_count starts -->19<!-- release_count ends --> of my released pr
 
 <!-- recent_releases starts -->
 * **[libre-chat](https://github.com/vemonet/libre-chat)**: [v0.0.1](https://github.com/vemonet/libre-chat/releases/tag/0.0.1) - 2023-07-30
-<br>🦙 Free and Open Source Large Language Model (LLM) chatbot web UI and API. Self-hosted, offline capable and easy to setup. Based on LangChain and Llama 2
+<br>🦙 Free and Open Source Large Language Model (LLM) chatbot web UI and API. Self-hosted, offline capable and easy to setup. Powered by LangChain and Llama 2
 * **[setup-spark](https://github.com/vemonet/setup-spark)**: [v1.1.0](https://github.com/vemonet/setup-spark/releases/tag/v1.1.0) - 2023-07-13
 <br>✨ Setup Apache Spark in GitHub Action workflows
 * **[EmojiMart](https://github.com/vemonet/EmojiMart)**: [Emoji Mart v0.1.0](https://github.com/vemonet/EmojiMart/releases/tag/v0.1.0) - 2023-06-26
