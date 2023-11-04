@@ -39,13 +39,13 @@ Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 * [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
 * [tom-james-watson/Emote](https://github.com/tom-james-watson/Emote) - Emoji Picker for Linux written in GTK3
 * [monarch-initiative/ontogpt](https://github.com/monarch-initiative/ontogpt) - LLM-based ontological extraction tools, including SPIRES
+* [perma-id/w3id.org](https://github.com/perma-id/w3id.org) - Website source code for w3id.org.
 * [linkml/linkml](https://github.com/linkml/linkml) - Linked Open Data Modeling Language
 * [biolink/biolink-model](https://github.com/biolink/biolink-model) - Schema and generated objects for biolink data model and upper ontology
 * [biopragmatics/bioregistry](https://github.com/biopragmatics/bioregistry) - 📮 An integrative registry of biological databases, ontologies, and nomenclatures.
 * [semantifyit/RocketRML](https://github.com/semantifyit/RocketRML) - None
 * [fair-workflows/nanopub](https://github.com/fair-workflows/nanopub) - Python client for searching, publishing and modifying nanopublications.
 * [cthoyt/curies](https://github.com/cthoyt/curies) - 🐸 Idiomatic conversion between URIs and compact URIs (CURIEs)
-* [pldn/LDWizard](https://github.com/pldn/LDWizard) - 🧙 LDWizard
 <!-- contributions ends -->
 
 </td></tr>
