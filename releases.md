@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->19<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->20<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[nanopub-rs](https://github.com/vemonet/nanopub-rs)**: [v0.0.1](https://github.com/vemonet/nanopub-rs/releases/tag/v0.0.1) - 2023-11-20
+<br>✍️ A cross-platform Rust library to sign Nanopublications, with bindings to Python and JS (wasm)
 * **[libre-chat](https://github.com/vemonet/libre-chat)**: [v0.0.1](https://github.com/vemonet/libre-chat/releases/tag/0.0.1) - 2023-07-30
 <br>🦙 Free and Open Source Large Language Model (LLM) chatbot web UI and API. Self-hosted, offline capable and easy to setup. Powered by LangChain.
 * **[setup-spark](https://github.com/vemonet/setup-spark)**: [v1.1.0](https://github.com/vemonet/setup-spark/releases/tag/v1.1.0) - 2023-07-13
