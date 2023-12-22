@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->20<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->21<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[ptrie](https://github.com/vemonet/ptrie)**: [v0.5.1](https://github.com/vemonet/ptrie/releases/tag/v0.5.1) - 2023-12-21
+<br>🎄 Generic trie data structure (prefix tree) in Rust, with functions to search for common prefixes and postfixes
 * **[nanopub-rs](https://github.com/vemonet/nanopub-rs)**: [v0.0.1](https://github.com/vemonet/nanopub-rs/releases/tag/v0.0.1) - 2023-11-20
 <br>✍️ A cross-platform Rust library to sign, publish, and check Nanopublications, with bindings to Python and JS (wasm)
 * **[libre-chat](https://github.com/vemonet/libre-chat)**: [v0.0.1](https://github.com/vemonet/libre-chat/releases/tag/0.0.1) - 2023-07-30
