@@ -35,6 +35,7 @@ Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 ### 🧞 Contributions to Open Source
 <!-- contributions starts -->
 * [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
+* [missive/emoji-mart](https://github.com/missive/emoji-mart) - 🏪 One component to pick them all
 * [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
 * [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
 * [tom-james-watson/Emote](https://github.com/tom-james-watson/Emote) - Emoji Picker for Linux written in GTK3
@@ -45,7 +46,6 @@ Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 * [biopragmatics/bioregistry](https://github.com/biopragmatics/bioregistry) - 📮 An integrative registry of biological databases, ontologies, and nomenclatures.
 * [sunchang0124/dp_cgans](https://github.com/sunchang0124/dp_cgans) - A library to generate synthetic tabular or RDF data using Conditional Generative Adversary Networks (GANs) combined with Differential Privacy techniques.
 * [cthoyt/curies](https://github.com/cthoyt/curies) - 🐸 Idiomatic conversion between URIs and compact URIs (CURIEs)
-* [elixir-europe/biohackathon-projects-2023](https://github.com/elixir-europe/biohackathon-projects-2023) - Project code for BioHackathon Europe 2023.
 <!-- contributions ends -->
 
 </td></tr>
