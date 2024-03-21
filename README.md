@@ -38,6 +38,7 @@ Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 * [missive/emoji-mart](https://github.com/missive/emoji-mart) - 🏪 One component to pick them all
 * [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
 * [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
+* [tauri-apps/tauri-docs](https://github.com/tauri-apps/tauri-docs) - The source for all Tauri project documentation.
 * [tom-james-watson/Emote](https://github.com/tom-james-watson/Emote) - Emoji Picker for Linux written in GTK3
 * [monarch-initiative/ontogpt](https://github.com/monarch-initiative/ontogpt) - LLM-based ontological extraction tools, including SPIRES
 * [perma-id/w3id.org](https://github.com/perma-id/w3id.org) - Website source code for w3id.org.
@@ -45,7 +46,6 @@ Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 * [sunchang0124/dp_cgans](https://github.com/sunchang0124/dp_cgans) - A library to generate synthetic tabular or RDF data using Conditional Generative Adversary Networks (GANs) combined with Differential Privacy techniques.
 * [fair-workflows/nanopub](https://github.com/fair-workflows/nanopub) - Python client for searching, publishing and modifying nanopublications.
 * [biopragmatics/curies](https://github.com/biopragmatics/curies) - 🐸 Idiomatic conversion between URIs and compact URIs (CURIEs) in Python
-* [elixir-europe/biohackathon-projects-2023](https://github.com/elixir-europe/biohackathon-projects-2023) - Project code for BioHackathon Europe 2023.
 <!-- contributions ends -->
 
 </td></tr>
