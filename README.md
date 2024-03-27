@@ -42,10 +42,10 @@ Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 * [tom-james-watson/Emote](https://github.com/tom-james-watson/Emote) - Emoji Picker for Linux written in GTK3
 * [monarch-initiative/ontogpt](https://github.com/monarch-initiative/ontogpt) - LLM-based ontological extraction tools, including SPIRES
 * [perma-id/w3id.org](https://github.com/perma-id/w3id.org) - Website source code for w3id.org.
-* [biopragmatics/bioregistry](https://github.com/biopragmatics/bioregistry) - 📮 An integrative registry of biological databases, ontologies, and nomenclatures.
 * [sunchang0124/dp_cgans](https://github.com/sunchang0124/dp_cgans) - A library to generate synthetic tabular or RDF data using Conditional Generative Adversary Networks (GANs) combined with Differential Privacy techniques.
 * [fair-workflows/nanopub](https://github.com/fair-workflows/nanopub) - Python client for searching, publishing and modifying nanopublications.
-* [biopragmatics/curies](https://github.com/biopragmatics/curies) - 🐸 Idiomatic conversion between URIs and compact URIs (CURIEs) in Python
+* [elixir-europe/biohackathon-projects-2023](https://github.com/elixir-europe/biohackathon-projects-2023) - Project code for BioHackathon Europe 2023.
+* [pldn/LDWizard](https://github.com/pldn/LDWizard) - 🧙 LDWizard: A generic framework for simplifying the creation of linked data. Supported by the PLDN community.
 <!-- contributions ends -->
 
 </td></tr>
