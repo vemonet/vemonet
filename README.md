@@ -35,7 +35,6 @@ Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 ### 🧞 Contributions to Open Source
 <!-- contributions starts -->
 * [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
-* [missive/emoji-mart](https://github.com/missive/emoji-mart) - 🏪 One component to pick them all
 * [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
 * [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
 * [tauri-apps/tauri-docs](https://github.com/tauri-apps/tauri-docs) - The source for all Tauri project documentation.
@@ -46,6 +45,7 @@ Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 * [pldn/LDWizard](https://github.com/pldn/LDWizard) - 🧙 LDWizard: A generic framework for simplifying the creation of linked data. Supported by the PLDN community.
 * [pchampin/sowasm](https://github.com/pchampin/sowasm) - RDF playground using WASM-compiled Sophia
 * [biopragmatics/curies.rs](https://github.com/biopragmatics/curies.rs) - 🦀 Idiomatic conversion between URIs and compact URIs (CURIEs) in Rust
+* [stain/signposting](https://github.com/stain/signposting) - Python library for parsing FAIR Signposting links
 <!-- contributions ends -->
 
 </td></tr>
