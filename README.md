@@ -35,7 +35,6 @@ Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 ### 🧞 Contributions to Open Source
 <!-- contributions starts -->
 * [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
-* [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
 * [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
 * [tauri-apps/tauri-docs](https://github.com/tauri-apps/tauri-docs) - The source for all Tauri project documentation.
 * [perma-id/w3id.org](https://github.com/perma-id/w3id.org) - Website source code for w3id.org.
@@ -46,6 +45,7 @@ Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 * [pchampin/sowasm](https://github.com/pchampin/sowasm) - RDF playground using WASM-compiled Sophia
 * [biopragmatics/curies.rs](https://github.com/biopragmatics/curies.rs) - 🦀 Idiomatic conversion between URIs and compact URIs (CURIEs) in Rust
 * [stain/signposting](https://github.com/stain/signposting) - Python library for parsing FAIR Signposting links
+* [NCATSTranslator/TranslatorTechnicalDocumentation](https://github.com/NCATSTranslator/TranslatorTechnicalDocumentation) - Official Developer Documentation repository for the Biomedical Data Translator
 <!-- contributions ends -->
 
 </td></tr>
