@@ -34,7 +34,6 @@ Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 
 ### 🧞 Contributions to Open Source
 <!-- contributions starts -->
-* [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 * [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
 * [tauri-apps/tauri-docs](https://github.com/tauri-apps/tauri-docs) - The source for all Tauri project documentation.
 * [perma-id/w3id.org](https://github.com/perma-id/w3id.org) - Website source code for w3id.org.
@@ -46,6 +45,7 @@ Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 * [biopragmatics/curies.rs](https://github.com/biopragmatics/curies.rs) - 🦀 Idiomatic conversion between URIs and compact URIs (CURIEs) in Rust
 * [NCATSTranslator/TranslatorTechnicalDocumentation](https://github.com/NCATSTranslator/TranslatorTechnicalDocumentation) - Official Developer Documentation repository for the Biomedical Data Translator
 * [bio2kg/bio2kg-registry](https://github.com/bio2kg/bio2kg-registry) - A registry of datasets of relevance to the life sciences. The registry contains dataset metadata, and assigns namespaces, identifier patterns, and URL templates for link outs. The web application provides GraphQL, REST API, and Elasticsearch DSL API.
+* [sib-swiss/expasy-chat](https://github.com/sib-swiss/expasy-chat) - API and scripts for Expasy 4, prepare data, train models, etc.
 <!-- contributions ends -->
 
 </td></tr>
