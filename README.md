@@ -44,8 +44,8 @@ Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 * [pchampin/sowasm](https://github.com/pchampin/sowasm) - RDF playground using WASM-compiled Sophia
 * [biopragmatics/curies.rs](https://github.com/biopragmatics/curies.rs) - 🦀 Idiomatic conversion between URIs and compact URIs (CURIEs) in Rust
 * [sib-swiss/expasy-chat](https://github.com/sib-swiss/expasy-chat) - API and scripts for Expasy 4, prepare data, train models, etc.
+* [sib-swiss/sparql-examples](https://github.com/sib-swiss/sparql-examples) - A set of SPARQL examples that are used in different SIB resources
 * [NCATSTranslator/TranslatorTechnicalDocumentation](https://github.com/NCATSTranslator/TranslatorTechnicalDocumentation) - Official Developer Documentation repository for the Biomedical Data Translator
-* [bio2kg/bio2kg-registry](https://github.com/bio2kg/bio2kg-registry) - A registry of datasets of relevance to the life sciences. The registry contains dataset metadata, and assigns namespaces, identifier patterns, and URL templates for link outs. The web application provides GraphQL, REST API, and Elasticsearch DSL API.
 <!-- contributions ends -->
 
 </td></tr>
