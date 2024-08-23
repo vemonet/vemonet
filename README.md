@@ -43,9 +43,9 @@ Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 * [pldn/LDWizard](https://github.com/pldn/LDWizard) - 🧙 LDWizard: A generic framework for simplifying the creation of linked data. Supported by the PLDN community.
 * [pchampin/sowasm](https://github.com/pchampin/sowasm) - RDF playground using WASM-compiled Sophia
 * [biopragmatics/curies.rs](https://github.com/biopragmatics/curies.rs) - 🦀 Idiomatic conversion between URIs and compact URIs (CURIEs) in Rust
+* [biosoda/bioquery](https://github.com/biosoda/bioquery) - None
 * [sib-swiss/expasy-chat](https://github.com/sib-swiss/expasy-chat) - API and scripts for Expasy 4, prepare data, train models, etc.
 * [sib-swiss/sparql-examples](https://github.com/sib-swiss/sparql-examples) - A set of SPARQL examples that are used in different SIB resources
-* [NCATSTranslator/TranslatorTechnicalDocumentation](https://github.com/NCATSTranslator/TranslatorTechnicalDocumentation) - Official Developer Documentation repository for the Biomedical Data Translator
 <!-- contributions ends -->
 
 </td></tr>
