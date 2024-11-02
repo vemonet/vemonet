@@ -36,7 +36,6 @@ Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 <!-- contributions starts -->
 * [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
 * [tauri-apps/tauri-docs](https://github.com/tauri-apps/tauri-docs) - The source for all Tauri project documentation.
-* [perma-id/w3id.org](https://github.com/perma-id/w3id.org) - Website source code for w3id.org.
 * [sunchang0124/dp_cgans](https://github.com/sunchang0124/dp_cgans) - A library to generate synthetic tabular or RDF data using Conditional Generative Adversary Networks (GANs) combined with Differential Privacy techniques.
 * [fair-workflows/nanopub](https://github.com/fair-workflows/nanopub) - Python client for searching, publishing and modifying nanopublications.
 * [elixir-europe/biohackathon-projects-2023](https://github.com/elixir-europe/biohackathon-projects-2023) - Project code for BioHackathon Europe 2023.
@@ -46,6 +45,7 @@ Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 * [pchampin/sowasm](https://github.com/pchampin/sowasm) - RDF playground using WASM-compiled Sophia
 * [sib-swiss/sparql-llm](https://github.com/sib-swiss/sparql-llm) - 🦜✨ Chat system and reusable components to improve LLMs capabilities when generating SPARQL queries
 * [biopragmatics/curies.rs](https://github.com/biopragmatics/curies.rs) - 🦀 Idiomatic conversion between URIs and compact URIs (CURIEs) in Rust
+* [biosoda/bioquery](https://github.com/biosoda/bioquery) - None
 <!-- contributions ends -->
 
 </td></tr>
