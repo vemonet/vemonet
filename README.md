@@ -38,8 +38,8 @@ Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 * [sunchang0124/dp_cgans](https://github.com/sunchang0124/dp_cgans) - A library to generate synthetic tabular or RDF data using Conditional Generative Adversary Networks (GANs) combined with Differential Privacy techniques.
 * [fair-workflows/nanopub](https://github.com/fair-workflows/nanopub) - Python client for searching, publishing and modifying nanopublications.
 * [pldn/LDWizard](https://github.com/pldn/LDWizard) - 🧙 LDWizard: A generic framework for simplifying the creation of linked data. Supported by the PLDN community.
-* [sib-swiss/sparql-examples](https://github.com/sib-swiss/sparql-examples) - A set of SPARQL examples that are used in different SIB resources
 * [zazuko/Yasgui](https://github.com/zazuko/Yasgui) - Yet Another Sparql GUI
+* [sib-swiss/sparql-examples](https://github.com/sib-swiss/sparql-examples) - A set of SPARQL examples that are used in different SIB resources
 * [sib-swiss/sparql-llm](https://github.com/sib-swiss/sparql-llm) - 🦜✨ Chat system and reusable components to improve LLMs capabilities when generating SPARQL queries
 * [pchampin/sowasm](https://github.com/pchampin/sowasm) - RDF playground using WASM-compiled Sophia
 * [JervenBolleman/void-generator](https://github.com/JervenBolleman/void-generator) - Calculate statistics for use in a Service Description or Void file
