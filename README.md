@@ -43,9 +43,9 @@ Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 * [sib-swiss/sparql-llm](https://github.com/sib-swiss/sparql-llm) - 🦜✨ Chat system and reusable components to improve LLMs capabilities when generating SPARQL queries
 * [pchampin/sowasm](https://github.com/pchampin/sowasm) - RDF playground using WASM-compiled Sophia
 * [JervenBolleman/void-generator](https://github.com/JervenBolleman/void-generator) - Calculate statistics for use in a Service Description or Void file
+* [sib-swiss/sparql-editor](https://github.com/sib-swiss/sparql-editor) - 💫 A standard web component to deploy a user-friendly SPARQL query editor for one or more endpoints. Built on the popular YASGUI editor, it provides context-aware autocomplete for classes and predicates based on the content of the endpoints.
 * [biopragmatics/curies.rs](https://github.com/biopragmatics/curies.rs) - 🦀 Idiomatic conversion between URIs and compact URIs (CURIEs) in Rust
 * [biosoda/bioquery](https://github.com/biosoda/bioquery) - None
-* [sib-swiss/sparql-editor](https://github.com/sib-swiss/sparql-editor) - 💫 A standard web component to deploy a user-friendly SPARQL query editor for one or more endpoints. Built on the popular YASGUI editor, it provides context-aware autocomplete for classes and predicates based on the content of the endpoints.
 <!-- contributions ends -->
 
 </td></tr>
