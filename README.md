@@ -43,9 +43,9 @@ Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 * [JervenBolleman/void-generator](https://github.com/JervenBolleman/void-generator) - Calculate statistics for use in a Service Description or Void file
 * [zazuko/Yasgui](https://github.com/zazuko/Yasgui) - Yet Another Sparql GUI
 * [flathub/io.github.vemonet.EmojiMart](https://github.com/flathub/io.github.vemonet.EmojiMart) - None
-* [pchampin/sowasm](https://github.com/pchampin/sowasm) - RDF playground using WASM-compiled Sophia
 * [biopragmatics/curies.rs](https://github.com/biopragmatics/curies.rs) - 🦀 Idiomatic conversion between URIs and compact URIs (CURIEs) in Rust
 * [sib-swiss/sparql-examples](https://github.com/sib-swiss/sparql-examples) - A set of SPARQL examples that are used in different SIB resources
+* [sib-swiss/wikidata-orthologs-bot](https://github.com/sib-swiss/wikidata-orthologs-bot) - Bots and scripts to enrich Wikidata using SIB orthologs databases, such as OMA.
 <!-- contributions ends -->
 
 </td></tr>
