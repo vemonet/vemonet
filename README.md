@@ -42,10 +42,10 @@ Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 * [JervenBolleman/void-generator](https://github.com/JervenBolleman/void-generator) - Calculate statistics for use in a Service Description or Void file
 * [zazuko/Yasgui](https://github.com/zazuko/Yasgui) - Yet Another Sparql GUI
 * [flathub/io.github.vemonet.EmojiMart](https://github.com/flathub/io.github.vemonet.EmojiMart) - None
+* [sib-swiss/kgsteward](https://github.com/sib-swiss/kgsteward) - Knowledge Graph Steward - Command line tool to help manage RDF store
 * [biopragmatics/curies.rs](https://github.com/biopragmatics/curies.rs) - 🦀 Idiomatic conversion between URIs and compact URIs (CURIEs) in Rust
 * [sib-swiss/sparql-examples](https://github.com/sib-swiss/sparql-examples) - A set of SPARQL examples that are used in different SIB resources
 * [sib-swiss/wikidata-orthologs-bot](https://github.com/sib-swiss/wikidata-orthologs-bot) - Bots and scripts to enrich Wikidata using SIB orthologs databases, such as OMA.
-* [sib-swiss/sparql-llm](https://github.com/sib-swiss/sparql-llm) - 🦜✨ Chat system and reusable components to improve LLMs capabilities when generating SPARQL queries
 <!-- contributions ends -->
 
 </td></tr>
