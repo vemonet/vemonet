@@ -1,6 +1,6 @@
-<div align="center">
-	Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](https://www.w3.org/TR/sparql11-query/), [ontologies](https://www.w3.org/OWL), [SHACL](https://www.w3.org/TR/shacl/), [RML](https://rml.io)), life sciences data, and web technologies.
+Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](https://www.w3.org/TR/sparql11-query/), [ontologies](https://www.w3.org/OWL), [SHACL](https://www.w3.org/TR/shacl/), [RML](https://rml.io)), life sciences data, and web technologies.
 
+<div align="center">
 	<a href="https://orcid.org/0000-0002-1501-1082" target="_blank">
 		<img src="https://img.shields.io/badge/ORCID-0000--0002--1501--1082-a6ce39?logo=orcid" />
 	</a>
@@ -32,7 +32,7 @@
 
 </td><td valign="top" width="50%"> -->
 
-## 🧞 Contributions to Open Source
+## 🧞 Contributions to Open Source last year
 <!-- contributions starts -->
 * [biosoda/bioquery](https://github.com/biosoda/bioquery) - None
 * [biopragmatics/bioregistry](https://github.com/biopragmatics/bioregistry) - 📮 An integrative registry of biological databases, ontologies, and nomenclatures.

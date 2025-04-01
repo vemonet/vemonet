@@ -6,7 +6,7 @@ import re
 from python_graphql_client import GraphqlClient
 
 
-CONTRIBUTIONS_COUNT=12
+CONTRIBUTIONS_COUNT=10
 
 TOKEN = os.environ.get("GITHUB_TOKEN", "")
 
@@ -14,14 +14,69 @@ root = pathlib.Path(__file__).parent.resolve()
 client = GraphqlClient(endpoint="https://api.github.com/graphql")
 
 
+
+def fetch_contributions(oauth_token):
+    graphql_get_contributions = """
+    query($cursor: String) {
+        viewer {
+            repositoriesContributedTo(first: 100, contributionTypes: [COMMIT], after: $cursor) {
+                totalCount
+                nodes {
+                    nameWithOwner
+                    url
+                    description
+                    stargazerCount
+                    owner { id }
+                }
+                pageInfo {
+                    endCursor
+                    hasNextPage
+                }
+            }
+        }
+    }
+    """
+    contributions = []
+    has_next_page = True
+    after_cursor = None
+
+    while has_next_page:
+        variables = {"cursor": after_cursor}
+        data = client.execute(
+            query=graphql_get_contributions,
+            headers={"Authorization": f"Bearer {oauth_token}"},
+            variables=variables
+        )
+
+        page_info = data["data"]["viewer"]["repositoriesContributedTo"]["pageInfo"]
+        for repo in data["data"]["viewer"]["repositoriesContributedTo"]["nodes"]:
+            contributions.append(
+                {
+                    "nameWithOwner": repo["nameWithOwner"],
+                    "url": repo["url"],
+                    "description": repo["description"],
+                    "stargazerCount": repo.get("stargazerCount", 0)
+                }
+            )
+        print(f"Fetched {len(contributions)} contributions so far...")
+        has_next_page = page_info["hasNextPage"]
+        after_cursor = page_info["endCursor"]
+
+    # Sort contributions by star count after all are fetched
+    contributions.sort(key=lambda r: r.get("stargazerCount", 0), reverse=True)
+    # print(json.dumps(contributions, indent=2))
+    return contributions
+
+
+
 def replace_chunk(content, marker, chunk, inline=False):
     r = re.compile(
-        r"<!\-\- {} starts \-\->.*<!\-\- {} ends \-\->".format(marker, marker),
+        rf"<!\-\- {marker} starts \-\->.*<!\-\- {marker} ends \-\->",
         re.DOTALL,
     )
     if not inline:
         chunk = "\n{}\n".format(chunk)
-    chunk = "<!-- {} starts -->{}<!-- {} ends -->".format(marker, chunk, marker)
+    chunk = f"<!-- {marker} starts -->{chunk}<!-- {marker} ends -->"
     return r.sub(chunk, content)
 
 
@@ -51,7 +106,7 @@ query {
   }
 }
 """.replace(
-        "AFTER", '"{}"'.format(after_cursor) if after_cursor else "null"
+        "AFTER", f'"{after_cursor}"' if after_cursor else "null"
     )
 
 
@@ -65,11 +120,11 @@ def fetch_releases(oauth_token):
     while has_next_page:
         data = client.execute(
             query=make_query(after_cursor),
-            headers={"Authorization": "Bearer {}".format(oauth_token)},
+            headers={"Authorization": f"Bearer {oauth_token}"},
         )
-        print()
-        print(json.dumps(data, indent=4))
-        print()
+        # print()
+        # print(json.dumps(data, indent=4))
+        # print()
         for repo in data["data"]["viewer"]["repositories"]["nodes"]:
             if repo["releases"]["totalCount"] and repo["name"] not in repo_names:
                 repos.append(repo)
@@ -93,44 +148,6 @@ def fetch_releases(oauth_token):
         ]
         after_cursor = data["data"]["viewer"]["repositories"]["pageInfo"]["endCursor"]
     return releases
-
-
-def fetch_contributions(oauth_token):
-    graphql_get_contributions = """
-    query {
-        viewer {
-            repositoriesContributedTo(first: 100, contributionTypes: [COMMIT], orderBy:{field: STARGAZERS, direction: DESC}) {
-                totalCount
-                nodes {
-                    nameWithOwner
-                    url
-                    description
-                    owner { id }
-                }
-                pageInfo {
-                    endCursor
-                    hasNextPage
-                }
-            }
-        }
-    }
-    """
-    contributions = []
-    data = client.execute(
-        query=graphql_get_contributions,
-        headers={"Authorization": "Bearer {}".format(oauth_token)},
-    )
-    for repo in data["data"]["viewer"]["repositoriesContributedTo"]["nodes"]:
-        # Do not take MaastrichtU-IDS repos
-        if repo['owner']['id'] != 'MDEyOk9yZ2FuaXphdGlvbjM2MjYyNTI2':
-            contributions.append(
-                {
-                    "nameWithOwner": repo["nameWithOwner"],
-                    "url": repo["url"],
-                    "description": repo["description"]
-                }
-            )
-    return contributions
 
 
 if __name__ == "__main__":
