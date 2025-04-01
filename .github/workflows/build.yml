@@ -1,5 +1,4 @@
 name: Build README
-
 on:
   push:
   workflow_dispatch:
@@ -12,29 +11,32 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Check out repo
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
+
     - name: Set up Python
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v5
       with:
-        python-version: 3.8
-    - uses: actions/cache@v2
+        python-version: 3.13
+
+    - uses: actions/cache@v4
       name: Configure pip caching
       with:
         path: ~/.cache/pip
         key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
         restore-keys: |
           ${{ runner.os }}-pip-
+
     - name: Install Python dependencies
-      run: |
-        python -m pip install -r requirements.txt
+      run: pip install -r requirements.txt
+
     - name: Update README
       env:
         GITHUB_TOKEN: ${{ secrets.API_GITHUB_TOKEN }}
-      run: |-
+      run: |
         python build_readme.py
-        cat README.md
+
     - name: Commit and push if changed
-      run: |-
+      run: |
         git diff
         git config --global user.email "vincent.emonet@gmail.com"
         git config --global user.name "Vincent Emonet"

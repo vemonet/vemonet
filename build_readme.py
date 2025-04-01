@@ -1,11 +1,9 @@
-from python_graphql_client import GraphqlClient
-import requests
-import csv
-from rdflib import Graph
 import json
+import os
 import pathlib
 import re
-import os
+
+from python_graphql_client import GraphqlClient
 
 
 CONTRIBUTIONS_COUNT=12
