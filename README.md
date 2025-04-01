@@ -32,7 +32,7 @@ Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 
 </td><td valign="top" width="50%"> -->
 
-## 🧞 Contributions to Open Source last year
+## 🧞 Open Source contributions last year
 <!-- contributions starts -->
 * [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 * [biopragmatics/bioregistry](https://github.com/biopragmatics/bioregistry) - 📮 An integrative registry of biological databases, ontologies, and nomenclatures.
