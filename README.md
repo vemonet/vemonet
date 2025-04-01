@@ -1,6 +1,6 @@
-Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](https://www.w3.org/TR/sparql11-query/), [ontologies](https://www.w3.org/OWL), [SHACL](https://www.w3.org/TR/shacl/), [RML](https://rml.io)), life sciences data, and web technologies.
-
 <div align="center">
+	Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](https://www.w3.org/TR/sparql11-query/), [ontologies](https://www.w3.org/OWL), [SHACL](https://www.w3.org/TR/shacl/), [RML](https://rml.io)), life sciences data, and web technologies.
+
 	<a href="https://orcid.org/0000-0002-1501-1082" target="_blank">
 		<img src="https://img.shields.io/badge/ORCID-0000--0002--1501--1082-a6ce39?logo=orcid" />
 	</a>
@@ -15,12 +15,12 @@ Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 	</a>
 </div>
 
-<table><tr><td valign="top" width="50%">
+<!-- <table><tr><td valign="top" width="50%">
 
 ### 👨‍💻 Recent projects
-[**💠 Shapes of you**](https://github.com/vemonet/shapes-of-you): an index for publicly available semantic resources (ontologies,  vocabularies, shapes, queries, mappings) stored in Git repositories  (GitHub, GitLab, Gitee). Visit **[index.semanticscience.org](https://index.semanticscience.org)** 
+[**💠 Shapes of you**](https://github.com/vemonet/shapes-of-you): an index for publicly available semantic resources (ontologies,  vocabularies, shapes, queries, mappings) stored in Git repositories  (GitHub, GitLab, Gitee). Visit **[index.semanticscience.org](https://index.semanticscience.org)**
 
-[**♻️ FAIR Enough**](https://github.com/MaastrichtU-IDS/fair-enough): a service to define and run evaluations of the FAIR principles (Findable, Accessible, Interoperable, Reusable) on online resources. Visit **[fair-enough.semanticscience.org](https://fair-enough.semanticscience.org)** 
+[**♻️ FAIR Enough**](https://github.com/MaastrichtU-IDS/fair-enough): a service to define and run evaluations of the FAIR principles (Findable, Accessible, Interoperable, Reusable) on online resources. Visit **[fair-enough.semanticscience.org](https://fair-enough.semanticscience.org)**
 
 [**🔬 Nanopublications and the Knowledge Collaboratory**](http://nanopub.org/wordpress/): An ecosystem to publish and retrieve scientific claims using [Translator standards](https://github.com/NCATSTranslator/ReasonerAPI). Visit **[api.collaboratory.semanticscience.org](https://api.collaboratory.semanticscience.org/)**
 
@@ -30,9 +30,9 @@ Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 
 [**🔮 Translator OpenPredict**](https://github.com/MaastrichtU-IDS/translator-openpredict): a [Translator](https://ncats.nih.gov/translator) OpenAPI to compute and serve predictions of biomedical concepts associations. Visit **[openpredict.semanticscience.org](https://openpredict.semanticscience.org/)**
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="50%"> -->
 
-### 🧞 Contributions to Open Source
+## 🧞 Contributions to Open Source
 <!-- contributions starts -->
 * [biosoda/bioquery](https://github.com/biosoda/bioquery) - None
 * [tauri-apps/tauri-docs](https://github.com/tauri-apps/tauri-docs) - The source for all Tauri project documentation.
@@ -48,19 +48,18 @@ Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 * [sib-swiss/sparql-llm](https://github.com/sib-swiss/sparql-llm) - 🦜✨ Chat system and reusable components to improve LLMs capabilities when generating SPARQL queries
 <!-- contributions ends -->
 
-</td></tr>
+<!-- </td></tr>
+</table> -->
 
-</table>
-
-<div align="center">
+<!-- <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api?username=vemonet&show_icons=true" />
     </a>
-</div>
+</div> -->
 
 <a href="https://github.com/vemonet/vemonet/actions"><img src="https://github.com/vemonet/vemonet/workflows/Build%20README/badge.svg" alt="Build README"></a>
 
-<!-- 
+<!--
 <a href="https://github.com/vemonet/vemonet/actions"><img src="https://github.com/vemonet/vemonet/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a> <a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">Built using simonw self-updating README</a>
 
 <a href="https://github.com/vemonet/rdflib-endpoint" target="_blank">
