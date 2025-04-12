@@ -36,14 +36,14 @@ Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 <!-- contributions starts -->
 * [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 * [biopragmatics/bioregistry](https://github.com/biopragmatics/bioregistry) - 📮 An integrative registry of biological databases, ontologies, and nomenclatures.
-* [MaastrichtU-IDS/jupyterlab](https://github.com/MaastrichtU-IDS/jupyterlab) - 🪐 JupyterLab + VisualStudio Code workspaces for data science and knowledge graphs
 * [sib-swiss/sparql-llm](https://github.com/sib-swiss/sparql-llm) - 🦜✨ Chat system and reusable components to improve LLMs capabilities when generating SPARQL queries
 * [sib-swiss/sparql-examples](https://github.com/sib-swiss/sparql-examples) - A set of SPARQL examples that are used in different SIB resources
 * [sib-swiss/sparql-editor](https://github.com/sib-swiss/sparql-editor) - 💫 A standard web component to deploy a user-friendly SPARQL query editor for one or more endpoints. Built on the popular YASGUI editor, it provides context-aware autocomplete for classes and predicates based on the content of the endpoints.
-* [MaastrichtU-IDS/translator-openpredict](https://github.com/MaastrichtU-IDS/translator-openpredict) - 🔮🐍 A package to help serve predictions of biomedical concepts associations as Translator Reasoner API
 * [zazuko/Yasgui](https://github.com/zazuko/Yasgui) - Yet Another Sparql GUI
 * [david4096/croissant-rdf](https://github.com/david4096/croissant-rdf) - Tools for working with RDF from Croissant JSON-LD resources 
 * [JervenBolleman/void-generator](https://github.com/JervenBolleman/void-generator) - Calculate statistics for use in a Service Description or Void file
+* [MaastrichtU-IDS/knowledge-collaboratory](https://github.com/MaastrichtU-IDS/knowledge-collaboratory) - 🔬 Website to help browse and publish Nanopublications
+* [sib-swiss/kgsteward](https://github.com/sib-swiss/kgsteward) - Knowledge Graph Steward - Command line tool to help manage RDF store
 <!-- contributions ends -->
 
 <!-- </td></tr>
