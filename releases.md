@@ -33,7 +33,7 @@ All <!-- release_count starts -->23<!-- release_count ends --> of my released pr
 <br>✨️ Execute SPARQL queries from string, URL or multiple files using the RDF4J framework.
 * **[Jupyterlab](https://github.com/vemonet/Jupyterlab)**: [JupyterLab 2.0](https://github.com/vemonet/Jupyterlab/releases/tag/v2.0) - 2021-01-27
 <br>🪐 Hassle-free JupyterLab Docker container with root user
-* **[nanopub](https://github.com/fair-workflows/nanopub)**: [v0.1.1](https://github.com/fair-workflows/nanopub/releases/tag/v0.1.1) - 2020-10-08
+* **[nanopub-py](https://github.com/Nanopublication/nanopub-py)**: [nanopub v0.1.1](https://github.com/Nanopublication/nanopub-py/releases/tag/v0.1.1) - 2020-10-08
 <br>Python client for searching, publishing and modifying nanopublications.
 * **[nanobench](https://github.com/vemonet/nanobench)**: [-1.10.1](https://github.com/vemonet/nanobench/releases/tag/v1.10.1) - 2020-09-24
 <br>🛋️ Java web UI to publish Nanopublications
