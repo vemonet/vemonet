@@ -1,10 +1,8 @@
 # Released projects
 
-All <!-- release_count starts -->23<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->22<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[sparql-examples-utils](https://github.com/sib-swiss/sparql-examples-utils)**: [Release v1.0.0](https://github.com/sib-swiss/sparql-examples-utils/releases/tag/v1.0.0) - 2024-08-29
-<br>A tool to maintain and test your SPARQL examples
 * **[curies.rs](https://github.com/biopragmatics/curies.rs)**: [Initial Release](https://github.com/biopragmatics/curies.rs/releases/tag/v0.1.0) - 2024-01-02
 <br>🦀 Idiomatic conversion between URIs and compact URIs (CURIEs) in Rust
 * **[ptrie](https://github.com/vemonet/ptrie)**: [v0.5.1](https://github.com/vemonet/ptrie/releases/tag/v0.5.1) - 2023-12-21
