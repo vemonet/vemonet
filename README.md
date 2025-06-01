@@ -35,6 +35,7 @@ Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 ## 🧞 Open Source contributions last year
 <!-- contributions starts -->
 * [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+* [RDFLib/rdflib](https://github.com/RDFLib/rdflib) - RDFLib is a Python library for working with RDF, a simple yet powerful language for representing information.
 * [RDFLib/sparqlwrapper](https://github.com/RDFLib/sparqlwrapper) - A wrapper for a remote SPARQL endpoint
 * [biopragmatics/bioregistry](https://github.com/biopragmatics/bioregistry) - 📮 An integrative registry of biological databases, ontologies, and nomenclatures.
 * [sib-swiss/sparql-llm](https://github.com/sib-swiss/sparql-llm) - 🦜✨ Chat system and reusable components to improve LLMs capabilities when generating SPARQL queries
@@ -43,7 +44,6 @@ Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 * [zazuko/Yasgui](https://github.com/zazuko/Yasgui) - Yet Another Sparql GUI
 * [JervenBolleman/void-generator](https://github.com/JervenBolleman/void-generator) - Calculate statistics for use in a Service Description or Void file
 * [MaastrichtU-IDS/knowledge-collaboratory](https://github.com/MaastrichtU-IDS/knowledge-collaboratory) - 🔬 Website to help browse and publish Nanopublications
-* [david4096/croissant-rdf](https://github.com/david4096/croissant-rdf) - Tools for working with RDF from Croissant JSON-LD resources 
 <!-- contributions ends -->
 
 <!-- </td></tr>
