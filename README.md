@@ -43,7 +43,7 @@ Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 * [sib-swiss/sparql-examples](https://github.com/sib-swiss/sparql-examples) - A set of SPARQL examples that are used in different SIB resources
 * [IoannisNezis/Qlue-ls](https://github.com/IoannisNezis/Qlue-ls) - A SPARQL language server
 * [sib-swiss/sparql-editor](https://github.com/sib-swiss/sparql-editor) - 💫 A standard web component to deploy a user-friendly SPARQL query editor for one or more endpoints. Built on the popular YASGUI editor, it provides context-aware autocomplete for classes and predicates based on the content of the endpoints.
-* [zazuko/Yasgui](https://github.com/zazuko/Yasgui) - Yet Another Sparql GUI
+* [sib-swiss/void-generator](https://github.com/sib-swiss/void-generator) - Calculate statistics for use in a Service Description or Void file
 <!-- contributions ends -->
 
 <!-- </td></tr>
