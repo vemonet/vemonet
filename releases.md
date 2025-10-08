@@ -4,7 +4,7 @@ All <!-- release_count starts -->25<!-- release_count ends --> of my released pr
 
 <!-- recent_releases starts -->
 * **[sparql-llm](https://github.com/sib-swiss/sparql-llm)**: [v0.1.0](https://github.com/sib-swiss/sparql-llm/releases/tag/v0.1.0) - 2025-10-06
-<br>🦜✨ Chat system and reusable components to improve LLMs capabilities when generating SPARQL queries
+<br>🦜✨ Chat system, MCP server, and reusable components to improve LLMs capabilities when generating SPARQL queries
 * **[llm-biodata-training](https://github.com/sib-swiss/llm-biodata-training)**: [Training 2025.05](https://github.com/sib-swiss/llm-biodata-training/releases/tag/2025.05) - 2025-09-29
 <br>🧑‍🏫 SIB course on using LLM for biodata exploration
 * **[sparql-examples-utils](https://github.com/vemonet/sparql-examples-utils)**: [0.0.1](https://github.com/vemonet/sparql-examples-utils/releases/tag/0.0.1) - 2025-09-24
