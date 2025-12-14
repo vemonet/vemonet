@@ -172,7 +172,7 @@ if __name__ == "__main__":
 
     ## Get Contributions to other repositories
     contributions = fetch_contributions()
-    # contributions.sort(key=lambda r: r["published_at"], reverse=True)
+    # print(contributions)
     contributions_md = "\n".join(
         [
             (
