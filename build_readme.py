@@ -1,21 +1,39 @@
-import json
 import os
 import pathlib
 import re
 
-from python_graphql_client import GraphqlClient
+import httpx
 
 
 CONTRIBUTIONS_COUNT=10
 
-TOKEN = os.environ.get("GITHUB_TOKEN", "")
-
 root = pathlib.Path(__file__).parent.resolve()
+
+class GraphqlClient:
+    def __init__(self, endpoint: str) -> None:
+        self.client = httpx.Client(timeout=60)
+        self.oauth_token = os.environ.get("GITHUB_TOKEN")
+        if not self.oauth_token:
+            raise ValueError("GITHUB_TOKEN environment variable is not set")
+        self.endpoint = endpoint
+
+    def execute(self, query: str, variables=None):
+        payload = {"query": query}
+        if variables:
+            payload["variables"] = variables
+        response = self.client.post(
+            self.endpoint,
+            json=payload,
+            headers={"Authorization": f"Bearer {self.oauth_token}"},
+        )
+        response.raise_for_status()
+        return response.json()
+
 client = GraphqlClient(endpoint="https://api.github.com/graphql")
 
 
 
-def fetch_contributions(oauth_token):
+def fetch_contributions():
     graphql_get_contributions = """
     query($cursor: String) {
         viewer {
@@ -44,12 +62,12 @@ def fetch_contributions(oauth_token):
         variables = {"cursor": after_cursor}
         data = client.execute(
             query=graphql_get_contributions,
-            headers={"Authorization": f"Bearer {oauth_token}"},
-            variables=variables
+            variables=variables,
         )
 
         page_info = data["data"]["viewer"]["repositoriesContributedTo"]["pageInfo"]
         for repo in data["data"]["viewer"]["repositoriesContributedTo"]["nodes"]:
+            # print(repo)
             contributions.append(
                 {
                     "nameWithOwner": repo["nameWithOwner"],
@@ -110,7 +128,7 @@ query {
     )
 
 
-def fetch_releases(oauth_token):
+def fetch_releases():
     repos = []
     releases = []
     repo_names = set()
@@ -118,10 +136,7 @@ def fetch_releases(oauth_token):
     after_cursor = None
 
     while has_next_page:
-        data = client.execute(
-            query=make_query(after_cursor),
-            headers={"Authorization": f"Bearer {oauth_token}"},
-        )
+        data = client.execute(query=make_query(after_cursor))
         # print()
         # print(json.dumps(data, indent=4))
         # print()
@@ -156,7 +171,7 @@ if __name__ == "__main__":
     readme_contents = readme.open().read()
 
     ## Get Contributions to other repositories
-    contributions = fetch_contributions(TOKEN)
+    contributions = fetch_contributions()
     # contributions.sort(key=lambda r: r["published_at"], reverse=True)
     contributions_md = "\n".join(
         [
@@ -174,7 +189,7 @@ if __name__ == "__main__":
 
     ## Get releases to put in releases.md
     project_releases = root / "releases.md"
-    releases = fetch_releases(TOKEN)
+    releases = fetch_releases()
     releases.sort(key=lambda r: r["published_at"], reverse=True)
 
     project_releases_md = "\n".join(
@@ -203,51 +218,3 @@ if __name__ == "__main__":
     #     ]
     # )
     # rewritten = replace_chunk(readme_contents, "recent_releases", readme_releases_md)
-
-
-    ### Get all my nanopublications (test)
-
-    # curl -X GET "http://grlc.nanopubs.lod.labs.vu.nl/api/local/local/find_signed_nanopubs?pubkey=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCR9fz0fKCdWOWC%2BpxhkQhEM%2FppbdIYe5TLSdj%2BlJzSlv9mYBaPgrzVezSwwbmhlHBPDZa4%2FvHycU315BdmUGq%2BpXllp9%2BrWFfrb%2BkBJwhZjpG6BeyyXBsRFz4jmQVxl%2FZYHilQTh%2FXalYzKkEAyTiEMPee4Kz61PaWOKH24CsnOQIDAQAB" -H  "accept: text/csv"
-    # nanopubs_request = requests.get('http://grlc.nanopubs.lod.labs.vu.nl/api/local/local/find_signed_nanopubs?pubkey=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCR9fz0fKCdWOWC%2BpxhkQhEM%2FppbdIYe5TLSdj%2BlJzSlv9mYBaPgrzVezSwwbmhlHBPDZa4%2FvHycU315BdmUGq%2BpXllp9%2BrWFfrb%2BkBJwhZjpG6BeyyXBsRFz4jmQVxl%2FZYHilQTh%2FXalYzKkEAyTiEMPee4Kz61PaWOKH24CsnOQIDAQAB',
-    #         headers={"accept": "text/csv"})
-
-    # print(nanopubs_request.content)
-    # nanopubs_csv = csv.reader(nanopubs_request, delimiter=',')
-    # graph = Graph()
-    # line_count = 0
-    # for row in nanopubs_csv:
-    #     if line_count == 0:
-    #         print(f'Column names are {", ".join(row)}')
-    #         line_count += 1
-    #     else:
-    #         print('Getting nanopub: ' + row[0])
-    #         nanopubs_request = requests.get(row[0], headers={"accept": "text/x-nquads"})
-    #         nanopubs_request.content
-    #         graph.parse(nanopubs_request.content, format="nquads")
-    #         print(len(graph))
-    #         # nanopubs_request = requests.get('http://purl.org/np/RAc99KPv1qM3J6tyIpYRY3yh1LR5u15FwByJ78-k4Ix6E', headers={"accept": "text/x-nquads"})
-    #         line_count += 1
-
-    # graph.parse('http://purl.org/np/RAc99KPv1qM3J6tyIpYRY3yh1LR5u15FwByJ78-k4Ix6E', format='text/x-nquads')
-    # graph.parse(row[0], format='text/x-nquads')
-
-    # import pprint
-    # for stmt in graph:
-    #     pprint.pprint(stmt)
-
-    ## Get a nanopub as nquads:
-    # curl -L -X GET "http://purl.org/np/RAc99KPv1qM3J6tyIpYRY3yh1LR5u15FwByJ78-k4Ix6E"  -H "accept: text/x-nquads"
-
-    # tils = fetch_tils()
-    # tils_md = "\n".join(
-    #     [
-    #         "* [{title}]({url}) - {created_at}".format(
-    #             title=til["title"],
-    #             url=til["url"],
-    #             created_at=til["created_utc"].split("T")[0],
-    #         )
-    #         for til in tils
-    #     ]
-    # )
-    # rewritten = replace_chunk(rewritten, "tils", tils_md)
-

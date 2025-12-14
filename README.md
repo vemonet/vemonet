@@ -1,4 +1,4 @@
-Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](https://www.w3.org/TR/sparql11-query/), [ontologies](https://www.w3.org/OWL), [SHACL](https://www.w3.org/TR/shacl/), [RML](https://rml.io)), life sciences data, and web technologies.
+Mostly working with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](https://www.w3.org/TR/sparql11-query/), [ontologies](https://www.w3.org/OWL), [SHACL](https://www.w3.org/TR/shacl/), [RML](https://rml.io)), life sciences data, and web technologies.
 
 <div align="center">
 	<a href="https://orcid.org/0000-0002-1501-1082" target="_blank">
@@ -22,13 +22,9 @@ Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 
 [**♻️ FAIR Enough**](https://github.com/MaastrichtU-IDS/fair-enough): a service to define and run evaluations of the FAIR principles (Findable, Accessible, Interoperable, Reusable) on online resources. Visit **[fair-enough.semanticscience.org](https://fair-enough.semanticscience.org)**
 
-[**🔬 Nanopublications and the Knowledge Collaboratory**](http://nanopub.org/wordpress/): An ecosystem to publish and retrieve scientific claims using [Translator standards](https://github.com/NCATSTranslator/ReasonerAPI). Visit **[api.collaboratory.semanticscience.org](https://api.collaboratory.semanticscience.org/)**
+[**🔬 Nanopublications**](http://nanopub.org/wordpress/): An ecosystem to publish and retrieve scientific claims using [Translator standards](https://github.com/NCATSTranslator/ReasonerAPI). Visit **[api.collaboratory.semanticscience.org](https://api.collaboratory.semanticscience.org/)**
 
 [**🔭 The Data Science Research Infrastructure**](https://dsri.maastrichtuniversity.nl): An [OKD Kubernetes](https://www.okd.io/) cluster to run Data Science experiments at [Maastricht University](https://maastrichtuniversity.nl). Visit [**dsri.maastrichtuniversity.nl**](https://dsri.maastrichtuniversity.nl)
-
-[**🧭 into-the-graph**](https://github.com/MaastrichtU-IDS/into-the-graph): A lightweight web browser for SPARQL endpoints. Visit **[maastrichtu-ids.github.io/into-the-graph](https://maastrichtu-ids.github.io/into-the-graph)**
-
-[**🔮 Translator OpenPredict**](https://github.com/MaastrichtU-IDS/translator-openpredict): a [Translator](https://ncats.nih.gov/translator) OpenAPI to compute and serve predictions of biomedical concepts associations. Visit **[openpredict.semanticscience.org](https://openpredict.semanticscience.org/)**
 
 </td><td valign="top" width="50%"> -->
 
@@ -55,19 +51,9 @@ Mostly playing with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
     </a>
 </div> -->
 
-<a href="https://github.com/vemonet/vemonet/actions"><img src="https://github.com/vemonet/vemonet/workflows/Build%20README/badge.svg" alt="Build README"></a>
+<a href="https://github.com/vemonet/vemonet/actions"><img src="https://github.com/vemonet/vemonet/actions/workflows/build.yml/badge.svg" alt="Update profile"></a>
 
 <!--
-<a href="https://github.com/vemonet/vemonet/actions"><img src="https://github.com/vemonet/vemonet/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a> <a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">Built using simonw self-updating README</a>
-
-<a href="https://github.com/vemonet/rdflib-endpoint" target="_blank">
-	<img src="https://img.shields.io/badge/GitHub-vemonet/rdflib--endpoint-24292e?logo=github" />
-</a>
-
-[**📜 Publications on Google Scholar**](https://scholar.google.com/citations?hl=en&user=G59f3woAAAAJ&sortby=pubdate)
-
-[**📬 Contact me on Gitter**](https://gitter.im/vemonet)
-
 Personal stats API:
 
 [![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=vemonet&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
