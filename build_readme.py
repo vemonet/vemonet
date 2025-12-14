@@ -5,9 +5,10 @@ import re
 import httpx
 
 
-CONTRIBUTIONS_COUNT=10
+CONTRIBUTIONS_COUNT = 10
 
 root = pathlib.Path(__file__).parent.resolve()
+
 
 class GraphqlClient:
     def __init__(self, endpoint: str) -> None:
@@ -29,8 +30,8 @@ class GraphqlClient:
         response.raise_for_status()
         return response.json()
 
-client = GraphqlClient(endpoint="https://api.github.com/graphql")
 
+client = GraphqlClient(endpoint="https://api.github.com/graphql")
 
 
 def fetch_contributions():
@@ -73,7 +74,7 @@ def fetch_contributions():
                     "nameWithOwner": repo["nameWithOwner"],
                     "url": repo["url"],
                     "description": repo["description"],
-                    "stargazerCount": repo.get("stargazerCount", 0)
+                    "stargazerCount": repo.get("stargazerCount", 0),
                 }
             )
         print(f"Fetched {len(contributions)} contributions so far...")
@@ -84,7 +85,6 @@ def fetch_contributions():
     contributions.sort(key=lambda r: r.get("stargazerCount", 0), reverse=True)
     # print(json.dumps(contributions, indent=2))
     return contributions
-
 
 
 def replace_chunk(content, marker, chunk, inline=False):
@@ -123,9 +123,7 @@ query {
     }
   }
 }
-""".replace(
-        "AFTER", f'"{after_cursor}"' if after_cursor else "null"
-    )
+""".replace("AFTER", f'"{after_cursor}"' if after_cursor else "null")
 
 
 def fetch_releases():
@@ -175,9 +173,7 @@ if __name__ == "__main__":
     # print(contributions)
     contributions_md = "\n".join(
         [
-            (
-                "* [{nameWithOwner}]({url}) - {description}"
-            ).format(**contribution)
+            ("* [{nameWithOwner}]({url}) - {description}").format(**contribution)
             for contribution in contributions[:CONTRIBUTIONS_COUNT]
         ]
     )
@@ -185,7 +181,6 @@ if __name__ == "__main__":
 
     ## Save updated readme
     readme.open("w").write(rewritten)
-
 
     ## Get releases to put in releases.md
     project_releases = root / "releases.md"

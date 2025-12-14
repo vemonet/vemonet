@@ -11,3 +11,11 @@ GITHUB_TOKEN="ghp_###" uv run build_readme.py
 ```
 
 > Inspired by https://github.com/simonw/simonw
+
+## Lint
+
+```sh
+uvx ruff format
+uvx ruff check --fix
+```
+
