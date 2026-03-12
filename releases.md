@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->27<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->28<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[datahugger-ng](https://github.com/EOSC-Data-Commons/datahugger-ng)**: [v0.1.0](https://github.com/EOSC-Data-Commons/datahugger-ng/releases/tag/v0.1.0) - 2026-01-26
+<br>blazing fast dataset downloader
 * **[ELIXIR-TrP-KG-training-metadata](https://github.com/elixir-europe-training/ELIXIR-TrP-KG-training-metadata)**: [First release - ready for testing](https://github.com/elixir-europe-training/ELIXIR-TrP-KG-training-metadata/releases/tag/v0.0.1-beta) - 2025-11-06
 <br>None
 * **[openroute-mcp](https://github.com/vemonet/openroute-mcp)**: [v0.0.1](https://github.com/vemonet/openroute-mcp/releases/tag/v0.0.1) - 2025-10-08
