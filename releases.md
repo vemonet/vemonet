@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->28<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->29<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[sparql-qlue-vsx](https://github.com/vemonet/sparql-qlue-vsx)**: [v0.0.1](https://github.com/vemonet/sparql-qlue-vsx/releases/tag/v0.0.1) - 2026-03-21
+<br>🫆 VSCode extension for the SPARQL query language, using the qlue‑ls language server that provides autocomplete, formatting, syntax highlighting, and integrated query execution.
 * **[datahugger-ng](https://github.com/EOSC-Data-Commons/datahugger-ng)**: [v0.1.0](https://github.com/EOSC-Data-Commons/datahugger-ng/releases/tag/v0.1.0) - 2026-01-26
 <br>blazing fast dataset downloader
 * **[ELIXIR-TrP-KG-training-metadata](https://github.com/elixir-europe-training/ELIXIR-TrP-KG-training-metadata)**: [First release - ready for testing](https://github.com/elixir-europe-training/ELIXIR-TrP-KG-training-metadata/releases/tag/v0.0.1-beta) - 2025-11-06
