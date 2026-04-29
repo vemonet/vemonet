@@ -1,6 +1,6 @@
 # Released projects
 
-All <!-- release_count starts -->29<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->30<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[sparql-qlue-vsx](https://github.com/vemonet/sparql-qlue-vsx)**: [v0.0.1](https://github.com/vemonet/sparql-qlue-vsx/releases/tag/v0.0.1) - 2026-03-21
@@ -15,6 +15,8 @@ All <!-- release_count starts -->29<!-- release_count ends --> of my released pr
 <br>🦜✨ Chat system, MCP server, and reusable components to improve LLMs capabilities when generating SPARQL queries
 * **[llm-biodata-training](https://github.com/sib-swiss/llm-biodata-training)**: [Training 2025.05](https://github.com/sib-swiss/llm-biodata-training/releases/tag/2025.05) - 2025-09-29
 <br>🧑‍🏫 SIB course on using LLM for biodata exploration
+* **[pan-finder](https://github.com/PaN-Finder/pan-finder)**: [v1.0.0-alpha.5](https://github.com/PaN-Finder/pan-finder/releases/tag/v1.0.0-alpha.5) - 2025-09-29
+<br>PaN-Finder application
 * **[sparql-examples-utils](https://github.com/vemonet/sparql-examples-utils)**: [0.0.1](https://github.com/vemonet/sparql-examples-utils/releases/tag/0.0.1) - 2025-09-24
 <br>Help maintain your SPARQL examples collection
 * **[curies.rs](https://github.com/biopragmatics/curies.rs)**: [Initial Release](https://github.com/biopragmatics/curies.rs/releases/tag/v0.1.0) - 2024-01-02
