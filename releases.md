@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->30<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->31<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[metadata-warehouse](https://github.com/EOSC-Data-Commons/metadata-warehouse)**: [v1.0.0](https://github.com/EOSC-Data-Commons/metadata-warehouse/releases/tag/v1.0.0) - 2026-05-08
+<br>Metadata Warehouse Environment
 * **[sparql-qlue-vsx](https://github.com/vemonet/sparql-qlue-vsx)**: [v0.0.1](https://github.com/vemonet/sparql-qlue-vsx/releases/tag/v0.0.1) - 2026-03-21
 <br>🫆 VSCode extension for the SPARQL query language, using the qlue‑ls language server that provides autocomplete, formatting, syntax highlighting, and integrated query execution.
 * **[datahugger-ng](https://github.com/EOSC-Data-Commons/datahugger-ng)**: [v0.1.0](https://github.com/EOSC-Data-Commons/datahugger-ng/releases/tag/v0.1.0) - 2026-01-26
