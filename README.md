@@ -39,7 +39,7 @@ Mostly working with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 * [sib-swiss/sparql-examples](https://github.com/sib-swiss/sparql-examples) - A set of SPARQL examples that are used in different SIB resources
 * [sib-swiss/sparql-editor](https://github.com/sib-swiss/sparql-editor) - 💫 A standard web component to deploy a user-friendly SPARQL query editor for one or more endpoints. Built on the popular YASGUI editor, it provides context-aware autocomplete for classes and predicates based on the content of the endpoints.
 * [rdfjs/Yasgui](https://github.com/rdfjs/Yasgui) - Yet Another Sparql GUI
-* [sib-swiss/llm-biodata-training](https://github.com/sib-swiss/llm-biodata-training) - 🧑‍🏫 SIB course on using LLM for biodata exploration
+* [biocontext-ai/registry](https://github.com/biocontext-ai/registry) - The BioContextAI Registry for biomedical MCP servers
 <!-- contributions ends -->
 
 <!-- </td></tr>
