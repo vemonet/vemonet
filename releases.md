@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->32<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->33<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[alt-tab-macos-free](https://github.com/vemonet/alt-tab-macos-free)**: [v11.4.3 Pro](https://github.com/vemonet/alt-tab-macos-free/releases/tag/v11.4.3) - 2026-07-20
+<br>Windows alt-tab on macOS, with PRO unlocked for free.
 * **[data-commons-search](https://github.com/EOSC-Data-Commons/data-commons-search)**: [v0.7.0](https://github.com/EOSC-Data-Commons/data-commons-search/releases/tag/v0.7.0) - 2026-05-22
 <br>🔭 Search server to access data from various open access data publishers
 * **[metadata-warehouse](https://github.com/EOSC-Data-Commons/metadata-warehouse)**: [v1.0.0](https://github.com/EOSC-Data-Commons/metadata-warehouse/releases/tag/v1.0.0) - 2026-05-08
