@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->33<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->34<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[alpine-mtb-map](https://github.com/vemonet/alpine-mtb-map)**: [v0.0.1](https://github.com/vemonet/alpine-mtb-map/releases/tag/v0.0.1) - 2026-08-08
+<br>🗺️ Mountain biking spots across the world
 * **[alt-tab-macos-free](https://github.com/vemonet/alt-tab-macos-free)**: [v11.4.3 Pro](https://github.com/vemonet/alt-tab-macos-free/releases/tag/v11.4.3) - 2026-07-20
 <br>Windows alt-tab on macOS, with PRO unlocked for free.
 * **[data-commons-search](https://github.com/EOSC-Data-Commons/data-commons-search)**: [v0.7.0](https://github.com/EOSC-Data-Commons/data-commons-search/releases/tag/v0.7.0) - 2026-05-22
