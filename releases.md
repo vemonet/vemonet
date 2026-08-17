@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->34<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->35<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[typodown](https://github.com/vemonet/typodown)**: [v0.0.1](https://github.com/vemonet/typodown/releases/tag/v0.0.1) - 2026-08-16
+<br>🖋️ Seamless markdown editor, open source and cross-platform (web, desktop, phone, IDEs), inspired by Typora.
 * **[alpine-mtb-map](https://github.com/vemonet/alpine-mtb-map)**: [v0.0.1](https://github.com/vemonet/alpine-mtb-map/releases/tag/v0.0.1) - 2026-08-08
 <br>🗺️ Mountain biking spots across the world
 * **[alt-tab-macos-free](https://github.com/vemonet/alt-tab-macos-free)**: [v11.4.3 Pro](https://github.com/vemonet/alt-tab-macos-free/releases/tag/v11.4.3) - 2026-07-20
