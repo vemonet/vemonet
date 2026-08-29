@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->35<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->36<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[metadata-crawlers](https://github.com/EOSC-Data-Commons/metadata-crawlers)**: [Initial release with working OAI-PMH and custom metadata harvesting](https://github.com/EOSC-Data-Commons/metadata-crawlers/releases/tag/v1.0.0) - 2026-08-28
+<br>Scripts for harvesting metadata
 * **[typodown](https://github.com/vemonet/typodown)**: [v0.0.1](https://github.com/vemonet/typodown/releases/tag/v0.0.1) - 2026-08-16
 <br>🖋️ Seamless markdown editor, open source and cross-platform (web, desktop, phone, IDEs), inspired by Typora.
 * **[alpine-mtb-map](https://github.com/vemonet/alpine-mtb-map)**: [v0.0.1](https://github.com/vemonet/alpine-mtb-map/releases/tag/v0.0.1) - 2026-08-08
