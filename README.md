@@ -32,7 +32,6 @@ Mostly working with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 <!-- contributions starts -->
 * [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) - A community driven registry service for Model Context Protocol (MCP) servers.
 * [RDFLib/rdflib](https://github.com/RDFLib/rdflib) - RDFLib is a Python library for working with RDF, a simple yet powerful language for representing information.
-* [graniet/llm](https://github.com/graniet/llm) - A powerful Rust library and CLI tool to unify and orchestrate multiple LLM, Agent and voice backends (OpenAI, Claude, Gemini, Ollama, ElevenLabs...) with a single, extensible API. Build, chain, evaluate, and serve complex multi-step AI workflows — including speech-to-text, text-to-speech, completions, vision, and reasoning.
 * [biopragmatics/bioregistry](https://github.com/biopragmatics/bioregistry) - 📮 An integrative registry of biological databases, ontologies, and nomenclatures.
 * [sib-swiss/sparql-llm](https://github.com/sib-swiss/sparql-llm) - 🦜✨ Chat system, MCP server, and reusable components to improve LLMs capabilities when generating SPARQL queries
 * [IoannisNezis/Qlue-ls](https://github.com/IoannisNezis/Qlue-ls) - A SPARQL language server
@@ -40,6 +39,7 @@ Mostly working with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 * [rdfjs/Yasgui](https://github.com/rdfjs/Yasgui) - Yet Another Sparql GUI
 * [sib-swiss/sparql-editor](https://github.com/sib-swiss/sparql-editor) - 💫 A standard web component to deploy a user-friendly SPARQL query editor for one or more endpoints. Built on the popular YASGUI editor, it provides context-aware autocomplete for classes and predicates based on the content of the endpoints.
 * [biocontext-ai/registry](https://github.com/biocontext-ai/registry) - The BioContextAI Registry for biomedical MCP servers
+* [sib-swiss/llm-biodata-training](https://github.com/sib-swiss/llm-biodata-training) - 🧑‍🏫 SIB course on using LLM for biodata exploration
 <!-- contributions ends -->
 
 <!-- </td></tr>
