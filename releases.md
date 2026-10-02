@@ -10,7 +10,7 @@ All <!-- release_count starts -->36<!-- release_count ends --> of my released pr
 * **[alpine-mtb-map](https://github.com/vemonet/alpine-mtb-map)**: [v0.0.1](https://github.com/vemonet/alpine-mtb-map/releases/tag/v0.0.1) - 2026-08-08
 <br>🗺️ Mountain biking spots across the world
 * **[alt-tab-macos-free](https://github.com/vemonet/alt-tab-macos-free)**: [v11.4.3 Pro](https://github.com/vemonet/alt-tab-macos-free/releases/tag/v11.4.3) - 2026-07-20
-<br>Windows alt-tab on macOS, with PRO unlocked for free.
+<br>Windows alt-tab on macOS, with Pro features unlocked for free.
 * **[data-commons-search](https://github.com/EOSC-Data-Commons/data-commons-search)**: [v0.7.0](https://github.com/EOSC-Data-Commons/data-commons-search/releases/tag/v0.7.0) - 2026-05-22
 <br>🔭 Search server to access data from various open access data publishers
 * **[metadata-warehouse](https://github.com/EOSC-Data-Commons/metadata-warehouse)**: [v1.0.0](https://github.com/EOSC-Data-Commons/metadata-warehouse/releases/tag/v1.0.0) - 2026-05-08
@@ -52,7 +52,7 @@ All <!-- release_count starts -->36<!-- release_count ends --> of my released pr
 * **[shacl-convert](https://github.com/vemonet/shacl-convert)**: [Initial release](https://github.com/vemonet/shacl-convert/releases/tag/0.0.1) - 2021-11-02
 <br>Convert SHACL Compact to SHACL RDF.
 * **[Emote](https://github.com/tom-james-watson/Emote)**: [v3.0.3](https://github.com/tom-james-watson/Emote/releases/tag/v3.0.3) - 2021-09-23
-<br>Emoji Picker for Linux written in GTK3
+<br>Emoji Picker for Linux written in GTK4
 * **[sparql-operations-action](https://github.com/vemonet/sparql-operations-action)**: [SPARQL Operations](https://github.com/vemonet/sparql-operations-action/releases/tag/v1) - 2021-04-12
 <br>Action to execute SPARQL operations using RDF4J
 * **[d2s-sparql-operations](https://github.com/MaastrichtU-IDS/d2s-sparql-operations)**: [Add operation to upload RDF files](https://github.com/MaastrichtU-IDS/d2s-sparql-operations/releases/tag/v0.0.2) - 2021-02-23
