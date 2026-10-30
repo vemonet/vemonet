@@ -35,7 +35,7 @@ All <!-- release_count starts -->36<!-- release_count ends --> of my released pr
 <br>🦀 Idiomatic conversion between URIs and compact URIs (CURIEs) in Rust
 * **[ptrie](https://github.com/vemonet/ptrie)**: [v0.5.1](https://github.com/vemonet/ptrie/releases/tag/v0.5.1) - 2023-12-21
 <br>🎄 Generic trie data structure (prefix tree) in Rust, with functions to search for common prefixes and postfixes
-* **[nanopub-rs](https://github.com/vemonet/nanopub-rs)**: [v0.0.1](https://github.com/vemonet/nanopub-rs/releases/tag/v0.0.1) - 2023-11-20
+* **[nanopub-rs](https://github.com/Nanopublication/nanopub-rs)**: [v0.0.1](https://github.com/Nanopublication/nanopub-rs/releases/tag/v0.0.1) - 2023-11-20
 <br>✍️ A cross-platform Rust library to sign, publish, and check Nanopublications, with bindings to Python and JS (wasm)
 * **[libre-chat](https://github.com/vemonet/libre-chat)**: [v0.0.1](https://github.com/vemonet/libre-chat/releases/tag/0.0.1) - 2023-07-30
 <br>🦙 Free and Open Source Large Language Model (LLM) chatbot web UI and API. Self-hosted, offline capable and easy to setup.

@@ -35,11 +35,11 @@ Mostly working with knowledge graphs ([RDF](https://www.w3.org/RDF/), [SPARQL](h
 * [sib-swiss/sparql-llm](https://github.com/sib-swiss/sparql-llm) - 🦜✨ Chat system, MCP server, and reusable components to improve LLMs capabilities when generating SPARQL queries
 * [qlever-dev/qlue-ls](https://github.com/qlever-dev/qlue-ls) - A SPARQL language server
 * [sib-swiss/sparql-examples](https://github.com/sib-swiss/sparql-examples) - A set of SPARQL examples that are used in different SIB resources
+* [Nanopublication/nanopub-rs](https://github.com/Nanopublication/nanopub-rs) - ✍️ A cross-platform Rust library to sign, publish, and check Nanopublications, with bindings to Python and JS (wasm)
 * [rdfjs/Yasgui](https://github.com/rdfjs/Yasgui) - Yet Another Sparql GUI
 * [sib-swiss/sparql-editor](https://github.com/sib-swiss/sparql-editor) - 💫 A standard web component to deploy a user-friendly SPARQL query editor for one or more endpoints. Built on the popular YASGUI editor, it provides context-aware autocomplete for classes and predicates based on the content of the endpoints.
 * [sib-swiss/llm-biodata-training](https://github.com/sib-swiss/llm-biodata-training) - 🧑‍🏫 SIB course on using LLM for biodata exploration
 * [biocontext-ai/registry](https://github.com/biocontext-ai/registry) - The BioContextAI Registry for biomedical MCP servers
-* [EOSC-Data-Commons/data-commons-search](https://github.com/EOSC-Data-Commons/data-commons-search) - 🔭 Search server to access data from various open access data publishers
 <!-- contributions ends -->
 
 <!-- </td></tr>
