@@ -19,7 +19,7 @@ All <!-- release_count starts -->36<!-- release_count ends --> of my released pr
 <br>🫆 VSCode extension for the SPARQL query language, using the qlue‑ls language server that provides autocomplete, formatting, syntax highlighting, and integrated query execution.
 * **[datahugger-ng](https://github.com/EOSC-Data-Commons/datahugger-ng)**: [v0.1.0](https://github.com/EOSC-Data-Commons/datahugger-ng/releases/tag/v0.1.0) - 2026-01-26
 <br>blazing fast dataset downloader
-* **[ELIXIR-TrP-KG-training-metadata](https://github.com/elixir-europe-training/ELIXIR-TrP-KG-training-metadata)**: [First release - ready for testing](https://github.com/elixir-europe-training/ELIXIR-TrP-KG-training-metadata/releases/tag/v0.0.1-beta) - 2025-11-06
+* **[ELIXIR-trainer](https://github.com/elixir-europe-training/ELIXIR-trainer)**: [First release - ready for testing](https://github.com/elixir-europe-training/ELIXIR-trainer/releases/tag/v0.0.1-beta) - 2025-11-06
 <br>None
 * **[openroute-mcp](https://github.com/vemonet/openroute-mcp)**: [v0.0.1](https://github.com/vemonet/openroute-mcp/releases/tag/v0.0.1) - 2025-10-08
 <br>🗺️ MCP server to help plan routes using OpenRouteService.org, for activities such as hiking or mountain biking
